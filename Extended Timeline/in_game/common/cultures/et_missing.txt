@@ -1,0 +1,14 @@
+﻿missing_culture = {
+	
+	language = germanic_barbarian_language
+	
+	color = map_missing
+	
+	tags = { german_gfx eastern_european_gfx european_gfx }
+
+	opinions = {	}
+	
+	culture_groups = {
+		german_group
+	}
+}

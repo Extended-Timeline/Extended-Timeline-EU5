@@ -1,0 +1,16 @@
+﻿missing_language = {
+	color = map_missing
+	family = et_missing_language_family
+
+	male_names = { }
+	female_names = { }
+	
+	dynasty_names = { }
+	
+	lowborn = {	}
+		
+	location_prefix = "location_prefix_frisian"
+
+	patronym_suffix_son = "patronym_suffix_frisian_son"
+	patronym_suffix_daughter = "patronym_suffix_frisian_daughter"
+}

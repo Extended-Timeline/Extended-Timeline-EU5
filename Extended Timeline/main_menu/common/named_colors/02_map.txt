@@ -1,5 +1,8 @@
 ﻿
 colors = {
+    # Testing/Missing
+	map_missing = rgb { 100 100 100 }
+
 	#eu4 map colors
 	map_debug = rgb { 255 0 255 }
 	map_arpitan = rgb { 235 196 231 }

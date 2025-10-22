@@ -2,127 +2,127 @@
 	color = map_ALEM
 	color2 = rgb { 200 200 20 }
 
-	culture_definition = purepecha_culture
-	religion_definition = mesoamerican
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 MARC = { #Marcomanni
 	color = map_MARC
 	color2 = rgb { 150 100 20 }
 
-	culture_definition = purepecha_culture
-	religion_definition = mesoamerican
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 QUAD = { #Quadi
 	color = map_QUAD
 	color2 = rgb { 180 180 180 }
 
-	culture_definition = purepecha_culture
-	religion_definition = mesoamerican
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 SEMN = { #Semnones
 	color = map_SEMN
 	color2 = rgb { 226 108 106 }
 
-	culture_definition = purepecha_culture
-	religion_definition = mesoamerican
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 LOMB = { #Lombardy
 	color = map_LOMB
 	color2 = rgb { 166 108 146 }
 
-	culture_definition = purepecha_culture
-	religion_definition = mesoamerican
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 VARI = { #Varisci
 	color = map_VARI
 	color2 = rgb { 110 187 61 }
 
-	culture_definition = purepecha_culture
-	religion_definition = mesoamerican
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 HERM = { #Hermunduri
 	color = map_HERM
 	color2 = rgb { 10 160 90 }
 
-	culture_definition = purepecha_culture
-	religion_definition = mesoamerican
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 CHTT = { #Chatti
 	color = map_CHTT
 	color2 = rgb { 140 40 20 }
 
-	culture_definition = purepecha_culture
-	religion_definition = mesoamerican
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 SICA = { #Sicambri
 	color = map_SICA
 	color2 = rgb { 80 80 160 }
 
-	culture_definition = purepecha_culture
-	religion_definition = mesoamerican
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 ANGR = { #Angria
 	color = map_ANGR
 	color2 = rgb { 190 190 100 }
 
-	culture_definition = purepecha_culture
-	religion_definition = mesoamerican
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 CHCI = { #Chauci
 	color = map_CHCI
 	color2 = rgb { 90 20 20 }
 
-	culture_definition = purepecha_culture
-	religion_definition = mesoamerican
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 ANGL = { #Anglia
 	color = map_ANGL
 	color2 = rgb { 130 160 190 }
 
-	culture_definition = purepecha_culture
-	religion_definition = mesoamerican
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 WARI = { #Warini
 	color = map_WARI
 	color2 = rgb { 160 160 110 }
 
-	culture_definition = purepecha_culture
-	religion_definition = mesoamerican
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 CHMV = { #Chamavi
 	color = map_CHMV
 	color2 = rgb { 190 60 40 }
 
-	culture_definition = purepecha_culture
-	religion_definition = mesoamerican
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 RUGI = { #Rugii
 	color = map_RUGI
 	color2 = rgb { 30 160 190 }
 
-	culture_definition = purepecha_culture
-	religion_definition = mesoamerican
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 NAHA = { #Nahanarvali
 	color = map_NAHA
 	color2 = rgb { 127 93 186 }
 
-	culture_definition = purepecha_culture
-	religion_definition = mesoamerican
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
