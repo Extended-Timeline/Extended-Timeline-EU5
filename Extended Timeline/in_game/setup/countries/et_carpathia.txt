@@ -2,8 +2,8 @@
 	color = map_DAC
 	color2 = rgb { 122 142 86 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	
 	unit_color0 = purple
 	unit_color1 = white
@@ -13,8 +13,8 @@ IAZY = { #Iazyges
 	color = map_IAZY
 	color2 = rgb { 36 87 101 }
 	
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	
 	unit_color0 = purple
 	unit_color1 = white
@@ -24,8 +24,8 @@ GOTI = { #Gotini
 	color = map_GOTI
 	color2 = rgb { 170 190 70 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	
 	unit_color0 = purple
 	unit_color1 = white

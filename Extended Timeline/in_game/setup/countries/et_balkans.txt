@@ -2,8 +2,8 @@
 	color = map_ODRY
 	color2 = rgb { 22 42 96 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	
 	unit_color0 = purple
 	unit_color1 = white

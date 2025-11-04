@@ -2,24 +2,24 @@
 	color = map_BOSP
 	color2 = rgb { 129 107 58 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 SARM = { #Sarmatians
 	color = map_SARM
 	color2 = rgb { 30 127 141 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 AORS = { #Aorsi
 	color = map_AORS
 	color2 = rgb { 98 90 64 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 
@@ -27,7 +27,7 @@ ALN = { #Alania
 	color = map_ALN
 	color2 = rgb { 130 167 71 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }

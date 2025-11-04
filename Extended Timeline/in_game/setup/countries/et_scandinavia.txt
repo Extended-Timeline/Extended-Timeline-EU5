@@ -2,15 +2,15 @@
 	color = map_HERU
 	color2 = rgb { 150 100 120 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 JUTE = { #Jutes
 	color = map_JUTE
 	color2 = rgb { 139 125 149 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }

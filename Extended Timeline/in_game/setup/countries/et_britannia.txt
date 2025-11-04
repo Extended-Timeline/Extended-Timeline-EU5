@@ -2,8 +2,8 @@
 	color = map_KENT
 	color2 = rgb { 33 136 134 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	
 	unit_color0 = purple
 	unit_color1 = white
@@ -13,8 +13,8 @@ ERGY = { #Atrebates
 	color = map_ERGY
 	color2 = rgb { 77 204 180 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	
 	unit_color0 = purple
 	unit_color1 = white
@@ -24,8 +24,8 @@ OSRA = { #Osraige
 	color = map_OSRA
 	color2 = rgb { 198 114 141 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	
 	unit_color0 = purple
 	unit_color1 = white
@@ -35,8 +35,8 @@ DUMN = { #Dumnonia
 	color = map_DUMN
 	color2 = rgb { 50 110 110 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	
 	unit_color0 = purple
 	unit_color1 = white
@@ -46,8 +46,8 @@ DURO = { #Durotriges
 	color = map_DURO
 	color2 = rgb { 74 186 183 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	
 	unit_color0 = purple
 	unit_color1 = white
@@ -57,8 +57,8 @@ CATU = { #Catuvellauni
 	color = map_CATU
 	color2 = rgb { 255 206 129 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	
 	unit_color0 = purple
 	unit_color1 = white
@@ -68,8 +68,8 @@ CORV = { #Cornovii
 	color = map_CORV
 	color2 = rgb { 55 110 202 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	
 	unit_color0 = purple
 	unit_color1 = white
@@ -79,8 +79,8 @@ SILU = { #Silures
 	color = map_SILU
 	color2 = rgb { 24 66 173 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	
 	unit_color0 = purple
 	unit_color1 = white
@@ -90,8 +90,8 @@ ORDO = { #Ordovices
 	color = map_ORDO
 	color2 = rgb { 134 196 193 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	
 	unit_color0 = purple
 	unit_color1 = white
@@ -101,8 +101,8 @@ CORI = { #Corieltauvi
 	color = map_CORI
 	color2 = rgb { 145 20 12 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	
 	unit_color0 = purple
 	unit_color1 = white
@@ -112,8 +112,8 @@ BRIG = { #Brigantes
 	color = map_BRIG
 	color2 = rgb { 60 120 80 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	
 	unit_color0 = purple
 	unit_color1 = white
@@ -123,8 +123,8 @@ DAMN = { #Damnonia
 	color = map_DAMN
 	color2 = rgb { 190 180 80 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	
 	unit_color0 = purple
 	unit_color1 = white
@@ -134,8 +134,8 @@ VOTA = { #Votadini
 	color = map_VOTA
 	color2 = rgb { 60 20 80 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	
 	unit_color0 = purple
 	unit_color1 = white
@@ -145,8 +145,8 @@ CALE = { #Caledonia
 	color = map_CALE
 	color2 = rgb { 180 140 100 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	
 	unit_color0 = purple
 	unit_color1 = white
@@ -156,8 +156,8 @@ TAEX = { #Taexali
 	color = map_TAEX
 	color2 = rgb { 60 20 80 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	
 	unit_color0 = purple
 	unit_color1 = white
@@ -167,8 +167,8 @@ LUGI = { #Lugia
 	color = map_LUGI
 	color2 = rgb { 80 140 100 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	
 	unit_color0 = purple
 	unit_color1 = white

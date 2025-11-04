@@ -2,8 +2,8 @@
 	color = map_IBER
 	color2 = rgb { 199 177 48 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	
 	unit_color0 = purple
 	unit_color1 = white
@@ -13,8 +13,8 @@ CALB = { #Caucasian Albania
 	color = map_CALB
 	color2 = rgb { 110 40 190 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	
 	unit_color0 = purple
 	unit_color1 = white
@@ -24,8 +24,8 @@ SIRA = { #Siraces
 	color = map_SIRA
 	color2 = rgb { 130 67 171 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	
 	unit_color0 = purple
 	unit_color1 = white

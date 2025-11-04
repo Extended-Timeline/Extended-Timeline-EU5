@@ -2,15 +2,15 @@
 	color = map_ROM
 	color2 = rgb { 167 10 100 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 COTT = { #Cotti
 	color = map_COTT
 	color2 = rgb { 30 170 180 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }

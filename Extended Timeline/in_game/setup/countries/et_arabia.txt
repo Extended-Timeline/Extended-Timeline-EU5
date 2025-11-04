@@ -2,79 +2,79 @@
 	color = map_NAB
 	color2 = rgb { 70 140 70 }
 
-	culture_definition = yemeni_culture
-	religion_definition = sunni
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	
 }
 MASC = { #Mascat
 	color = map_MASC
 	color2 = rgb { 180 60 160 }
 
-	culture_definition = yemeni_culture
-	religion_definition = sunni
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 GERR = { #Gerrha
 	color = map_GERR
 	color2 = rgb { 80 160 160 }
 
-	culture_definition = yemeni_culture
-	religion_definition = sunni
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 HADR = { #Hadramut
 	color = map_HADR
 	color2 = rgb { 16 142 49 }
 
-	culture_definition = yemeni_culture
-	religion_definition = sunni
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 QATA = { #Qataban
 	color = map_QATA_yemeni
 	color2 = rgb { 90  50  50 }
 
-	culture_definition = yemeni_culture
-	religion_definition = sunni
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 SABA = { #Saba
 	color = map_SABA
 	color2 = rgb { 190  80  40 }
 
-	culture_definition = yemeni_culture
-	religion_definition = sunni
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 MINA = { #Ma'in
 	color = map_MINA
 	color2 = rgb { 120  200  120 }
 
-	culture_definition = yemeni_culture
-	religion_definition = sunni
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 THAM = { #Thamud
 	color = map_THAM
 	color2 = rgb { 10  20  120 }
 
-	culture_definition = yemeni_culture
-	religion_definition = sunni
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 AUSA = { #Ausan
 	color = map_AUSA
 	color2 = rgb { 61  63  64 }
 
-	culture_definition = yemeni_culture
-	religion_definition = sunni
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 GURA = { #Banu Gurat
 	color = map_GURA
 	color2 = rgb { 100  0  23 }
 
-	culture_definition = yemeni_culture
-	religion_definition = sunni
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }

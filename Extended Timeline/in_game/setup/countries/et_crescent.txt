@@ -2,8 +2,8 @@
 	color = map_CHRC
 	color2 = rgb { 129 127 128 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	
 	unit_color0 = purple
 	unit_color1 = white
@@ -13,8 +13,8 @@ OSRO = { #Osroene
 	color = map_OSRO
 	color2 = rgb { 23 52 136 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	
 	unit_color0 = purple
 	unit_color1 = white
@@ -24,8 +24,8 @@ ADIA = { #Adiabene
 	color = map_ADIA
 	color2 = rgb { 73 152 76 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	
 	unit_color0 = purple
 	unit_color1 = white

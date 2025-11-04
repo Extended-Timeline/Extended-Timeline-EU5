@@ -2,23 +2,23 @@
 	color = map_VEND
 	color2 = rgb { 2 52 142 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 ANTE = { #Antes
 	color = map_ANTE
 	color2 = rgb { 200 200 150 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 BAST = { #Bastarnae
 	color = map_BAST
 	color2 = rgb { 152 92 102 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }

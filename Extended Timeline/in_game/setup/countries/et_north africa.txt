@@ -2,53 +2,53 @@
 	color = map_MAUT
 	color2 = rgb { 129 187 48 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 GAET = { #Gaetuli
 	color = map_GAET
 	color2 = rgb { 20 85 120 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 GARA = { #Garamantia
 	color = map_GARA
 	color2 = rgb { 120 205 160 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 ATLA = { #Atlas
 	color = map_ATLA
 	color2 = rgb { 255 205 120 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 SIJI = { #Sijilmasa
 	color = map_SIJI
 	color2 = rgb { 120 25 80 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 
 }
 MOOR = { #Moors
 	color = map_MOOR
 	color2 = rgb { 184 246 183 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 }
 NASA = { #Nasamones
 	color = map_NASA
 	color2 = { 200 165 120 }
 
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 }

@@ -1,856 +1,856 @@
 ABA = {
 	color = rgb { 178 165 189 }
 	color2 = rgb { 127 9 166 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 ADU = {
 	color = rgb { 117 186 9 }
 	color2 = rgb { 40 100 84 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 AHI = {
 	color = rgb { 132 109 121 }
 	color2 = rgb { 121 143 65 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 AIA = {
 	color = rgb { 95 112 67 }
 	color2 = rgb { 131 123 125 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 AIR = {
 	color = rgb { 159 206 189 }
 	color2 = rgb { 217 33 249 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 ASK = {
 	color = rgb { 241 138 19 }
 	color2 = rgb { 221 73 1 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 AYU = {
 	color = rgb { 194 3 94 }
 	color2 = rgb { 142 115 155 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 BAH = {
 	color = rgb { 181 90 125 }
 	color2 = rgb { 65 118 220 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 BAN = {
 	color = rgb { 145 214 5 }
 	color2 = rgb { 149 76 96 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 BAV = {
 	color = rgb { 192 173 146 }
 	color2 = rgb { 248 75 184 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 BEJ = {
 	color = rgb { 249 123 155 }
 	color2 = rgb { 93 159 196 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 BEL = {
 	color = rgb { 1 63 213 }
 	color2 = rgb { 82 120 118 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 BNG = {
 	color = rgb { 41 162 231 }
 	color2 = rgb { 94 80 61 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 BRI = {
 	color = rgb { 4 247 61 }
 	color2 = rgb { 130 100 72 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 CAN = {
 	color = rgb { 103 212 78 }
 	color2 = rgb { 25 240 133 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 CAT = {
 	color = rgb { 83 19 6 }
 	color2 = rgb { 11 177 124 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 CRO = {
 	color = rgb { 137 109 232 }
 	color2 = rgb { 176 65 123 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 DEC = {
 	color = rgb { 78 237 222 }
 	color2 = rgb { 73 91 247 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 DIT = {
 	color = rgb { 161 32 85 }
 	color2 = rgb { 234 78 203 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 DLH = {
 	color = rgb { 57 32 56 }
 	color2 = rgb { 200 74 136 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 DON = {
 	color = rgb { 194 134 6 }
 	color2 = rgb { 172 67 90 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 EGY = {
 	color = rgb { 151 195 230 }
 	color2 = rgb { 17 63 104 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 ENG = {
 	color = rgb { 44 165 49 }
 	color2 = rgb { 230 226 3 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 EUR = {
 	color = rgb { 23 168 11 }
 	color2 = rgb { 203 232 240 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 FKN = {
 	color = rgb { 210 104 186 }
 	color2 = rgb { 160 93 142 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 GBR = {
 	color = rgb { 92 141 149 }
 	color2 = rgb { 126 147 132 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 GBR = {
 	color = rgb { 175 229 75 }
 	color2 = rgb { 171 153 247 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 GEO = {
 	color = rgb { 243 70 163 }
 	color2 = rgb { 139 126 134 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 GER = {
 	color = rgb { 134 94 131 }
 	color2 = rgb { 157 241 105 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 GLG = {
 	color = rgb { 221 43 240 }
 	color2 = rgb { 85 11 59 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 GLH = {
 	color = rgb { 154 187 200 }
 	color2 = rgb { 207 149 114 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 GRE = {
 	color = rgb { 179 216 156 }
 	color2 = rgb { 5 123 2 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 GUJ = {
 	color = rgb { 70 41 62 }
 	color2 = rgb { 81 164 112 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 HAB = {
 	color = rgb { 28 83 29 }
 	color2 = rgb { 229 81 48 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 HAN = {
 	color = rgb { 4 204 83 }
 	color2 = rgb { 154 20 129 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 HAU = {
 	color = rgb { 74 232 164 }
 	color2 = rgb { 138 45 12 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 HIN = {
 	color = rgb { 91 180 30 }
 	color2 = rgb { 220 107 149 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 HIN = {
 	color = rgb { 145 3 221 }
 	color2 = rgb { 226 86 192 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 HOL = {
 	color = rgb { 92 141 2 }
 	color2 = rgb { 49 25 180 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 HRE = {
 	color = rgb { 5 241 24 }
 	color2 = rgb { 224 126 141 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 HUN = {
 	color = rgb { 96 142 54 }
 	color2 = rgb { 69 51 166 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 ILI = {
 	color = rgb { 102 104 23 }
 	color2 = rgb { 188 141 24 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 ILK = {
 	color = rgb { 16 219 155 }
 	color2 = rgb { 222 156 179 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 INC = {
 	color = rgb { 186 121 20 }
 	color2 = rgb { 113 10 237 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 IRA = {
 	color = rgb { 1 16 64 }
 	color2 = rgb { 8 194 54 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 IRE = {
 	color = rgb { 101 126 86 }
 	color2 = rgb { 17 235 233 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 ITA = {
 	color = rgb { 37 156 165 }
 	color2 = rgb { 247 120 99 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 JNP = {
 	color = rgb { 72 84 144 }
 	color2 = rgb { 38 4 175 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 JOE = {
 	color = rgb { 226 84 45 }
 	color2 = rgb { 127 22 153 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 JOL = {
 	color = rgb { 100 136 209 }
 	color2 = rgb { 45 12 166 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 KHM = {
 	color = rgb { 225 237 2 }
 	color2 = rgb { 160 3 208 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 KON = {
 	color = rgb { 60 154 238 }
 	color2 = rgb { 5 4 68 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 KOR = {
 	color = rgb { 62 83 212 }
 	color2 = rgb { 50 154 114 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 KRY = {
 	color = rgb { 127 107 158 }
 	color2 = rgb { 102 94 78 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 LIB = {
 	color = rgb { 70 66 63 }
 	color2 = rgb { 237 167 206 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 LIV = {
 	color = rgb { 156 243 206 }
 	color2 = rgb { 124 3 75 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 LOT = {
 	color = rgb { 180 97 2 }
 	color2 = rgb { 32 53 144 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 LVA = {
 	color = rgb { 169 83 180 }
 	color2 = rgb { 243 238 65 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 MAJ = {
 	color = rgb { 241 187 150 }
 	color2 = rgb { 169 239 171 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 MAY = {
 	color = rgb { 17 16 16 }
 	color2 = rgb { 48 168 165 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 MAZ = {
 	color = rgb { 56 5 108 }
 	color2 = rgb { 231 218 250 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 MCH = {
 	color = rgb { 63 57 106 }
 	color2 = rgb { 247 144 45 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 MEX = {
 	color = rgb { 132 234 228 }
 	color2 = rgb { 104 156 250 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 MHR = {
 	color = rgb { 71 48 8 }
 	color2 = rgb { 78 37 20 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 MLW = {
 	color = rgb { 155 115 167 }
 	color2 = rgb { 172 171 181 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 MOL = {
 	color = rgb { 233 13 83 }
 	color2 = rgb { 60 165 170 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 MOR = {
 	color = rgb { 61 114 25 }
 	color2 = rgb { 204 156 224 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 MSA = {
 	color = rgb { 220 119 226 }
 	color2 = rgb { 95 199 223 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 MSI = {
 	color = rgb { 220 136 114 }
 	color2 = rgb { 104 159 19 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 MUG = {
 	color = rgb { 193 155 103 }
 	color2 = rgb { 132 41 207 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 NED = {
 	color = rgb { 244 168 229 }
 	color2 = rgb { 191 210 119 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 NOV = {
 	color = rgb { 72 102 91 }
 	color2 = rgb { 165 170 246 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 NPL = {
 	color = rgb { 161 27 62 }
 	color2 = rgb { 79 146 45 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 NPV = {
 	color = rgb { 245 127 110 }
 	color2 = rgb { 195 187 105 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 PLC = {
 	color = rgb { 129 237 22 }
 	color2 = rgb { 21 130 79 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 POL = {
 	color = rgb { 36 206 149 }
 	color2 = rgb { 62 241 55 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 POM = {
 	color = rgb { 224 184 203 }
 	color2 = rgb { 15 150 76 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 PRU = {
 	color = rgb { 1 134 29 }
 	color2 = rgb { 135 211 55 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 PRY = {
 	color = rgb { 160 16 21 }
 	color2 = rgb { 206 3 201 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 PUN = {
 	color = rgb { 116 216 220 }
 	color2 = rgb { 53 192 102 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 QNG = {
 	color = rgb { 143 198 19 }
 	color2 = rgb { 117 51 93 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 RJP = {
 	color = rgb { 168 43 144 }
 	color2 = rgb { 18 23 5 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 RMN = {
 	color = rgb { 245 243 167 }
 	color2 = rgb { 83 71 167 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 ROM = {
 	color = rgb { 75 175 109 }
 	color2 = rgb { 161 234 76 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 RUM = {
 	color = rgb { 38 173 43 }
 	color2 = rgb { 78 220 191 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 RUS = {
 	color = rgb { 108 144 123 }
 	color2 = rgb { 87 149 49 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 RYU = {
 	color = rgb { 10 187 25 }
 	color2 = rgb { 239 205 165 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 RZW = {
 	color = rgb { 185 77 191 }
 	color2 = rgb { 13 222 178 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 SAR = {
 	color = rgb { 100 149 44 }
 	color2 = rgb { 215 78 183 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 SAX = {
 	color = rgb { 160 89 29 }
 	color2 = rgb { 3 188 23 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 SCA = {
 	color = rgb { 166 132 223 }
 	color2 = rgb { 92 171 135 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 SHA = {
 	color = rgb { 175 73 195 }
 	color2 = rgb { 221 4 86 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 SIA = {
 	color = rgb { 219 110 175 }
 	color2 = rgb { 11 233 196 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 SIL = {
 	color = rgb { 243 79 171 }
 	color2 = rgb { 223 115 249 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 SPA = {
 	color = rgb { 239 185 85 }
 	color2 = rgb { 68 179 1 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 SWA = {
 	color = rgb { 122 106 36 }
 	color2 = rgb { 215 162 112 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 SWE = {
 	color = rgb { 28 119 60 }
 	color2 = rgb { 153 43 72 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 TRT = {
 	color = rgb { 140 209 1 }
 	color2 = rgb { 104 187 8 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 TRU = {
 	color = rgb { 243 233 26 }
 	color2 = rgb { 144 113 174 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 TUS = {
 	color = rgb { 138 225 34 }
 	color2 = rgb { 55 69 45 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 TWS = {
 	color = rgb { 60 188 83 }
 	color2 = rgb { 127 165 82 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 UKR = {
 	color = rgb { 148 49 237 }
 	color2 = rgb { 35 119 177 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 USA = {
 	color = rgb { 2 129 11 }
 	color2 = rgb { 52 72 197 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 WAI = {
 	color = rgb { 203 103 174 }
 	color2 = rgb { 227 58 108 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 WES = {
 	color = rgb { 242 17 179 }
 	color2 = rgb { 80 179 73 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 XHO = {
 	color = rgb { 143 244 11 }
 	color2 = rgb { 178 236 79 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
 YEM = {
 	color = rgb { 107 146 144 }
 	color2 = rgb { 169 84 82 }
-	culture_definition = swedish
-	religion_definition = catholic
+	culture_definition = missing_culture
+	religion_definition = missing_religion
 	description_category = diplomatic
 	difficulty = 2
 }
