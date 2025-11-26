@@ -2,18 +2,15 @@
     "name" : "Extended Timeline",
     "id" : "com.extendedtimeline.etmain",
     "version" : "0.1",
-    "game_id" : "caesar",
+    "game_id" : "eu5",
     "supported_game_version" : "0.9.*",
     "short_description" : "Main Extended Timeline mod",
     "tags" : [],
     "relationships" : [],
     "game_custom_data" : {
         "replace_paths" : [
-			"loading_screen/common/defines",
-			"main_menu/setup/start",
-			"in_game/setup/countries",
-			"main_menu/common/named_colors",
-			"main_menu/localization/english"
-		]
+            "main_menu/common/defines",
+            "main_menu/setup/start"
+        ]
     }
 }

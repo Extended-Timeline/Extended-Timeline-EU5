@@ -1,0 +1,47 @@
+﻿#unified pre-split muslim religion
+islam = {
+	religion_sunni
+	group = muslim
+	language = classical_arabic_dialect
+	
+	religious_school = ismaili_school	
+	religious_school = jafari_school
+	religious_school = zaidi_school
+	
+	religious_school = imamiya_school
+	religious_school = nizari_school
+	religious_school = mustali_school
+	religious_school = alevism_school
+	religious_school = alawi_school
+	
+	religious_school = bektashi_school
+	religious_school = khalwati_school
+	religious_school = mevlevi_school
+	religious_school = safavid_school
+	religious_school = shadhili_school
+	religious_school = suhrawardi_school
+	religious_school = din_i_ilahi_school
+	religious_school = isawiyya_school
+
+	definition_modifier = {
+		land_morale_modifier = 0.05
+
+		allow_mysticism_vs_jurisprudence = yes
+
+		ban_imports_of_wine = yes
+		ban_imports_of_beer = yes
+		ban_imports_of_liquor = yes
+
+		number_of_allowed_religious_figures = 1
+	}
+	opinions = {
+		catholic = enemy
+	}
+	unique_names = {
+		name_muhammad
+	}
+	tags = { muslim_gfx abrahamic_gfx }
+}
+
+
+

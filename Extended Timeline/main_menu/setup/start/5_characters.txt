@@ -1,0 +1,5162 @@
+#Remember to write sons and daughters ALWAYS after their parents to avoid crashes
+
+character_db={
+	adia_izates_i_bar_monobaz = {
+		first_name = { name = izates }
+		dynasty = bar_monobaz_dynasty
+		adm = 45
+		dip = 60
+		mil = 60
+		birth_date = -27.1.1
+		death_date = 20.1.1
+		birth = mosul
+		culture = assyrian
+		religion = ashurism
+		tag = ADIA
+	}
+	adul_zoskales_adulis = {
+		first_name = { name = zoskales }
+		dynasty = adulis_dynasty
+		adm = 30
+		dip = 30
+		mil = 15
+		birth_date = -27.1.1
+		birth = massawa
+		culture = tigrinya
+		religion = south_arabian
+		tag = ADUL
+	}
+	aila_ailao_ailao = {
+		first_name = { name = ailao }
+		dynasty = ailao_dynasty
+		adm = 60
+		dip = 30
+		mil = 45
+		birth_date = -27.1.1
+		death_date = 52.1.1
+		birth = tengchong
+		culture = khon_muang_culture
+		religion = satsana_phi
+		tag = AILA
+	}
+	aksm_za_zalis_solomonid = {
+		first_name = { name = za_zalis }
+		dynasty = solomonid_dynasty
+		adm = 30
+		dip = 45
+		mil = 15
+		birth_date = -27.1.1
+		death_date = 50.1.1
+		birth = axum
+		culture = tigrinya
+		religion = south_arabian
+		tag = AKSM
+	}
+	aln_spadines_aorsi = {
+		first_name = { name = spadines }
+		dynasty = aorsi_dynasty
+		adm = 30
+		dip = 15
+		mil = 45
+		birth_date = -27.1.1
+		death_date = 30.1.1
+		birth = karcha_kala
+		culture = alan_culture
+		religion = tengri
+		tag = ALN
+	}
+	ark_thurinda_danyawaddy = {
+		first_name = { name = thurinda }
+		dynasty = danyawaddy_dynasty
+		adm = 60
+		dip = 30
+		mil = 45
+		birth_date = -27.1.1
+		death_date = 15.1.1
+		birth = launggyet
+		culture = rakhine_culture
+		religion = mahayana
+		tag = ARK
+	}
+	arm_ariobarzanes_of_atropatene = {
+		first_name = { name = ariobarzanes }
+		dynasty = of_atropatene_dynasty
+		adm = 60
+		dip = 45
+		mil = 45
+		birth_date = -27.1.1
+		death_date = 4.1.1
+		birth = yerevan
+		culture = armenian_culture
+		religion = armenian_religion
+		tag = ARM
+	}
+	ay00_ay_antiran_ay = {
+		first_name = { name = ay_antiran }
+		dynasty = ay_dynasty
+		adm = 45
+		dip = 45
+		mil = 60
+		birth_date = -27.1.1
+		birth = kollam
+		culture = malayali
+		religion = hindu
+		tag = AY00
+	}
+	bact_sapadbizes_bactrian = {
+		first_name = { name = sapadbizes }
+		dynasty = bactrian_dynasty
+		adm = 45
+		dip = 30
+		mil = 45
+		birth_date = -27.1.1
+		birth = balkh
+		culture = afghan_culture
+		religion = mahayana
+		tag = BACT
+	}
+	baek_onjo_baekje = {
+		first_name = { name = onjo }
+		dynasty = baekje_dynasty
+		adm = 45
+		dip = 30
+		mil = 60
+		birth_date = -27.1.1
+		death_date = 29.1.1
+		birth = namgyeong
+		culture = korean_culture
+		religion = muism
+		tag = BAEK
+	}
+	ben_igodo_igodomigodo = {
+		first_name = { name = igodo }
+		dynasty = igodomigodo_dynasty
+		adm = 45
+		dip = 15
+		mil = 0
+		birth_date = -27.1.1
+		death_date = 16.1.1
+		birth = benin
+		culture = edo
+		religion = bantu_religion
+		tag = BEN
+	}
+	bosp_aspurgus_i_bosporan = {
+		first_name = { name = aspurgus }
+		dynasty = bosporan_dynasty
+		adm = 30
+		dip = 45
+		mil = 60
+		birth_date = -27.1.1
+		death_date = 38.1.1
+		birth = kaffa
+		culture = pontic_greek_culture
+		religion = hellenism_religion
+		tag = BOSP
+	}
+	cald_metallanus_caledonian = {
+		first_name = { name = metallanus }
+		dynasty = caledonian_dynasty
+		adm = 60
+		dip = 45
+		mil = 60
+		birth_date = -27.1.1
+		death_date = 50.1.1
+		birth = inverness
+		culture = pictish
+		religion = druidism
+		tag = CALD
+	}
+	capp_archelaus_archelaid = {
+		first_name = { name = archelaus }
+		dynasty = archelaid_dynasty
+		adm = 60
+		dip = 45
+		mil = 60
+		birth_date = -27.1.1
+		birth = kayseri
+		culture = cappadocian_greek_culture
+		religion = hellenism_religion
+		tag = CAPP
+	}
+	catu_tasciovanus_catuvellauni = {
+		first_name = { name = tasciovanus }
+		dynasty = catuvellauni_dynasty
+		adm = 30
+		dip = 45
+		mil = 15
+		birth_date = -27.1.1
+		death_date = 9.1.1
+		birth = oxford
+		culture = briton
+		religion = druidism
+		tag = CATU
+	}
+	ceyl_bhatikabhaya_abhaya_vijaya = {
+		first_name = { name = bhatikabhaya_abhaya }
+		dynasty = vijaya_dynasty
+		adm = 15
+		dip = 45
+		mil = 0
+		birth_date = -27.1.1
+		death_date = 9.1.1
+		birth = kotte
+		culture = sinhalese
+		religion = theravada
+		tag = CEYL
+	}
+	cher_uthiyan_cheralathan_vanavaramban = {
+		first_name = { name = uthiyan_cheralathan }
+		dynasty = vanavaramban_dynasty
+		adm = 60
+		dip = 75
+		mil = 0
+		birth_date = -27.1.1
+		birth = ponnani
+		culture = malayali
+		religion = hindu
+		tag = CHER
+	}
+	chol_aai_vaenalangilli_chola = {
+		first_name = { name = aai_vaenalangilli }
+		dynasty = chola_dynasty
+		adm = 45
+		dip = 45
+		mil = 30
+		birth_date = -27.1.1
+		death_date = 10.1.1
+		birth = pondicherry
+		culture = tamil
+		religion = hindu
+		tag = CHOL
+	}
+	chrc_attambelos_ii_hyspaosinid = {
+		first_name = { name = attambelos }
+		dynasty = hyspaosinid_dynasty
+		adm = 15
+		dip = 15
+		mil = 60
+		birth_date = -27.1.1
+		death_date = 10.1.1
+		birth = abdas
+		culture = iraqi_culture
+		religion = hellenism_religion
+		tag = CHRC
+	}
+	chrs_sigimer_cherusci = {
+		first_name = { name = sigimer }
+		dynasty = cherusci_dynasty
+		adm = 30
+		dip = 30
+		mil = 45
+		birth_date = -27.1.1
+		death_date = 9.1.1
+		birth = paderborn
+		culture = rhine_franconian
+		religion = germanic
+		tag = CHRS
+	}
+	chtt_adgandestrius_chatti = {
+		first_name = { name = adgandestrius }
+		dynasty = chatti_dynasty
+		adm = 45
+		dip = 30
+		mil = 45
+		birth_date = -27.1.1
+		birth = marburg
+		culture = rhine_franconian
+		religion = germanic
+		tag = CHTT
+	}
+	comm_antiochus_iii_orontid = {
+		first_name = { name = antiochus }
+		dynasty = orontid_dynasty
+		adm = 45
+		dip = 30
+		mil = 30
+		birth_date = -27.1.1
+		death_date = 38.1.1
+		birth = malatya
+		culture = armenian_culture
+		religion = hellenism_religion
+		tag = COMM
+	}
+	cord_praetavi_praetavi = {
+		first_name = { name = praetavi }
+		dynasty = praetavi_dynasty
+		adm = 15
+		dip = 15
+		mil = 15
+		birth_date = -27.1.1
+		death_date = 50.1.1
+		birth = bitlis
+		culture = kurdish_culture
+		religion = ashurism
+		tag = CORD
+	}
+	cori_dumnocoveros_corieltauvi = {
+		first_name = { name = dumnocoveros }
+		dynasty = corieltauvi_dynasty
+		adm = 30
+		dip = 30
+		mil = 30
+		birth_date = -27.1.1
+		death_date = 30.1.1
+		birth = leicester
+		culture = briton
+		religion = druidism
+		tag = CORI
+	}
+	corv_virico_cornovii = {
+		first_name = { name = virico }
+		dynasty = cornovii_dynasty
+		adm = 45
+		dip = 30
+		mil = 30
+		birth_date = -27.1.1
+		birth = shrewsbury
+		culture = briton
+		religion = druidism
+		tag = CORV
+	}
+	cott_donnus_cottii = {
+		first_name = { name = donnus }
+		dynasty = cottii_dynasty
+		adm = 45
+		dip = 60
+		mil = 30
+		birth_date = -27.1.1
+		death_date = 20.1.1
+		birth = saluzzo
+		culture = gallian
+		religion = druidism
+		tag = COTT
+	}
+	daci_comosicus_dacian = {
+		first_name = { name = comosicus }
+		dynasty = dacian_dynasty
+		adm = 45
+		dip = 30
+		mil = 45
+		birth_date = -27.1.1
+		death_date = 30.1.1
+		birth = alba_iulia
+		culture = dacian
+		religion = zamolxism
+		tag = DACI
+	}
+	dbuy_hae_daeso_dongbuyeo = {
+		first_name = { name = hae_daeso }
+		dynasty = dongbuyeo_dynasty
+		adm = 30
+		dip = 60
+		mil = 30
+		birth_date = -27.1.1
+		death_date = 22.1.1
+		birth = yongmingcheng
+		culture = buyeo
+		religion = muism
+		tag = DBUY
+	}
+	dje_tacfarinas_musulami = {
+		first_name = { name = tacfarinas }
+		dynasty = musulami_dynasty
+		adm = 45
+		dip = 45
+		mil = 60
+		birth_date = -27.1.1
+		birth = gafsa
+		culture = zenati
+		religion = bantu_religion
+		tag = DJE
+	}
+	elym_kamnaskires_viii_kamnaskirid = {
+		first_name = { name = kamnaskires }
+		dynasty = kamnaskirid_dynasty
+		adm = 45
+		dip = 45
+		mil = 30
+		birth_date = -27.1.1
+		death_date = 15.1.1
+		birth = hoveyzeh
+		culture = khuzi
+		religion = zoroastrian
+		tag = ELYM
+	}
+	ergy_tincomarus_atrebate = {
+		first_name = { name = tincomarus }
+		dynasty = atrebate_dynasty
+		adm = 30
+		dip = 45
+		mil = 30
+		birth_date = -27.1.1
+		death_date = 8.1.1
+		birth = bristol
+		culture = briton
+		religion = druidism
+		tag = ERGY
+	}
+	funa_som_somvong = {
+		first_name = { name = som }
+		dynasty = somvong_dynasty
+		adm = 45
+		dip = 30
+		mil = 60
+		birth_date = -27.1.1
+		birth = vyadhapura
+		culture = khmer_culture
+		religion = hindu
+		tag = FUNA
+	}
+	gand_zeionises_indo_scythian = {
+		first_name = { name = zeionises }
+		dynasty = indo_scythian_dynasty
+		adm = 30
+		dip = 15
+		mil = 15
+		birth_date = -27.1.1
+		birth = chakwal
+		culture = punjabi
+		religion = hindu
+		tag = GAND
+	}
+	gogu_yuri_go = {
+		first_name = { name = yuri }
+		dynasty = go_dynasty
+		adm = 45
+		dip = 30
+		mil = 45
+		birth_date = -27.1.1
+		death_date = 18.1.1
+		birth = hetu_ala
+		culture = korean_culture
+		religion = muism
+		tag = GOGU
+	}
+	goth_gothus_goth = {
+		first_name = { name = gothus }
+		dynasty = goth_dynasty
+		adm = 75
+		dip = 60
+		mil = 60
+		birth_date = -27.1.1
+		death_date = 50.1.1
+		birth = gniew
+		culture = gothic
+		religion = germanic
+		tag = GOTH
+	}
+	gumo_cheng_gumo = {
+		first_name = { name = cheng }
+		dynasty = gumo_dynasty
+		adm = 30
+		dip = 30
+		mil = 45
+		birth_date = -27.1.1
+		death_date = 21.1.1
+		birth = aksu
+		culture = tocharian
+		religion = mahayana
+		tag = GUMO
+	}
+	han0_kan_liu = {
+		first_name = { name = kan }
+		dynasty = liu_dynasty
+		adm = 0
+		dip = 0
+		mil = 0
+		birth_date = -27.1.1
+		death_date = 6.2.3
+		birth = jingzhao
+		culture = zhongyuan_culture
+		religion = sanjiao
+		tag = HAN0
+	}
+	herm_vibilius_hermunduri = {
+		first_name = { name = vibilius }
+		dynasty = hermunduri_dynasty
+		adm = 60
+		dip = 45
+		mil = 75
+		birth_date = -27.1.1
+		birth = erfurt
+		culture = east_franconian
+		religion = germanic
+		tag = HERM
+	}
+	heru_vislaus_heruli = {
+		first_name = { name = vislaus }
+		dynasty = heruli_dynasty
+		adm = 75
+		dip = 60
+		mil = 45
+		birth_date = -27.1.1
+		death_date = 55.1.1
+		birth = malmo
+		culture = scanian
+		religion = norse
+		tag = HERU
+	}
+	himy_zamir_ali_bayin_iii_himyar = {
+		first_name = { name = zamir_ali_bayin }
+		dynasty = himyar_dynasty
+		adm = 30
+		dip = 60
+		mil = 30
+		birth_date = -27.1.1
+		death_date = 30.1.1
+		birth = al_mukha
+		culture = yemeni_culture
+		religion = south_arabian
+		tag = HIMY
+	}
+	hota_yulin_khotan = {
+		first_name = { name = yulin }
+		dynasty = khotan_dynasty
+		adm = 30
+		dip = 15
+		mil = 30
+		birth_date = -27.1.1
+		birth = khotan
+		culture = saka
+		religion = mahayana
+		tag = HOTA
+	}
+	iber_pharasmanes_i_pharnavazid = {
+		first_name = { name = pharasmanes }
+		dynasty = pharnavazid_dynasty
+		adm = 60
+		dip = 75
+		mil = 75
+		birth_date = -27.1.1
+		birth = tbilisi
+		culture = georgian_culture
+		religion = georgian_religion
+		tag = IBER
+	}
+	icen_prasutagus_iceni = {
+		first_name = { name = prasutagus }
+		dynasty = iceni_dynasty
+		adm = 45
+		dip = 45
+		mil = 45
+		birth_date = -27.1.1
+		birth = norwich
+		culture = briton
+		religion = druidism
+		tag = ICEN
+	}
+	ingr_strato_ii_euthydemus = {
+		first_name = { name = strato }
+		dynasty = euthydemus_dynasty
+		adm = 60
+		dip = 60
+		mil = 30
+		birth_date = -27.1.1
+		birth = sialkot
+		culture = bactrian
+		religion = hellenism_religion
+		tag = INGR
+	}
+	ipar_sarpedones_suren = {
+		first_name = { name = sarpedones }
+		dynasty = suren_dynasty
+		adm = 45
+		dip = 60
+		mil = 30
+		birth_date = -27.1.1
+		death_date = 20.1.1
+		birth = peshawar
+		culture = punjabi
+		religion = zoroastrian
+		tag = IPAR
+	}
+	jhar_madra_munda_naga = {
+		first_name = { name = madra_munda }
+		dynasty = naga_dynasty
+		adm = 60
+		dip = 45
+		mil = 30
+		birth_date = -27.1.1
+		birth = ranchi
+		culture = magahi
+		religion = hindu
+		tag = JHAR
+	}
+	jude_herod_archelaus_herodian = {
+		first_name = { name = herod_archelaus }
+		dynasty = herodian_dynasty
+		adm = 60
+		dip = 45
+		mil = 45
+		birth_date = -27.1.1
+		birth = jerusalem
+		culture = samaritan_culture
+		religion = hellenism_religion
+		tag = JUDE
+	}
+	jute_teutobachus_cimbri = {
+		first_name = { name = teutobachus }
+		dynasty = cimbri_dynasty
+		adm = 45
+		dip = 15
+		mil = 60
+		birth_date = -27.1.1
+		birth = ringkobing
+		culture = jute
+		religion = norse
+		tag = JUTE
+	}
+	kads_diraja_kandis = {
+		first_name = { name = diraja }
+		dynasty = kandis_dynasty
+		adm = 45
+		dip = 45
+		mil = 60
+		birth_date = -27.1.1
+		birth = siak
+		culture = malay_culture
+		religion = mahayana
+		tag = KADS
+	}
+	kali_vaduka_mahameghavahana = {
+		first_name = { name = vaduka }
+		dynasty = mahameghavahana_dynasty
+		adm = 75
+		dip = 30
+		mil = 0
+		birth_date = -27.1.1
+		death_date = 50.1.1
+		birth = kalinganagara
+		culture = orissan
+		religion = jain
+		tag = KALI
+	}
+	kara_shun_karasahr = {
+		first_name = { name = shun }
+		dynasty = karasahr_dynasty
+		adm = 45
+		dip = 15
+		mil = 30
+		birth_date = -27.1.1
+		birth = beshbalik
+		culture = tocharian
+		religion = mahayana
+		tag = KARA
+	}
+	kent_vodenos_cantiaci = {
+		first_name = { name = vodenos }
+		dynasty = cantiaci_dynasty
+		adm = 30
+		dip = 45
+		mil = 30
+		birth_date = -27.1.1
+		death_date = 15.1.1
+		birth = canterbury
+		culture = briton
+		religion = druidism
+		tag = KENT
+	}
+	khwa_farasman_siyavushid = {
+		first_name = { name = farasman }
+		dynasty = siyavushid_dynasty
+		adm = 30
+		dip = 75
+		mil = 30
+		birth_date = -27.1.1
+		death_date = 50.1.1
+		birth = urgench
+		culture = khwarezmian
+		religion = zoroastrian
+		tag = KHWA
+	}
+	ksh_sandhimati_kashmiri = {
+		first_name = { name = sandhimati }
+		dynasty = kashmiri_dynasty
+		adm = 30
+		dip = 30
+		mil = 45
+		birth_date = -27.1.1
+		death_date = 25.1.1
+		birth = srinagar
+		culture = kashmiri_culture
+		religion = mahayana
+		tag = KSH
+	}
+	kuni_amoghbhuti_kuninda = {
+		first_name = { name = amoghbhuti }
+		dynasty = kuninda_dynasty
+		adm = 45
+		dip = 30
+		mil = 15
+		birth_date = -27.1.1
+		birth = champavati
+		culture = garhwali
+		religion = mahayana
+		tag = KUNI
+	}
+	kush_heraios_kushan = {
+		first_name = { name = heraios }
+		dynasty = kushan_dynasty
+		adm = 45
+		dip = 30
+		mil = 45
+		birth_date = -27.1.1
+		death_date = 30.1.1
+		birth = kabul
+		culture = afghan_culture
+		religion = mahayana
+		tag = KUSH
+	}
+	lei_cormac_gealta_gaoth_laigin = {
+		first_name = { name = cormac_gealta_gaoth }
+		dynasty = laigin_dynasty
+		adm = 30
+		dip = 45
+		mil = 30
+		birth_date = -27.1.1
+		death_date = 40.1.1
+		birth = wexford
+		culture = irish
+		religion = druidism
+		tag = LEI
+	}
+	lomb_ibo_lombard = {
+		first_name = { name = ibo }
+		dynasty = lombard_dynasty
+		adm = 30
+		dip = 30
+		mil = 15
+		birth_date = -27.1.1
+		death_date = 50.1.1
+		birth = magdeburg
+		culture = langobardi
+		religion = germanic
+		tag = LOMB
+	}
+	lwa_sangkhadeo_bazdeo = {
+		first_name = { name = sangkhadeo }
+		dynasty = bazdeo_dynasty
+		adm = 15
+		dip = 45
+		mil = 60
+		birth_date = -27.1.1
+		death_date = 40.1.1
+		birth = vijayapur
+		culture = newar_culture
+		religion = mahayana
+		tag = LWA
+	}
+	marc_maroboduus_marcomanni = {
+		first_name = { name = maroboduus }
+		dynasty = marcomanni_dynasty
+		adm = 30
+		dip = 75
+		mil = 45
+		birth_date = -27.1.1
+		death_date = 18.1.1
+		birth = plzen
+		culture = southern_bavarian
+		religion = germanic
+		tag = MARC
+	}
+	maut_juba_ii_massylii = {
+		first_name = { name = juba }
+		dynasty = massylii_dynasty
+		adm = 45
+		dip = 60
+		mil = 30
+		birth_date = -27.1.1
+		death_date = 23.1.1
+		birth = fez
+		culture = zenati
+		religion = hellenism_religion
+		tag = MAUT
+	}
+	mero_natamakani_meroe = {
+		first_name = { name = natamakani }
+		dynasty = meroe_dynasty
+		adm = 60
+		dip = 30
+		mil = 45
+		birth_date = -27.1.1
+		death_date = 20.1.1
+		birth = shendi
+		culture = kushite
+		religion = egyptian
+		tag = MERO
+	}
+	mina_abkarib_iii_minaean = {
+		first_name = { name = abkarib }
+		dynasty = minaean_dynasty
+		adm = 45
+		dip = 60
+		mil = 30
+		birth_date = -27.1.1
+		death_date = 20.1.1
+		birth = abha
+		culture = yemeni_culture
+		religion = south_arabian
+		tag = MINA
+	}
+	naba_aretas_iv_nabataean = {
+		first_name = { name = aretas }
+		dynasty = nabataean_dynasty
+		adm = 60
+		dip = 60
+		mil = 45
+		birth_date = -27.1.1
+		death_date = 40.1.1
+		birth = maan
+		culture = nabataean_culture
+		religion = nabataean
+		tag = NABA
+	}
+	nsat_hagana_indo_scythian = {
+		first_name = { name = hagana }
+		dynasty = indo_scythian_dynasty
+		adm = 45
+		dip = 15
+		mil = 30
+		birth_date = -27.1.1
+		death_date = 10.1.1
+		birth = agra
+		culture = punjabi
+		religion = mahayana
+		tag = NSAT
+	}
+	odry_rhoemetalces_i_sapaean = {
+		first_name = { name = rhoemetalces }
+		dynasty = sapaean_dynasty
+		adm = 60
+		dip = 45
+		mil = 15
+		birth_date = -27.1.1
+		death_date = 12.1.1
+		birth = tarnovo
+		culture = thracian
+		religion = zamolxism
+		tag = ODRY
+	}
+	osra_iar_dal_birn = {
+		first_name = { name = iar }
+		dynasty = dal_birn_dynasty
+		adm = 15
+		dip = 15
+		mil = 30
+		birth_date = -27.1.1
+		death_date = 20.1.1
+		birth = waterford
+		culture = irish
+		religion = druidism
+		tag = OSRA
+	}
+	osro_abgar_v_abgarid = {
+		first_name = { name = abgar }
+		dynasty = abgarid_dynasty
+		adm = 30
+		dip = 30
+		mil = 45
+		birth_date = -27.1.1
+		death_date = 7.1.1
+		birth = urfa
+		culture = syriac_culture
+		religion = ashurism
+		tag = OSRO
+	}
+	padm_vangara_naga = {
+		first_name = { name = vangara }
+		dynasty = naga_dynasty
+		adm = 30
+		dip = 30
+		mil = 0
+		birth_date = -27.1.1
+		death_date = 50.1.1
+		birth = gwalior
+		culture = bundeli
+		religion = hindu
+		tag = PADM
+	}
+	panc_indramitra_panchala = {
+		first_name = { name = indramitra }
+		dynasty = panchala_dynasty
+		adm = 30
+		dip = 30
+		mil = 30
+		birth_date = -27.1.1
+		death_date = 50.1.1
+		birth = bareilly
+		culture = awadhi
+		religion = hindu
+		tag = PANC
+	}
+	part_phraates_v_arsacid = {
+		first_name = { name = phraates }
+		dynasty = arsacid_dynasty
+		adm = 45
+		dip = 45
+		mil = 60
+		birth_date = -27.1.1
+		death_date = 4.1.1
+		birth = baghdad
+		culture = parthian
+		religion = zoroastrian
+		tag = PART
+	}
+	pess_pakor_i_bazarangid = {
+		first_name = { name = pakor }
+		dynasty = bazarangid_dynasty
+		adm = 15
+		dip = 75
+		mil = 30
+		birth_date = -27.1.1
+		death_date = 20.1.1
+		birth = shiraz
+		culture = farsi_culture
+		religion = zoroastrian
+		tag = PESS
+	}
+	pont_pythodorida_i_pythodoros = {
+		first_name = { name = pythodorida }
+		dynasty = pythodoros_dynasty
+		adm = 45
+		dip = 60
+		mil = 30
+		birth_date = -27.1.1
+		death_date = 38.1.1
+		birth = amasya
+		culture = pontic_greek_culture
+		religion = hellenism_religion
+		tag = PONT
+	}
+	puzh_chutukulananda_chutu = {
+		first_name = { name = chutukulananda }
+		dynasty = chutu_dynasty
+		adm = 0
+		dip = 60
+		mil = 15
+		birth_date = -27.1.1
+		birth = darwar
+		culture = tamil
+		religion = hindu
+		tag = PUZH
+	}
+	pyu0_papiyan_sri_ksetra = {
+		first_name = { name = papiyan }
+		dynasty = sri_ksetra_dynasty
+		adm = 15
+		dip = 30
+		mil = 15
+		birth_date = -27.1.1
+		death_date = 7.1.1
+		birth = taungoo
+		culture = pyu
+		religion = theravada
+		tag = PYU0
+	}
+	qatb_wahab_il_yahiz_ii_qataban = {
+		first_name = { name = wahab_il_yahiz }
+		dynasty = qataban_dynasty
+		adm = 45
+		dip = 15
+		mil = 45
+		birth_date = -27.1.1
+		death_date = 40.1.1
+		birth = al_mukalla
+		culture = yemeni_culture
+		religion = south_arabian
+		tag = QATB
+	}
+	quad_tudrus_quadi = {
+		first_name = { name = tudrus }
+		dynasty = quadi_dynasty
+		adm = 45
+		dip = 60
+		mil = 30
+		birth_date = -27.1.1
+		death_date = 25.1.1
+		birth = hradiste
+		culture = quadian
+		religion = germanic
+		tag = QUAD
+	}
+	raja_bhatikabhaya_abhaya_vijaya = {
+		first_name = { name = bhatikabhaya_abhaya }
+		dynasty = vijaya_dynasty
+		adm = 15
+		dip = 45
+		mil = 0
+		birth_date = -27.1.1
+		death_date = 9.1.1
+		birth = jaffna
+		culture = sinhalese
+		religion = theravada
+		tag = RAJA
+	}
+	rom_augustus_julio_claudian = {
+		first_name = { name = augustus }
+		dynasty = julio_claudian_dynasty
+		adm = 60
+		dip = 45
+		mil = 45
+		birth_date = -27.1.1
+		death_date = 14.9.18
+		birth = rome
+		culture = roman
+		religion = hellenism_religion
+		tag = ROM
+	}
+	sata_riktavarna_satavahana = {
+		first_name = { name = riktavarna }
+		dynasty = satavahana_dynasty
+		adm = 30
+		dip = 30
+		mil = 45
+		birth_date = -27.1.1
+		death_date = 20.1.1
+		birth = ahmednagar
+		culture = telugu
+		religion = hindu
+		tag = SATA
+	}
+	sax_vegdegg_odinson = {
+		first_name = { name = vegdegg }
+		dynasty = odinson_dynasty
+		adm = 30
+		dip = 30
+		mil = 60
+		birth_date = -27.1.1
+		birth = hamburg
+		culture = saxon
+		religion = germanic
+		tag = SAX
+	}
+	semn_veleda_semnone = {
+		first_name = { name = veleda }
+		dynasty = semnone_dynasty
+		adm = 30
+		dip = 45
+		mil = 30
+		birth_date = -27.1.1
+		death_date = 50.1.1
+		birth = wittenberg
+		culture = east_franconian
+		religion = germanic
+		tag = SEMN
+	}
+	shan_an_shanshan = {
+		first_name = { name = an }
+		dynasty = shanshan_dynasty
+		adm = 15
+		dip = 60
+		mil = 0
+		birth_date = -27.1.1
+		death_date = 40.1.1
+		birth = charklik
+		culture = tocharian
+		religion = mahayana
+		tag = SHAN
+	}
+	shul_cheng_shule = {
+		first_name = { name = cheng }
+		dynasty = shule_dynasty
+		adm = 45
+		dip = 30
+		mil = 30
+		birth_date = -27.1.1
+		birth = kashgar
+		culture = saka
+		religion = tengri
+		tag = SHUL
+	}
+	sica_deudorix_sicambri = {
+		first_name = { name = deudorix }
+		dynasty = sicambri_dynasty
+		adm = 30
+		dip = 60
+		mil = 30
+		birth_date = -27.1.1
+		death_date = 15.1.1
+		birth = dortmund
+		culture = frankish
+		religion = germanic
+		tag = SICA
+	}
+	sill_hyeokgeose_silla = {
+		first_name = { name = hyeokgeose }
+		dynasty = silla_dynasty
+		adm = 15
+		dip = 45
+		mil = 60
+		birth_date = -27.1.1
+		death_date = 4.1.1
+		birth = gyeongju
+		culture = korean_culture
+		religion = muism
+		tag = SILL
+	}
+	silu_bran_silure = {
+		first_name = { name = bran }
+		dynasty = silure_dynasty
+		adm = 75
+		dip = 45
+		mil = 45
+		birth_date = -27.1.1
+		death_date = 20.1.1
+		birth = cardiff
+		culture = briton
+		religion = druidism
+		tag = SILU
+	}
+	sira_abeacus_siraces = {
+		first_name = { name = abeacus }
+		dynasty = siraces_dynasty
+		adm = 60
+		dip = 45
+		mil = 45
+		birth_date = -27.1.1
+		death_date = 41.1.1
+		birth = tuapse
+		culture = circassian_culture
+		religion = tengri
+		tag = SIRA
+	}
+	snd_mahasen_ror = {
+		first_name = { name = mahasen }
+		dynasty = ror_dynasty
+		adm = 15
+		dip = 15
+		mil = 15
+		birth_date = -27.1.1
+		death_date = 20.1.1
+		birth = sukkur
+		culture = sindhi
+		religion = mahayana
+		tag = SND
+	}
+	srks_papiyan_sri_ksetra = {
+		first_name = { name = papiyan }
+		dynasty = sri_ksetra_dynasty
+		adm = 15
+		dip = 30
+		mil = 15
+		birth_date = -27.1.1
+		death_date = 7.1.1
+		birth = pyay
+		culture = pyu
+		religion = theravada
+		tag = SRKS
+	}
+	that_maha_beinda_thaton = {
+		first_name = { name = maha_beinda }
+		dynasty = thaton_dynasty
+		adm = 0
+		dip = 75
+		mil = 60
+		birth_date = -27.1.1
+		death_date = 25.1.1
+		birth = thaton
+		culture = mon_culture
+		religion = theravada
+		tag = THAT
+	}
+	tmn_dumyeong_go = {
+		first_name = { name = dumyeong }
+		dynasty = go_dynasty
+		adm = 75
+		dip = 75
+		mil = 15
+		birth_date = -27.1.1
+		death_date = 43.1.1
+		birth = tamna
+		culture = tamna_culture
+		religion = muism
+		tag = TMN
+	}
+	tnk_nan_maran_pandya = {
+		first_name = { name = nan_maran }
+		dynasty = pandya_dynasty
+		adm = 60
+		dip = 0
+		mil = 60
+		birth_date = -27.1.1
+		death_date = 50.1.1
+		birth = madurai
+		culture = tamil
+		religion = hindu
+		tag = TNK
+	}
+	trpr_maloy_chandra_manikya = {
+		first_name = { name = maloy_chandra }
+		dynasty = manikya_dynasty
+		adm = 15
+		dip = 75
+		mil = 0
+		birth_date = -27.1.1
+		death_date = 25.1.1
+		birth = agartala
+		culture = dimasa_culture
+		religion = hindu
+		tag = TRPR
+	}
+	vand_aurvandil_vandal = {
+		first_name = { name = aurvandil }
+		dynasty = vandal_dynasty
+		adm = 45
+		dip = 60
+		mil = 45
+		birth_date = -27.1.1
+		birth = wroclaw
+		culture = vandal
+		religion = germanic
+		tag = VAND
+	}
+	wsat_kharahostes_indo_scythian = {
+		first_name = { name = kharahostes }
+		dynasty = indo_scythian_dynasty
+		adm = 45
+		dip = 30
+		mil = 30
+		birth_date = -27.1.1
+		death_date = 10.1.1
+		birth = ujjain
+		culture = gujarati
+		religion = hindu
+		tag = WSAT
+	}
+	xion_uchjulu_xiongnu = {
+		first_name = { name = uchjulu }
+		dynasty = xiongnu_dynasty
+		adm = 60
+		dip = 45
+		mil = 60
+		birth_date = -27.1.1
+		death_date = 13.1.1
+		birth = onon
+		culture = mongolian_culture
+		religion = tengri
+		tag = XION
+	}
+	yark_yan_yarkand = {
+		first_name = { name = yan }
+		dynasty = yarkand_dynasty
+		adm = 45
+		dip = 45
+		mil = 60
+		birth_date = -27.1.1
+		death_date = 18.1.1
+		birth = yarkand
+		culture = saka
+		religion = tengri
+		tag = YARK
+	}
+	yaud_ahivarn_barnwal = {
+		first_name = { name = ahivarn }
+		dynasty = barnwal_dynasty
+		adm = 30
+		dip = 30
+		mil = 45
+		birth_date = -27.1.1
+		death_date = 50.1.1
+		birth = churu
+		culture = punjabi
+		religion = hindu
+		tag = YAUD
+	}
+	ymt_suinin_yamato = {
+		first_name = { name = suinin }
+		dynasty = yamato_dynasty
+		adm = 60
+		dip = 45
+		mil = 75
+		birth_date = -27.1.1
+		birth = nara
+		culture = saigoku_culture
+		religion = shinto
+		tag = YMT
+	}
+	arm_artavasdes_iii_of_atropatene = {
+		first_name = { name = artavasdes }
+		dynasty = of_atropatene_dynasty
+		adm = 30
+		dip = 30
+		mil = 45
+		birth_date = -25.1.1
+		death_date = 6.1.1
+		birth = yerevan
+		culture = armenian_culture
+		religion = armenian_religion
+		tag = ARM
+	}
+	part_orodes_iii_arsacid = {
+		first_name = { name = orodes }
+		dynasty = arsacid_dynasty
+		adm = 45
+		dip = 15
+		mil = 30
+		birth_date = -25.1.1
+		death_date = 8.1.1
+		birth = baghdad
+		culture = parthian
+		religion = zoroastrian
+		tag = PART
+	}
+	sill_namhae_silla = {
+		first_name = { name = namhae }
+		dynasty = silla_dynasty
+		adm = 30
+		dip = 45
+		mil = 30
+		birth_date = -25.1.1
+		death_date = 24.1.1
+		birth = gyeongju
+		culture = korean_culture
+		religion = muism
+		tag = SILL
+	}
+	arm_tigranes_v_herodian = {
+		first_name = { name = tigranes }
+		dynasty = herodian_dynasty
+		adm = 45
+		dip = 45
+		mil = 15
+		birth_date = -23.1.1
+		death_date = 12.1.1
+		birth = yerevan
+		culture = armenian_culture
+		religion = armenian_religion
+		tag = ARM
+	}
+	atro_artabanus_ii_arsacid = {
+		first_name = { name = artabanus }
+		dynasty = arsacid_dynasty
+		adm = 75
+		dip = 60
+		mil = 45
+		birth_date = -23.1.1
+		death_date = 10.1.1
+		birth = barza
+		culture = farsi_culture
+		religion = zoroastrian
+		tag = ATRO
+	}
+	osro_manu_iv_abgarid = {
+		first_name = { name = manu }
+		dynasty = abgarid_dynasty
+		adm = 60
+		dip = 30
+		mil = 30
+		birth_date = -22.1.1
+		death_date = 13.1.1
+		birth = urfa
+		culture = syriac_culture
+		religion = ashurism
+		tag = OSRO
+	}
+	pyu0_yan_mukha_sri_ksetra = {
+		first_name = { name = yan_mukha }
+		dynasty = sri_ksetra_dynasty
+		adm = 15
+		dip = 30
+		mil = 30
+		birth_date = -22.1.1
+		death_date = 22.1.1
+		birth = taungoo
+		culture = pyu
+		religion = theravada
+		tag = PYU0
+	}
+	srks_yan_mukha_sri_ksetra = {
+		first_name = { name = yan_mukha }
+		dynasty = sri_ksetra_dynasty
+		adm = 15
+		dip = 30
+		mil = 30
+		birth_date = -22.1.1
+		death_date = 22.1.1
+		birth = pyay
+		culture = pyu
+		religion = theravada
+		tag = SRKS
+	}
+	ergy_eppillus_atrebate = {
+		first_name = { name = eppillus }
+		dynasty = atrebate_dynasty
+		adm = 30
+		dip = 45
+		mil = 45
+		birth_date = -21.1.1
+		death_date = 15.1.1
+		birth = bristol
+		culture = briton
+		religion = druidism
+		tag = ERGY
+	}
+	part_vonones_i_arsacid = {
+		first_name = { name = vonones }
+		dynasty = arsacid_dynasty
+		adm = 45
+		dip = 45
+		mil = 30
+		birth_date = -21.1.1
+		death_date = 12.1.1
+		birth = baghdad
+		culture = parthian
+		religion = zoroastrian
+		tag = PART
+	}
+	catu_cunobelinus_catuvellauni = {
+		first_name = { name = cunobelinus }
+		dynasty = catuvellauni_dynasty
+		adm = 45
+		dip = 45
+		mil = 15
+		birth_date = -20.1.1
+		death_date = 40.1.1
+		birth = oxford
+		culture = briton
+		religion = druidism
+		tag = CATU
+	}
+	ceyl_mahadathika_mahanaga_vijaya_1 = {
+		first_name = { name = mahadathika_mahanaga }
+		dynasty = vijaya_dynasty
+		adm = 15
+		dip = 45
+		mil = 75
+		birth_date = -20.1.1
+		death_date = 21.1.1
+		birth = kotte
+		culture = sinhalese
+		religion = theravada
+		tag = CEYL
+	}
+	chrs_arminius_cherusci = {
+		first_name = { name = arminius }
+		dynasty = cherusci_dynasty
+		adm = 60
+		dip = 60
+		mil = 90
+		birth_date = -20.1.1
+		death_date = 21.1.1
+		birth = paderborn
+		culture = rhine_franconian
+		religion = germanic
+		tag = CHRS
+	}
+	raja_mahadathika_mahanaga_vijaya_1 = {
+		first_name = { name = mahadathika_mahanaga }
+		dynasty = vijaya_dynasty
+		adm = 15
+		dip = 45
+		mil = 75
+		birth_date = -20.1.1
+		death_date = 21.1.1
+		birth = jaffna
+		culture = sinhalese
+		religion = theravada
+		tag = RAJA
+	}
+	xin0_mang_wang = {
+		first_name = { name = mang }
+		dynasty = wang_dynasty
+		adm = 0
+		dip = 30
+		mil = 45
+		birth_date = -20.1.1
+		birth = jingzhao
+		culture = zhongyuan_culture
+		religion = sanjiao
+		tag = XIN0
+	}
+	atro_vonones_ii_arsacid = {
+		first_name = { name = vonones }
+		dynasty = arsacid_dynasty
+		adm = 75
+		dip = 60
+		mil = 45
+		birth_date = -19.1.1
+		death_date = 51.1.1
+		birth = barza
+		culture = farsi_culture
+		religion = zoroastrian
+		tag = ATRO
+	}
+	chol_uruvapakraer_ilanjaetcenni_chola = {
+		first_name = { name = uruvapakraer_ilanjaetcenni }
+		dynasty = chola_dynasty
+		adm = 30
+		dip = 45
+		mil = 30
+		birth_date = -19.1.1
+		death_date = 31.1.1
+		birth = pondicherry
+		culture = tamil
+		religion = hindu
+		tag = CHOL
+	}
+	chrc_abinergaos_i_hyspaosinid = {
+		first_name = { name = abinergaos }
+		dynasty = hyspaosinid_dynasty
+		adm = 0
+		dip = 45
+		mil = 75
+		birth_date = -19.1.1
+		death_date = 30.1.1
+		birth = abdas
+		culture = iraqi_culture
+		religion = hellenism_religion
+		tag = CHRC
+	}
+	nsat_rajuvula_indo_scythian = {
+		first_name = { name = rajuvula }
+		dynasty = indo_scythian_dynasty
+		adm = 60
+		dip = 30
+		mil = 75
+		birth_date = -19.1.1
+		death_date = 20.1.1
+		birth = agra
+		culture = punjabi
+		religion = mahayana
+		tag = NSAT
+	}
+	wsat_higaraka_kshaharata = {
+		first_name = { name = higaraka }
+		dynasty = kshaharata_dynasty
+		adm = 60
+		dip = 30
+		mil = 30
+		birth_date = -19.1.1
+		death_date = 20.1.1
+		birth = ujjain
+		culture = gujarati
+		religion = hindu
+		tag = WSAT
+	}
+	arm_vonones_i_arsacid = {
+		first_name = { name = vonones }
+		dynasty = arsacid_dynasty
+		adm = 45
+		dip = 45
+		mil = 60
+		birth_date = -17.1.1
+		death_date = 18.1.1
+		birth = yerevan
+		culture = armenian_culture
+		religion = armenian_religion
+		tag = ARM
+	}
+	odry_rhescuporis_ii_sapaean_1 = {
+		first_name = { name = rhescuporis }
+		dynasty = sapaean_dynasty
+		adm = 15
+		dip = 60
+		mil = 0
+		birth_date = -17.1.1
+		death_date = 19.1.1
+		birth = tarnovo
+		culture = thracian
+		religion = zamolxism
+		tag = ODRY
+	}
+	part_artabanus_iii_arsacid = {
+		first_name = { name = artabanus }
+		dynasty = arsacid_dynasty
+		adm = 75
+		dip = 45
+		mil = 75
+		birth_date = -17.1.1
+		death_date = 40.1.1
+		birth = baghdad
+		culture = parthian
+		religion = zoroastrian
+		tag = PART
+	}
+	osro_abgar_v_abgarid_1 = {
+		first_name = { name = abgar }
+		dynasty = abgarid_dynasty
+		adm = 30
+		dip = 30
+		mil = 45
+		birth_date = -16.1.1
+		death_date = 50.1.1
+		birth = urfa
+		culture = syriac_culture
+		religion = ashurism
+		tag = OSRO
+	}
+	xion_ulei_hyan_xiongnu = {
+		first_name = { name = ulei_hyan }
+		dynasty = xiongnu_dynasty
+		adm = 30
+		dip = 45
+		mil = 45
+		birth_date = -16.1.1
+		death_date = 18.1.1
+		birth = onon
+		culture = mongolian_culture
+		religion = tengri
+		tag = XION
+	}
+	rom_tiberius_julio_claudian = {
+		first_name = { name = tiberius }
+		dynasty = julio_claudian_dynasty
+		adm = 60
+		dip = 45
+		mil = 45
+		birth_date = -15.1.1
+		death_date = 37.3.18
+		birth = rome
+		culture = roman
+		religion = hellenism_religion
+		tag = ROM
+	}
+	ark_ralamayu_danyawaddy = {
+		first_name = { name = ralamayu }
+		dynasty = danyawaddy_dynasty
+		adm = 30
+		dip = 30
+		mil = 45
+		birth_date = -14.1.1
+		death_date = 37.1.1
+		birth = launggyet
+		culture = rakhine_culture
+		religion = mahayana
+		tag = ARK
+	}
+	elym_kamnaskires_ix_kamnaskirid_1 = {
+		first_name = { name = kamnaskires }
+		dynasty = kamnaskirid_dynasty
+		adm = 60
+		dip = 30
+		mil = 45
+		birth_date = -14.1.1
+		death_date = 25.1.1
+		birth = hoveyzeh
+		culture = khuzi
+		religion = zoroastrian
+		tag = ELYM
+	}
+	ergy_verica_atrebate = {
+		first_name = { name = verica }
+		dynasty = atrebate_dynasty
+		adm = 30
+		dip = 30
+		mil = 15
+		birth_date = -14.1.1
+		birth = bristol
+		culture = welsh
+		religion = druidism
+		tag = ERGY
+	}
+	kent_eppillus_atrebate = {
+		first_name = { name = eppillus }
+		dynasty = atrebate_dynasty
+		adm = 60
+		dip = 45
+		mil = 30
+		birth_date = -14.1.1
+		birth = canterbury
+		culture = anglo_saxon
+		religion = germanic
+		tag = KENT
+	}
+	sica_chlodio_ii_sicambri = {
+		first_name = { name = chlodio }
+		dynasty = sicambri_dynasty
+		adm = 60
+		dip = 30
+		mil = 60
+		birth_date = -14.1.1
+		death_date = 20.1.1
+		birth = dortmund
+		culture = frankish
+		religion = germanic
+		tag = SICA
+	}
+	ben_ere_igodomigodo_1 = {
+		first_name = { name = ere }
+		dynasty = igodomigodo_dynasty
+		adm = 45
+		dip = 15
+		mil = 0
+		birth_date = -13.1.1
+		birth = benin
+		culture = edo
+		religion = bantu_religion
+		tag = BEN
+	}
+	kuch_hong_kucha = {
+		first_name = { name = hong }
+		dynasty = kucha_dynasty
+		adm = 45
+		dip = 60
+		mil = 30
+		birth_date = -13.1.1
+		death_date = 46.1.1
+		birth = kucha
+		culture = tocharian
+		religion = mahayana
+		tag = KUCH
+	}
+	arm_artaxias_iii_pythodoros = {
+		first_name = { name = artaxias }
+		dynasty = pythodoros_dynasty
+		adm = 15
+		dip = 45
+		mil = 15
+		birth_date = -11.1.1
+		death_date = 35.1.1
+		birth = yerevan
+		culture = armenian_culture
+		religion = armenian_religion
+		tag = ARM
+	}
+	gogu_daemusin_go = {
+		first_name = { name = daemusin }
+		dynasty = go_dynasty
+		adm = 45
+		dip = 45
+		mil = 45
+		birth_date = -11.1.1
+		death_date = 44.1.1
+		birth = hetu_ala
+		culture = korean_culture
+		religion = muism
+		tag = GOGU
+	}
+	marc_catualda_marcomanni = {
+		first_name = { name = catualda }
+		dynasty = marcomanni_dynasty
+		adm = 30
+		dip = 30
+		mil = 60
+		birth_date = -11.1.1
+		birth = plzen
+		culture = southern_bavarian
+		religion = germanic
+		tag = MARC
+	}
+	xion_huduershi_xiongnu = {
+		first_name = { name = huduershi }
+		dynasty = xiongnu_dynasty
+		adm = 60
+		dip = 45
+		mil = 90
+		birth_date = -11.1.1
+		death_date = 46.1.1
+		birth = onon
+		culture = mongolian_culture
+		religion = tengri
+		tag = XION
+	}
+	yark_kang_yarkand = {
+		first_name = { name = kang }
+		dynasty = yarkand_dynasty
+		adm = 30
+		dip = 45
+		mil = 45
+		birth_date = -11.1.1
+		death_date = 33.1.1
+		birth = yarkand
+		culture = saka
+		religion = tengri
+		tag = YARK
+	}
+	odry_rhoemetalces_ii_sapaean_1 = {
+		first_name = { name = rhoemetalces }
+		dynasty = sapaean_dynasty
+		adm = 45
+		dip = 15
+		mil = 30
+		birth_date = -10.1.1
+		death_date = 38.1.1
+		birth = tarnovo
+		culture = thracian
+		religion = zamolxism
+		tag = ODRY
+	}
+	adia_monobazus_i_bar_monobaz = {
+		first_name = { name = monobazus }
+		dynasty = bar_monobaz_dynasty
+		adm = 45
+		dip = 30
+		mil = 45
+		birth_date = -9.1.1
+		death_date = 36.1.1
+		birth = mosul
+		culture = assyrian
+		religion = judaism
+		tag = ADIA
+	}
+	balu_yolareva_parataraja = {
+		first_name = { name = yolareva }
+		dynasty = parataraja_dynasty
+		adm = 0
+		dip = 15
+		mil = 15
+		birth_date = -9.1.1
+		birth = quetta
+		culture = baloch_culture
+		religion = zoroastrian
+		tag = BALU
+	}
+	chci_gannascus_chauci = {
+		first_name = { name = gannascus }
+		dynasty = chauci_dynasty
+		adm = 45
+		dip = 45
+		mil = 60
+		birth_date = -9.1.1
+		birth = stade
+		culture = eastphalian
+		religion = germanic
+		tag = CHCI
+	}
+	cott_cottius_cottii = {
+		first_name = { name = cottius }
+		dynasty = cottii_dynasty
+		adm = 45
+		dip = 45
+		mil = 30
+		birth_date = -9.1.1
+		birth = saluzzo
+		culture = gallian
+		religion = druidism
+		tag = COTT
+	}
+	ipar_gadana_suren = {
+		first_name = { name = gadana }
+		dynasty = suren_dynasty
+		adm = 15
+		dip = 45
+		mil = 30
+		birth_date = -9.1.1
+		death_date = 46.1.1
+		birth = peshawar
+		culture = punjabi
+		religion = zoroastrian
+		tag = IPAR
+	}
+	mero_shorkaror_meroe = {
+		first_name = { name = shorkaror }
+		dynasty = meroe_dynasty
+		adm = 30
+		dip = 30
+		mil = 45
+		birth_date = -9.1.1
+		death_date = 30.1.1
+		birth = shendi
+		culture = kushite
+		religion = egyptian
+		tag = MERO
+	}
+	mina_waqahil_sadiq_ii_minaean = {
+		first_name = { name = waqahil_sadiq }
+		dynasty = minaean_dynasty
+		adm = 75
+		dip = 60
+		mil = 30
+		birth_date = -9.1.1
+		birth = abha
+		culture = yemeni_culture
+		religion = south_arabian
+		tag = MINA
+	}
+	nsat_sodasa_indo_scythian = {
+		first_name = { name = sodasa }
+		dynasty = indo_scythian_dynasty
+		adm = 45
+		dip = 45
+		mil = 30
+		birth_date = -9.1.1
+		birth = agra
+		culture = punjabi
+		religion = mahayana
+		tag = NSAT
+	}
+	pess_pakor_ii_bazarangid = {
+		first_name = { name = pakor }
+		dynasty = bazarangid_dynasty
+		adm = 30
+		dip = 75
+		mil = 60
+		birth_date = -9.1.1
+		death_date = 40.1.1
+		birth = shiraz
+		culture = farsi_culture
+		religion = zoroastrian
+		tag = PESS
+	}
+	sata_hala_satavahana = {
+		first_name = { name = hala }
+		dynasty = satavahana_dynasty
+		adm = 75
+		dip = 45
+		mil = 60
+		birth_date = -9.1.1
+		death_date = 24.1.1
+		birth = ahmednagar
+		culture = telugu
+		religion = hindu
+		tag = SATA
+	}
+	snd_brihad_dhaul_ror = {
+		first_name = { name = brihad_dhaul }
+		dynasty = ror_dynasty
+		adm = 15
+		dip = 0
+		mil = 15
+		birth_date = -9.1.1
+		death_date = 40.1.1
+		birth = sukkur
+		culture = sindhi
+		religion = mahayana
+		tag = SND
+	}
+	sure_ubouzanes_suren = {
+		first_name = { name = ubouzanes }
+		dynasty = suren_dynasty
+		adm = 30
+		dip = 60
+		mil = 15
+		birth_date = -9.1.1
+		birth = zabol
+		culture = afghan_culture
+		religion = zoroastrian
+		tag = SURE
+	}
+	wsat_abhiraka_kshaharata = {
+		first_name = { name = abhiraka }
+		dynasty = kshaharata_dynasty
+		adm = 60
+		dip = 45
+		mil = 30
+		birth_date = -9.1.1
+		death_date = 45.1.1
+		birth = ujjain
+		culture = gujarati
+		religion = hindu
+		tag = WSAT
+	}
+	ceyl_amandagamani_abhaya_vijaya_1 = {
+		first_name = { name = amandagamani_abhaya }
+		dynasty = vijaya_dynasty
+		adm = 15
+		dip = 75
+		mil = 30
+		birth_date = -8.1.1
+		death_date = 30.1.1
+		birth = kotte
+		culture = sinhalese
+		religion = theravada
+		tag = CEYL
+	}
+	chrs_segestes_cherusci = {
+		first_name = { name = segestes }
+		dynasty = cherusci_dynasty
+		adm = 30
+		dip = 30
+		mil = 30
+		birth_date = -8.1.1
+		death_date = 47.1.1
+		birth = paderborn
+		culture = rhine_franconian
+		religion = germanic
+		tag = CHRS
+	}
+	gumo_qiao_saiti_gumo = {
+		first_name = { name = qiao_saiti }
+		dynasty = gumo_dynasty
+		adm = 45
+		dip = 30
+		mil = 30
+		birth_date = -8.1.1
+		birth = aksu
+		culture = tocharian
+		religion = mahayana
+		tag = GUMO
+	}
+	raja_amandagamani_abhaya_vijaya_1 = {
+		first_name = { name = amandagamani_abhaya }
+		dynasty = vijaya_dynasty
+		adm = 15
+		dip = 75
+		mil = 30
+		birth_date = -8.1.1
+		death_date = 30.1.1
+		birth = jaffna
+		culture = sinhalese
+		religion = theravada
+		tag = RAJA
+	}
+	pyu0_yan_theinkha_sri_ksetra = {
+		first_name = { name = yan_theinkha }
+		dynasty = sri_ksetra_dynasty
+		adm = 15
+		dip = 15
+		mil = 15
+		birth_date = -7.1.1
+		death_date = 25.1.1
+		birth = taungoo
+		culture = pyu
+		religion = theravada
+		tag = PYU0
+	}
+	srks_yan_theinkha_sri_ksetra = {
+		first_name = { name = yan_theinkha }
+		dynasty = sri_ksetra_dynasty
+		adm = 15
+		dip = 15
+		mil = 15
+		birth_date = -7.1.1
+		death_date = 25.1.1
+		birth = pyay
+		culture = pyu
+		religion = theravada
+		tag = SRKS
+	}
+	han0_xuan_liu = {
+		first_name = { name = xuan }
+		dynasty = liu_dynasty
+		adm = 75
+		dip = 60
+		mil = 30
+		birth_date = -6.1.1
+		death_date = 25.8.5
+		birth = luoyang
+		culture = zhongyuan_culture
+		religion = sanjiao
+		tag = HAN0
+	}
+	maut_ptolemy_ptolemaic_1 = {
+		first_name = { name = ptolemy }
+		dynasty = ptolemaic_dynasty
+		adm = 30
+		dip = 45
+		mil = 60
+		birth_date = -6.1.1
+		birth = fez
+		culture = zenati
+		religion = hellenism_religion
+		tag = MAUT
+	}
+	shu0_shu_gongsun = {
+		first_name = { name = shu }
+		dynasty = gongsun_dynasty
+		adm = 60
+		dip = 30
+		mil = 60
+		birth_date = -6.1.1
+		birth = chengdu
+		culture = shu_culture
+		religion = sanjiao
+		tag = SHU0
+	}
+	sata_mandalaka_satavahana = {
+		first_name = { name = mandalaka }
+		dynasty = satavahana_dynasty
+		adm = 30
+		dip = 15
+		mil = 60
+		birth_date = -5.1.1
+		death_date = 30.1.1
+		birth = ahmednagar
+		culture = telugu
+		religion = hindu
+		tag = SATA
+	}
+	sill_yuri_silla = {
+		first_name = { name = yuri }
+		dynasty = silla_dynasty
+		adm = 60
+		dip = 45
+		mil = 15
+		birth_date = -5.1.1
+		death_date = 57.1.1
+		birth = gyeongju
+		culture = korean_culture
+		religion = muism
+		tag = SILL
+	}
+	dms_bodb_derg_munster = {
+		first_name = { name = bodb_derg }
+		dynasty = munster_dynasty
+		adm = 75
+		dip = 75
+		mil = 75
+		birth_date = -4.1.1
+		birth = cork
+		culture = irish
+		religion = druidism
+		tag = DMS
+	}
+	elym_orodes_i_arsacid = {
+		first_name = { name = orodes }
+		dynasty = arsacid_dynasty
+		adm = 15
+		dip = 15
+		mil = 45
+		birth_date = -4.1.1
+		death_date = 50.1.1
+		birth = hoveyzeh
+		culture = khuzi
+		religion = zoroastrian
+		tag = ELYM
+	}
+	han0_xiu_liu = {
+		first_name = { name = xiu }
+		dynasty = liu_dynasty
+		adm = 75
+		dip = 60
+		mil = 90
+		birth_date = -4.1.1
+		death_date = 57.3.29
+		birth = luoyang
+		culture = zhongyuan_culture
+		religion = sanjiao
+		tag = HAN0
+	}
+	ksh_meghavahana_gonandiya = {
+		first_name = { name = meghavahana }
+		dynasty = gonandiya_dynasty
+		adm = 30
+		dip = 30
+		mil = 75
+		birth_date = -4.1.1
+		birth = srinagar
+		culture = kashmiri_culture
+		religion = mahayana
+		tag = KSH
+	}
+	pyu0_yan_monsaleinda_sri_ksetra = {
+		first_name = { name = yan_monsaleinda }
+		dynasty = sri_ksetra_dynasty
+		adm = 15
+		dip = 45
+		mil = 15
+		birth_date = -4.1.1
+		death_date = 40.1.1
+		birth = taungoo
+		culture = pyu
+		religion = theravada
+		tag = PYU0
+	}
+	quad_vannius_quadi = {
+		first_name = { name = vannius }
+		dynasty = quadi_dynasty
+		adm = 45
+		dip = 60
+		mil = 60
+		birth_date = -4.1.1
+		death_date = 55.1.1
+		birth = hradiste
+		culture = quadian
+		religion = germanic
+		tag = QUAD
+	}
+	sata_purindrasena_satavahana = {
+		first_name = { name = purindrasena }
+		dynasty = satavahana_dynasty
+		adm = 30
+		dip = 30
+		mil = 45
+		birth_date = -4.1.1
+		death_date = 40.1.1
+		birth = ahmednagar
+		culture = telugu
+		religion = hindu
+		tag = SATA
+	}
+	srks_yan_monsaleinda_sri_ksetra = {
+		first_name = { name = yan_monsaleinda }
+		dynasty = sri_ksetra_dynasty
+		adm = 15
+		dip = 45
+		mil = 15
+		birth_date = -4.1.1
+		death_date = 40.1.1
+		birth = pyay
+		culture = pyu
+		religion = theravada
+		tag = SRKS
+	}
+	baek_daru_baekje = {
+		first_name = { name = daru }
+		dynasty = baekje_dynasty
+		adm = 30
+		dip = 15
+		mil = 15
+		birth_date = 0.1.1
+		birth = namgyeong
+		culture = korean_culture
+		religion = muism
+		tag = BAEK
+	}
+	chol_karikaalan_ii_peruvalaththaan_chola = {
+		first_name = { name = karikaalan_ii_peruvalaththaan }
+		dynasty = chola_dynasty
+		adm = 45
+		dip = 45
+		mil = 30
+		birth_date = 1.1.1
+		birth = pondicherry
+		culture = tamil
+		religion = hindu
+		tag = CHOL
+	}
+	ben_ere_igodomigodo = {
+		first_name = { name = ere }
+		dynasty = igodomigodo_dynasty
+		adm = 45
+		dip = 15
+		mil = 0
+		birth_date = 2.1.1
+		birth = benin
+		father = ben_igodo_igodomigodo
+		culture = edo
+		religion = bantu_religion
+		tag = BEN
+	}
+	buye_galsa_galsa_buyeo = {
+		first_name = { name = galsa }
+		dynasty = galsa_buyeo_dynasty
+		adm = 75
+		dip = 45
+		mil = 75
+		birth_date = 2.1.1
+		death_date = 40.1.1
+		birth = girin_ula
+		culture = buyeo
+		religion = muism
+		tag = BUYE
+	}
+	ceyl_mahadathika_mahanaga_vijaya = {
+		first_name = { name = mahadathika_mahanaga }
+		dynasty = vijaya_dynasty
+		adm = 15
+		dip = 45
+		mil = 75
+		birth_date = 2.1.1
+		death_date = 21.1.1
+		birth = kotte
+		father = ceyl_bhatikabhaya_abhaya_vijaya
+		culture = sinhalese
+		religion = theravada
+		tag = CEYL
+	}
+	ceyl_amandagamani_abhaya_vijaya = {
+		first_name = { name = amandagamani_abhaya }
+		dynasty = vijaya_dynasty
+		adm = 15
+		dip = 75
+		mil = 30
+		birth_date = 2.1.1
+		death_date = 30.1.1
+		birth = kotte
+		father = ceyl_mahadathika_mahanaga_vijaya_1
+		culture = sinhalese
+		religion = theravada
+		tag = CEYL
+	}
+	ceyl_kanirajanu_tissa_vijaya = {
+		first_name = { name = kanirajanu_tissa }
+		dynasty = vijaya_dynasty
+		adm = 15
+		dip = 45
+		mil = 60
+		birth_date = 2.1.1
+		death_date = 33.1.1
+		birth = kotte
+		culture = sinhalese
+		religion = theravada
+		tag = CEYL
+	}
+	elym_kamnaskires_ix_kamnaskirid = {
+		first_name = { name = kamnaskires }
+		dynasty = kamnaskirid_dynasty
+		adm = 60
+		dip = 30
+		mil = 45
+		birth_date = 2.1.1
+		death_date = 25.1.1
+		birth = hoveyzeh
+		father = elym_kamnaskires_viii_kamnaskirid
+		culture = khuzi
+		religion = zoroastrian
+		tag = ELYM
+	}
+	maut_ptolemy_ptolemaic = {
+		first_name = { name = ptolemy }
+		dynasty = ptolemaic_dynasty
+		adm = 30
+		dip = 45
+		mil = 60
+		birth_date = 2.1.1
+		death_date = 40.1.1
+		birth = fez
+		father = maut_juba_ii_massylii
+		culture = zenati
+		religion = hellenism_religion
+		tag = MAUT
+	}
+	odry_rhescuporis_ii_sapaean = {
+		first_name = { name = rhescuporis }
+		dynasty = sapaean_dynasty
+		adm = 15
+		dip = 60
+		mil = 0
+		birth_date = 2.1.1
+		death_date = 19.1.1
+		birth = tarnovo
+		father = odry_rhoemetalces_i_sapaean
+		culture = thracian
+		religion = zamolxism
+		tag = ODRY
+	}
+	odry_rhoemetalces_ii_sapaean = {
+		first_name = { name = rhoemetalces }
+		dynasty = sapaean_dynasty
+		adm = 45
+		dip = 15
+		mil = 30
+		birth_date = 2.1.1
+		death_date = 38.1.1
+		birth = tarnovo
+		father = odry_rhescuporis_ii_sapaean_1
+		culture = thracian
+		religion = zamolxism
+		tag = ODRY
+	}
+	osra_criomthann_mor_dal_birn = {
+		first_name = { name = criomthann_mor }
+		dynasty = dal_birn_dynasty
+		adm = 15
+		dip = 30
+		mil = 15
+		birth_date = 2.1.1
+		death_date = 50.1.1
+		birth = waterford
+		culture = irish
+		religion = druidism
+		tag = OSRA
+	}
+	raja_mahadathika_mahanaga_vijaya = {
+		first_name = { name = mahadathika_mahanaga }
+		dynasty = vijaya_dynasty
+		adm = 15
+		dip = 45
+		mil = 75
+		birth_date = 2.1.1
+		death_date = 21.1.1
+		birth = jaffna
+		father = raja_bhatikabhaya_abhaya_vijaya
+		culture = sinhalese
+		religion = theravada
+		tag = RAJA
+	}
+	raja_amandagamani_abhaya_vijaya = {
+		first_name = { name = amandagamani_abhaya }
+		dynasty = vijaya_dynasty
+		adm = 15
+		dip = 75
+		mil = 30
+		birth_date = 2.1.1
+		death_date = 30.1.1
+		birth = jaffna
+		father = raja_mahadathika_mahanaga_vijaya_1
+		culture = sinhalese
+		religion = theravada
+		tag = RAJA
+	}
+	raja_kanirajanu_tissa_vijaya = {
+		first_name = { name = kanirajanu_tissa }
+		dynasty = vijaya_dynasty
+		adm = 15
+		dip = 45
+		mil = 60
+		birth_date = 2.1.1
+		death_date = 33.1.1
+		birth = jaffna
+		culture = sinhalese
+		religion = theravada
+		tag = RAJA
+	}
+	rom_claudius_julio_claudian = {
+		first_name = { name = claudius }
+		dynasty = julio_claudian_dynasty
+		adm = 75
+		dip = 30
+		mil = 45
+		birth_date = 2.1.1
+		death_date = 54.10.13
+		birth = rome
+		father = rom_caligula_julio_claudian_1
+		culture = roman
+		religion = hellenism_religion
+		tag = ROM
+	}
+	sica_marcomer_iii_sicambri = {
+		first_name = { name = marcomer }
+		dynasty = sicambri_dynasty
+		adm = 0
+		dip = 0
+		mil = 75
+		birth_date = 2.1.1
+		death_date = 51.1.1
+		birth = dortmund
+		culture = frankish
+		religion = germanic
+		tag = SICA
+	}
+	silu_caradoc_silure = {
+		first_name = { name = caradoc }
+		dynasty = silure_dynasty
+		adm = 45
+		dip = 60
+		mil = 0
+		birth_date = 2.1.1
+		death_date = 22.1.1
+		birth = cardiff
+		culture = briton
+		religion = druidism
+		tag = SILU
+	}
+	silu_alan_silure = {
+		first_name = { name = alan }
+		dynasty = silure_dynasty
+		adm = 75
+		dip = 75
+		mil = 60
+		birth_date = 2.1.1
+		death_date = 24.1.1
+		birth = cardiff
+		culture = briton
+		religion = druidism
+		tag = SILU
+	}
+	that_adara_thaton = {
+		first_name = { name = adara }
+		dynasty = thaton_dynasty
+		adm = 75
+		dip = 45
+		mil = 30
+		birth_date = 2.1.1
+		death_date = 50.1.1
+		birth = thaton
+		culture = mon_culture
+		religion = theravada
+		tag = THAT
+	}
+	trpr_surjyarai_manikya = {
+		first_name = { name = surjyarai }
+		dynasty = manikya_dynasty
+		adm = 15
+		dip = 30
+		mil = 15
+		birth_date = 2.1.1
+		death_date = 50.1.1
+		birth = agartala
+		culture = dimasa_culture
+		religion = hindu
+		tag = TRPR
+	}
+	ceyl_chulabhaya_vijaya = {
+		first_name = { name = chulabhaya }
+		dynasty = vijaya_dynasty
+		adm = 60
+		dip = 30
+		mil = 60
+		birth_date = 3.1.1
+		death_date = 35.1.1
+		birth = kotte
+		culture = sinhalese
+		religion = theravada
+		tag = CEYL
+	}
+	mlb_nongda_lairen_pakhangba_ningthouja = {
+		first_name = { name = nongda_lairen_pakhangba }
+		dynasty = ningthouja_dynasty
+		adm = 60
+		dip = 15
+		mil = 90
+		birth_date = 3.1.1
+		birth = imphal
+		culture = zo_culture
+		religion = sanamahism
+		tag = MLB
+	}
+	qian_dianliang_shaodang = {
+		first_name = { name = dianliang }
+		dynasty = shaodang_dynasty
+		adm = 45
+		dip = 15
+		mil = 30
+		birth_date = 3.1.1
+		death_date = 57.1.1
+		birth = chabcha
+		culture = amdowa_culture
+		religion = bon
+		tag = QIAN
+	}
+	raja_chulabhaya_vijaya = {
+		first_name = { name = chulabhaya }
+		dynasty = vijaya_dynasty
+		adm = 60
+		dip = 30
+		mil = 60
+		birth_date = 3.1.1
+		death_date = 35.1.1
+		birth = jaffna
+		culture = sinhalese
+		religion = theravada
+		tag = RAJA
+	}
+	yark_xian_yarkand = {
+		first_name = { name = xian }
+		dynasty = yarkand_dynasty
+		adm = 60
+		dip = 45
+		mil = 75
+		birth_date = 3.1.1
+		birth = yarkand
+		culture = saka
+		religion = tengri
+		tag = YARK
+	}
+	silu_sadwr_silure = {
+		first_name = { name = sadwr }
+		dynasty = silure_dynasty
+		adm = 60
+		dip = 0
+		mil = 60
+		birth_date = 4.1.1
+		death_date = 44.1.1
+		birth = cardiff
+		culture = briton
+		religion = druidism
+		tag = SILU
+	}
+	arm_mithridates_i_pharnavazid = {
+		first_name = { name = mithridates }
+		dynasty = pharnavazid_dynasty
+		adm = 30
+		dip = 45
+		mil = 30
+		birth_date = 5.1.1
+		death_date = 37.1.1
+		birth = yerevan
+		culture = armenian_culture
+		religion = armenian_religion
+		tag = ARM
+	}
+	ceyl_sivali_vijaya = {
+		first_name = { name = sivali }
+		dynasty = vijaya_dynasty
+		adm = 75
+		dip = 75
+		mil = 0
+		birth_date = 5.1.1
+		death_date = 38.1.1
+		birth = kotte
+		culture = sinhalese
+		religion = theravada
+		tag = CEYL
+	}
+	chrc_attambelos_iii_hyspaosinid = {
+		first_name = { name = attambelos }
+		dynasty = hyspaosinid_dynasty
+		adm = 45
+		dip = 60
+		mil = 75
+		birth_date = 5.1.1
+		death_date = 46.1.1
+		birth = abdas
+		culture = iraqi_culture
+		religion = hellenism_religion
+		tag = CHRC
+	}
+	cori_cartivellaunos_corieltauvi = {
+		first_name = { name = cartivellaunos }
+		dynasty = corieltauvi_dynasty
+		adm = 30
+		dip = 30
+		mil = 30
+		birth_date = 5.1.1
+		birth = leicester
+		culture = briton
+		religion = druidism
+		tag = CORI
+	}
+	daci_scorilo_dacian = {
+		first_name = { name = scorilo }
+		dynasty = dacian_dynasty
+		adm = 75
+		dip = 30
+		mil = 45
+		birth_date = 5.1.1
+		birth = alba_iulia
+		culture = dacian
+		religion = zamolxism
+		tag = DACI
+	}
+	dbuy_dojin_dongbuyeo = {
+		first_name = { name = dojin }
+		dynasty = dongbuyeo_dynasty
+		adm = 45
+		dip = 15
+		mil = 30
+		birth_date = 5.1.1
+		birth = yongmingcheng
+		father = dbuy_hae_daeso_dongbuyeo
+		culture = buyeo
+		religion = muism
+		tag = DBUY
+	}
+	han0_ying_liu = {
+		first_name = { name = ying }
+		dynasty = liu_dynasty
+		adm = 0
+		dip = 0
+		mil = 0
+		birth_date = 5.1.1
+		death_date = 23.10.5
+		birth = jingzhao
+		culture = zhongyuan_culture
+		religion = sanjiao
+		tag = HAN0
+	}
+	himy_karab_il_watar_yuhanem_ii_himyar = {
+		first_name = { name = karab_il_watar_yuhanem }
+		dynasty = himyar_dynasty
+		adm = 30
+		dip = 60
+		mil = 45
+		birth_date = 5.1.1
+		birth = al_mukha
+		culture = yemeni_culture
+		religion = south_arabian
+		tag = HIMY
+	}
+	kush_kujula_kadphises_kushan = {
+		first_name = { name = kujula_kadphises }
+		dynasty = kushan_dynasty
+		adm = 60
+		dip = 75
+		mil = 75
+		birth_date = 5.1.1
+		birth = peshawar
+		culture = afghan_culture
+		religion = mahayana
+		tag = KUSH
+	}
+	mero_pisakar_meroe = {
+		first_name = { name = pisakar }
+		dynasty = meroe_dynasty
+		adm = 30
+		dip = 15
+		mil = 45
+		birth_date = 5.1.1
+		death_date = 55.1.1
+		birth = shendi
+		culture = kushite
+		religion = egyptian
+		tag = MERO
+	}
+	raja_sivali_vijaya = {
+		first_name = { name = sivali }
+		dynasty = vijaya_dynasty
+		adm = 75
+		dip = 75
+		mil = 0
+		birth_date = 5.1.1
+		death_date = 38.1.1
+		birth = jaffna
+		culture = sinhalese
+		religion = theravada
+		tag = RAJA
+	}
+	ark_nalamayu_danyawaddy = {
+		first_name = { name = nalamayu }
+		dynasty = danyawaddy_dynasty
+		adm = 60
+		dip = 30
+		mil = 45
+		birth_date = 7.1.1
+		birth = launggyet
+		culture = rakhine_culture
+		religion = mahayana
+		tag = ARK
+	}
+	arm_orodes_i_arsacid = {
+		first_name = { name = orodes }
+		dynasty = arsacid_dynasty
+		adm = 15
+		dip = 45
+		mil = 30
+		birth_date = 7.1.1
+		death_date = 42.1.1
+		birth = yerevan
+		culture = armenian_culture
+		religion = armenian_religion
+		tag = ARM
+	}
+	rom_caligula_julio_claudian_1 = {
+		first_name = { name = caligula }
+		dynasty = julio_claudian_dynasty
+		adm = 30
+		dip = 45
+		mil = 60
+		birth_date = 7.1.1
+		death_date = 41.1.24
+		birth = rome
+		culture = roman
+		religion = hellenism_religion
+		tag = ROM
+	}
+	bosp_mithridates_iii_bosporan = {
+		first_name = { name = mithridates }
+		dynasty = bosporan_dynasty
+		adm = 30
+		dip = 45
+		mil = 45
+		birth_date = 8.1.1
+		death_date = 46.1.1
+		birth = kaffa
+		culture = pontic_greek_culture
+		religion = hellenism_religion
+		tag = BOSP
+	}
+	ceyl_ilanaga_vijaya = {
+		first_name = { name = ilanaga }
+		dynasty = vijaya_dynasty
+		adm = 60
+		dip = 45
+		mil = 75
+		birth_date = 8.1.1
+		death_date = 44.1.1
+		birth = kotte
+		culture = sinhalese
+		religion = theravada
+		tag = CEYL
+	}
+	comm_antiochus_iv_orontid = {
+		first_name = { name = antiochus }
+		dynasty = orontid_dynasty
+		adm = 15
+		dip = 60
+		mil = 45
+		birth_date = 8.1.1
+		birth = malatya
+		culture = armenian_culture
+		religion = hellenism_religion
+		tag = COMM
+	}
+	odry_rhoemetalces_iii_sapaean = {
+		first_name = { name = rhoemetalces }
+		dynasty = sapaean_dynasty
+		adm = 60
+		dip = 30
+		mil = 30
+		birth_date = 8.1.1
+		death_date = 46.1.1
+		birth = tarnovo
+		culture = thracian
+		religion = zamolxism
+		tag = ODRY
+	}
+	pont_polemon_ii_pythodoros = {
+		first_name = { name = polemon }
+		dynasty = pythodoros_dynasty
+		adm = 30
+		dip = 60
+		mil = 60
+		birth_date = 8.1.1
+		birth = amasya
+		culture = pontic_greek_culture
+		religion = hellenism_religion
+		tag = PONT
+	}
+	raja_ilanaga_vijaya = {
+		first_name = { name = ilanaga }
+		dynasty = vijaya_dynasty
+		adm = 60
+		dip = 45
+		mil = 75
+		birth_date = 8.1.1
+		death_date = 44.1.1
+		birth = jaffna
+		culture = sinhalese
+		religion = theravada
+		tag = RAJA
+	}
+	adia_izates_ii_bar_monobaz = {
+		first_name = { name = izates }
+		dynasty = bar_monobaz_dynasty
+		adm = 45
+		dip = 60
+		mil = 45
+		birth_date = 10.1.1
+		birth = mosul
+		culture = assyrian
+		religion = judaism
+		tag = ADIA
+	}
+	aln_eunones_aorsi = {
+		first_name = { name = eunones }
+		dynasty = aorsi_dynasty
+		adm = 45
+		dip = 30
+		mil = 45
+		birth_date = 10.1.1
+		birth = karcha_kala
+		culture = alan_culture
+		religion = tengri
+		tag = ALN
+	}
+	angl_humbli_angle = {
+		first_name = { name = humbli }
+		dynasty = angle_dynasty
+		adm = 45
+		dip = 60
+		mil = 45
+		birth_date = 10.1.1
+		birth = kiel
+		culture = lower_saxon
+		religion = germanic
+		tag = ANGL
+	}
+	buye_hae_dodu_galsa_buyeo = {
+		first_name = { name = hae_dodu }
+		dynasty = galsa_buyeo_dynasty
+		adm = 60
+		dip = 15
+		mil = 0
+		birth_date = 10.1.1
+		birth = girin_ula
+		culture = buyeo
+		religion = muism
+		tag = BUYE
+	}
+	catu_togodumnus_catuvellauni = {
+		first_name = { name = togodumnus }
+		dynasty = catuvellauni_dynasty
+		adm = 15
+		dip = 15
+		mil = 30
+		birth_date = 10.1.1
+		death_date = 43.1.1
+		birth = oxford
+		culture = briton
+		religion = druidism
+		tag = CATU
+	}
+	cnn_aodh_connacht = {
+		first_name = { name = aodh }
+		dynasty = connacht_dynasty
+		adm = 60
+		dip = 60
+		mil = 75
+		birth_date = 10.1.1
+		birth = galway
+		father = cnn_ceidghin_cruchain_connacht
+		culture = irish
+		religion = druidism
+		tag = CNN
+	}
+	dbuy_dojin_dongbuyeo_1 = {
+		first_name = { name = dojin }
+		dynasty = dongbuyeo_dynasty
+		adm = 45
+		dip = 15
+		mil = 30
+		birth_date = 10.1.1
+		birth = yongmingcheng
+		culture = buyeo
+		religion = muism
+		tag = DBUY
+	}
+	lei_feidhlimidh_fiorurghlas_laigin = {
+		first_name = { name = feidhlimidh_fiorurghlas }
+		dynasty = laigin_dynasty
+		adm = 15
+		dip = 45
+		mil = 45
+		birth_date = 10.1.1
+		birth = wexford
+		culture = irish
+		religion = druidism
+		tag = LEI
+	}
+	lwa_dewapour_bazdeo = {
+		first_name = { name = dewapour }
+		dynasty = bazdeo_dynasty
+		adm = 60
+		dip = 45
+		mil = 30
+		birth_date = 10.1.1
+		birth = vijayapur
+		culture = newar_culture
+		religion = mahayana
+		tag = LWA
+	}
+	naba_malichus_ii_nabataean = {
+		first_name = { name = malichus }
+		dynasty = nabataean_dynasty
+		adm = 30
+		dip = 75
+		mil = 45
+		birth_date = 10.1.1
+		birth = maan
+		culture = nabataean_culture
+		religion = nabataean
+		tag = NABA
+	}
+	osro_manu_v_abgarid = {
+		first_name = { name = manu }
+		dynasty = abgarid_dynasty
+		adm = 15
+		dip = 30
+		mil = 60
+		birth_date = 10.1.1
+		death_date = 57.1.1
+		birth = urfa
+		father = osro_abgar_v_abgarid_1
+		culture = syriac_culture
+		religion = ashurism
+		tag = OSRO
+	}
+	part_gotarzes_ii_arsacid = {
+		first_name = { name = gotarzes }
+		dynasty = arsacid_dynasty
+		adm = 30
+		dip = 45
+		mil = 30
+		birth_date = 10.1.1
+		death_date = 51.1.1
+		birth = baghdad
+		culture = parthian
+		religion = zoroastrian
+		tag = PART
+	}
+	pess_nambed_i_bazarangid = {
+		first_name = { name = nambed }
+		dynasty = bazarangid_dynasty
+		adm = 30
+		dip = 0
+		mil = 75
+		birth_date = 10.1.1
+		birth = shiraz
+		culture = farsi_culture
+		religion = zoroastrian
+		tag = PESS
+	}
+	pyu0_bereinda_sri_ksetra = {
+		first_name = { name = bereinda }
+		dynasty = sri_ksetra_dynasty
+		adm = 60
+		dip = 45
+		mil = 15
+		birth_date = 10.1.1
+		death_date = 52.1.1
+		birth = taungoo
+		culture = pyu
+		religion = theravada
+		tag = PYU0
+	}
+	qatb_anmar_yuhaman_ii_qataban = {
+		first_name = { name = anmar_yuhaman }
+		dynasty = qataban_dynasty
+		adm = 45
+		dip = 15
+		mil = 45
+		birth_date = 10.1.1
+		birth = al_mukalla
+		culture = yemeni_culture
+		religion = south_arabian
+		tag = QATB
+	}
+	sata_sundara_satakarni_satavahana = {
+		first_name = { name = sundara_satakarni }
+		dynasty = satavahana_dynasty
+		adm = 30
+		dip = 30
+		mil = 15
+		birth_date = 10.1.1
+		death_date = 50.1.1
+		birth = ahmednagar
+		culture = telugu
+		religion = hindu
+		tag = SATA
+	}
+	shan_guang_shanshan = {
+		first_name = { name = guang }
+		dynasty = shanshan_dynasty
+		adm = 30
+		dip = 45
+		mil = 30
+		birth_date = 10.1.1
+		birth = charklik
+		culture = tocharian
+		religion = mahayana
+		tag = SHAN
+	}
+	snd_harikeert_ror = {
+		first_name = { name = harikeert }
+		dynasty = ror_dynasty
+		adm = 15
+		dip = 15
+		mil = 0
+		birth_date = 10.1.1
+		birth = sukkur
+		culture = sindhi
+		religion = mahayana
+		tag = SND
+	}
+	srks_bereinda_sri_ksetra = {
+		first_name = { name = bereinda }
+		dynasty = sri_ksetra_dynasty
+		adm = 60
+		dip = 45
+		mil = 15
+		birth_date = 10.1.1
+		death_date = 52.1.1
+		birth = pyay
+		culture = pyu
+		religion = theravada
+		tag = SRKS
+	}
+	uls_eochaid_ulster = {
+		first_name = { name = eochaid }
+		dynasty = ulster_dynasty
+		adm = 60
+		dip = 15
+		mil = 75
+		birth_date = 10.1.1
+		birth = belfast
+		culture = irish
+		religion = druidism
+		tag = ULS
+	}
+	rom_claudius_julio_claudian_1 = {
+		first_name = { name = claudius }
+		dynasty = julio_claudian_dynasty
+		adm = 75
+		dip = 30
+		mil = 45
+		birth_date = 11.1.1
+		death_date = 54.10.13
+		birth = rome
+		culture = roman
+		religion = hellenism_religion
+		tag = ROM
+	}
+	sira_zorsines_siraces = {
+		first_name = { name = zorsines }
+		dynasty = siraces_dynasty
+		adm = 60
+		dip = 45
+		mil = 45
+		birth_date = 11.1.1
+		birth = tuapse
+		culture = circassian_culture
+		religion = tengri
+		tag = SIRA
+	}
+	arm_mithridates_i_pharnavazid_1 = {
+		first_name = { name = mithridates }
+		dynasty = pharnavazid_dynasty
+		adm = 30
+		dip = 45
+		mil = 30
+		birth_date = 12.1.1
+		death_date = 51.1.1
+		birth = yerevan
+		culture = armenian_culture
+		religion = armenian_religion
+		tag = ARM
+	}
+	rom_caligula_julio_claudian = {
+		first_name = { name = caligula }
+		dynasty = julio_claudian_dynasty
+		adm = 30
+		dip = 45
+		mil = 60
+		birth_date = 12.8.31
+		death_date = 41.1.24
+		birth = rome
+		father = rom_tiberius_julio_claudian
+		culture = roman
+		religion = hellenism_religion
+		tag = ROM
+	}
+	brig_cartimandua_brigante = {
+		first_name = { name = cartimandua }
+		dynasty = brigante_dynasty
+		adm = 30
+		dip = 75
+		mil = 60
+		birth_date = 13.1.1
+		birth = newcastle
+		culture = briton
+		religion = druidism
+		tag = BRIG
+	}
+	catu_caratacus_catuvellauni = {
+		first_name = { name = caratacus }
+		dynasty = catuvellauni_dynasty
+		adm = 45
+		dip = 15
+		mil = 45
+		birth_date = 13.1.1
+		birth = oxford
+		culture = briton
+		religion = druidism
+		tag = CATU
+	}
+	tmn_seonju_go = {
+		first_name = { name = seonju }
+		dynasty = go_dynasty
+		adm = 15
+		dip = 60
+		mil = 45
+		birth_date = 13.1.1
+		birth = tamna
+		culture = tamna_culture
+		religion = muism
+		tag = TMN
+	}
+	ceyl_chandamukha_vijaya = {
+		first_name = { name = chandamukha }
+		dynasty = vijaya_dynasty
+		adm = 30
+		dip = 45
+		mil = 45
+		birth_date = 14.1.1
+		death_date = 52.1.1
+		birth = kotte
+		culture = sinhalese
+		religion = theravada
+		tag = CEYL
+	}
+	gogu_minjung_go = {
+		first_name = { name = minjung }
+		dynasty = go_dynasty
+		adm = 30
+		dip = 30
+		mil = 15
+		birth_date = 14.1.1
+		death_date = 48.1.1
+		birth = hetu_ala
+		culture = korean_culture
+		religion = muism
+		tag = GOGU
+	}
+	raja_chandamukha_vijaya = {
+		first_name = { name = chandamukha }
+		dynasty = vijaya_dynasty
+		adm = 30
+		dip = 45
+		mil = 45
+		birth_date = 14.1.1
+		death_date = 52.1.1
+		birth = jaffna
+		culture = sinhalese
+		religion = theravada
+		tag = RAJA
+	}
+	wsat_bhumaka_kshaharata = {
+		first_name = { name = bhumaka }
+		dynasty = kshaharata_dynasty
+		adm = 60
+		dip = 75
+		mil = 90
+		birth_date = 15.1.1
+		death_date = 55.1.1
+		birth = ujjain
+		culture = gujarati
+		religion = hindu
+		tag = WSAT
+	}
+	bosp_cotys_i_bosporan = {
+		first_name = { name = cotys }
+		dynasty = bosporan_dynasty
+		adm = 30
+		dip = 75
+		mil = 45
+		birth_date = 16.1.1
+		birth = kaffa
+		culture = pontic_greek_culture
+		religion = hellenism_religion
+		tag = BOSP
+	}
+	chrc_theonesios_ii_hyspaosinid = {
+		first_name = { name = theonesios }
+		dynasty = hyspaosinid_dynasty
+		adm = 45
+		dip = 30
+		mil = 15
+		birth_date = 16.1.1
+		death_date = 50.1.1
+		birth = abdas
+		culture = iraqi_culture
+		religion = hellenism_religion
+		tag = CHRC
+	}
+	ipar_abdagases_suren = {
+		first_name = { name = abdagases }
+		dynasty = suren_dynasty
+		adm = 15
+		dip = 15
+		mil = 30
+		birth_date = 16.1.1
+		birth = zabol
+		culture = afghan_culture
+		religion = zoroastrian
+		tag = IPAR
+	}
+	kuch_zeluo_kucha = {
+		first_name = { name = zeluo }
+		dynasty = kucha_dynasty
+		adm = 45
+		dip = 15
+		mil = 75
+		birth_date = 16.1.1
+		death_date = 51.1.1
+		birth = kucha
+		culture = tocharian
+		religion = mahayana
+		tag = KUCH
+	}
+	xian_touluhou_xianbei = {
+		first_name = { name = touluhou }
+		dynasty = xianbei_dynasty
+		adm = 45
+		dip = 45
+		mil = 60
+		birth_date = 16.1.1
+		birth = xinkai
+		culture = khitan
+		religion = tengri
+		tag = XIAN
+	}
+	xion_punu_xiongnu = {
+		first_name = { name = punu }
+		dynasty = xiongnu_dynasty
+		adm = 45
+		dip = 45
+		mil = 60
+		birth_date = 16.1.1
+		birth = onon
+		culture = mongolian_culture
+		religion = tengri
+		tag = XION
+	}
+	chrs_italicus_cherusci = {
+		first_name = { name = italicus }
+		dynasty = cherusci_dynasty
+		adm = 0
+		dip = 30
+		mil = 0
+		birth_date = 17.1.1
+		birth = paderborn
+		culture = rhine_franconian
+		religion = germanic
+		tag = CHRS
+	}
+	gogu_mobon_go = {
+		first_name = { name = mobon }
+		dynasty = go_dynasty
+		adm = 45
+		dip = 30
+		mil = 60
+		birth_date = 18.1.1
+		death_date = 53.1.1
+		birth = hetu_ala
+		culture = korean_culture
+		religion = muism
+		tag = GOGU
+	}
+	sxio_bi_xiongnu = {
+		first_name = { name = bi }
+		dynasty = xiongnu_dynasty
+		adm = 30
+		dip = 60
+		mil = 30
+		birth_date = 18.1.1
+		birth = ordos
+		culture = mongolian_culture
+		religion = tengri
+		tag = SXIO
+	}
+	adia_monobazus_ii_bar_monobaz_1 = {
+		first_name = { name = monobazus }
+		dynasty = bar_monobaz_dynasty
+		adm = 75
+		dip = 60
+		mil = 45
+		birth_date = 20.1.1
+		birth = mosul
+		culture = assyrian
+		religion = zoroastrian
+		tag = ADIA
+	}
+	cald_galgacus_caledonian = {
+		first_name = { name = galgacus }
+		dynasty = caledonian_dynasty
+		adm = 45
+		dip = 45
+		mil = 75
+		birth_date = 20.1.1
+		birth = inverness
+		culture = pictish
+		religion = druidism
+		tag = CALD
+	}
+	chrc_theonesios_iii_hyspaosinid = {
+		first_name = { name = theonesios }
+		dynasty = hyspaosinid_dynasty
+		adm = 0
+		dip = 0
+		mil = 30
+		birth_date = 20.1.1
+		death_date = 54.1.1
+		birth = abdas
+		culture = iraqi_culture
+		religion = hellenism_religion
+		tag = CHRC
+	}
+	cord_manisarus_praetavi = {
+		first_name = { name = manisarus }
+		dynasty = praetavi_dynasty
+		adm = 30
+		dip = 60
+		mil = 75
+		birth_date = 20.1.1
+		birth = bitlis
+		culture = kurdish_culture
+		religion = ashurism
+		tag = CORD
+	}
+	elym_orodes_ii_arsacid = {
+		first_name = { name = orodes }
+		dynasty = arsacid_dynasty
+		adm = 0
+		dip = 0
+		mil = 60
+		birth_date = 20.1.1
+		birth = hoveyzeh
+		culture = khuzi
+		religion = zoroastrian
+		tag = ELYM
+	}
+	goth_berig_goth = {
+		first_name = { name = berig }
+		dynasty = goth_dynasty
+		adm = 75
+		dip = 15
+		mil = 75
+		birth_date = 20.1.1
+		birth = gniew
+		culture = gothic
+		religion = germanic
+		tag = GOTH
+	}
+	iazy_bandanasp_iazyge = {
+		first_name = { name = bandanasp }
+		dynasty = iazyge_dynasty
+		adm = 0
+		dip = 15
+		mil = 60
+		birth_date = 20.1.1
+		birth = bekes
+		culture = sarmatian
+		religion = tengri
+		tag = IAZY
+	}
+	kali_galaveya_mahameghavahana = {
+		first_name = { name = galaveya }
+		dynasty = mahameghavahana_dynasty
+		adm = 15
+		dip = 75
+		mil = 30
+		birth_date = 20.1.1
+		birth = kalinganagara
+		culture = orissan
+		religion = jain
+		tag = KALI
+	}
+	khwa_artay_siyavushid_1 = {
+		first_name = { name = artay }
+		dynasty = siyavushid_dynasty
+		adm = 30
+		dip = 30
+		mil = 60
+		birth_date = 20.1.1
+		birth = urgench
+		culture = khwarezmian
+		religion = zoroastrian
+		tag = KHWA
+	}
+	kong_achyuta_rayan_venadudayar = {
+		first_name = { name = achyuta_rayan }
+		dynasty = venadudayar_dynasty
+		adm = 60
+		dip = 75
+		mil = 30
+		birth_date = 20.1.1
+		birth = coimbatore
+		culture = tamil
+		religion = hindu
+		tag = KONG
+	}
+	ktu_paruka_kirati = {
+		first_name = { name = paruka }
+		dynasty = kirati_dynasty
+		adm = 45
+		dip = 15
+		mil = 45
+		birth_date = 20.1.1
+		birth = kathmandu
+		culture = newar_culture
+		religion = mahayana
+		tag = KTU
+	}
+	lgk_merong_mahawangsa_langkasuka = {
+		first_name = { name = merong_mahawangsa }
+		dynasty = langkasuka_dynasty
+		adm = 60
+		dip = 45
+		mil = 45
+		birth_date = 20.1.1
+		birth = thammarat
+		culture = malay_culture
+		religion = hindu
+		tag = LGK
+	}
+	lomb_aio_lombard = {
+		first_name = { name = aio }
+		dynasty = lombard_dynasty
+		adm = 45
+		dip = 45
+		mil = 0
+		birth_date = 20.1.1
+		birth = magdeburg
+		culture = langobardi
+		religion = germanic
+		tag = LOMB
+	}
+	osra_oengus_osrithe_dal_birn = {
+		first_name = { name = oengus_osrithe }
+		dynasty = dal_birn_dynasty
+		adm = 75
+		dip = 30
+		mil = 60
+		birth_date = 20.1.1
+		birth = waterford
+		culture = irish
+		religion = druidism
+		tag = OSRA
+	}
+	osro_manu_v_abgarid_1 = {
+		first_name = { name = manu }
+		dynasty = abgarid_dynasty
+		adm = 15
+		dip = 30
+		mil = 60
+		birth_date = 20.1.1
+		death_date = 57.1.1
+		birth = urfa
+		culture = syriac_culture
+		religion = ashurism
+		tag = OSRO
+	}
+	padm_bhutinanda_naga = {
+		first_name = { name = bhutinanda }
+		dynasty = naga_dynasty
+		adm = 15
+		dip = 45
+		mil = 15
+		birth_date = 20.1.1
+		birth = gwalior
+		culture = bundeli
+		religion = hindu
+		tag = PADM
+	}
+	panc_vishnumitra_panchala = {
+		first_name = { name = vishnumitra }
+		dynasty = panchala_dynasty
+		adm = 60
+		dip = 30
+		mil = 30
+		birth_date = 20.1.1
+		birth = bareilly
+		culture = awadhi
+		religion = hindu
+		tag = PANC
+	}
+	samt_mahataing_chandra = {
+		first_name = { name = mahataing }
+		dynasty = chandra_dynasty
+		adm = 0
+		dip = 30
+		mil = 60
+		birth_date = 20.1.1
+		birth = bikrampur
+		culture = bengali
+		religion = mahayana
+		tag = SAMT
+	}
+	sata_sivasvati_satavahana = {
+		first_name = { name = sivasvati }
+		dynasty = satavahana_dynasty
+		adm = 30
+		dip = 45
+		mil = 30
+		birth_date = 20.1.1
+		birth = ahmednagar
+		culture = telugu
+		religion = hindu
+		tag = SATA
+	}
+	semn_masyas_semnone = {
+		first_name = { name = masyas }
+		dynasty = semnone_dynasty
+		adm = 45
+		dip = 30
+		mil = 30
+		birth_date = 20.1.1
+		birth = wittenberg
+		culture = east_franconian
+		religion = germanic
+		tag = SEMN
+	}
+	silu_arviragus_silure = {
+		first_name = { name = arviragus }
+		dynasty = silure_dynasty
+		adm = 45
+		dip = 0
+		mil = 0
+		birth_date = 20.1.1
+		birth = cardiff
+		culture = briton
+		religion = druidism
+		tag = SILU
+	}
+	that_angula_thaton = {
+		first_name = { name = angula }
+		dynasty = thaton_dynasty
+		adm = 45
+		dip = 45
+		mil = 15
+		birth_date = 20.1.1
+		birth = thaton
+		culture = mon_culture
+		religion = theravada
+		tag = THAT
+	}
+	trpr_achong_fanai_manikya = {
+		first_name = { name = achong_fanai }
+		dynasty = manikya_dynasty
+		adm = 15
+		dip = 45
+		mil = 60
+		birth_date = 20.1.1
+		birth = agartala
+		culture = dimasa_culture
+		religion = hindu
+		tag = TRPR
+	}
+	yarl_siptri_tsenpo_yarlung = {
+		first_name = { name = siptri_tsenpo }
+		dynasty = yarlung_dynasty
+		adm = 30
+		dip = 0
+		mil = 15
+		birth_date = 20.1.1
+		birth = nedong
+		culture = utsang_culture
+		religion = bon
+		tag = YARL
+	}
+	yaud_mahasenapati_barnwal = {
+		first_name = { name = mahasenapati }
+		dynasty = barnwal_dynasty
+		adm = 60
+		dip = 15
+		mil = 30
+		birth_date = 20.1.1
+		birth = churu
+		culture = punjabi
+		religion = hindu
+		tag = YAUD
+	}
+	alem_mannus_alamanni = {
+		first_name = { name = mannus }
+		dynasty = alamanni_dynasty
+		adm = 45
+		dip = 75
+		mil = 60
+		birth_date = 21.1.1
+		birth = freiburg
+		culture = high_alemannic
+		religion = germanic
+		tag = ALEM
+	}
+	arm_rhadamistus_pharnavazid = {
+		first_name = { name = rhadamistus }
+		dynasty = pharnavazid_dynasty
+		adm = 60
+		dip = 45
+		mil = 45
+		birth_date = 21.1.1
+		death_date = 53.1.1
+		birth = yerevan
+		culture = armenian_culture
+		religion = zoroastrian
+		tag = ARM
+	}
+	atro_pacorus_ii_arsacid = {
+		first_name = { name = pacorus }
+		dynasty = arsacid_dynasty
+		adm = 75
+		dip = 60
+		mil = 45
+		birth_date = 21.1.1
+		birth = barza
+		culture = farsi_culture
+		religion = zoroastrian
+		tag = ATRO
+	}
+	bur_irmin_irmione = {
+		first_name = { name = irmin }
+		dynasty = irmione_dynasty
+		adm = 45
+		dip = 60
+		mil = 30
+		birth_date = 21.1.1
+		birth = sieradz
+		culture = burgundione
+		religion = germanic
+		tag = BUR
+	}
+	gerr_taym_al_lat_gerrha = {
+		first_name = { name = taym_al_lat }
+		dynasty = gerrha_dynasty
+		adm = 30
+		dip = 15
+		mil = 15
+		birth_date = 21.1.1
+		birth = al_ahsa
+		culture = bahrani_culture
+		religion = south_arabian
+		tag = GERR
+	}
+	kuch_shendu_kucha = {
+		first_name = { name = shendu }
+		dynasty = kucha_dynasty
+		adm = 45
+		dip = 30
+		mil = 30
+		birth_date = 21.1.1
+		birth = kucha
+		culture = tocharian
+		religion = mahayana
+		tag = KUCH
+	}
+	part_vologases_i_arsacid = {
+		first_name = { name = vologases }
+		dynasty = arsacid_dynasty
+		adm = 30
+		dip = 75
+		mil = 45
+		birth_date = 21.1.1
+		birth = baghdad
+		culture = parthian
+		religion = zoroastrian
+		tag = PART
+	}
+	sica_chlodomer_iii_sicambri = {
+		first_name = { name = chlodomer }
+		dynasty = sicambri_dynasty
+		adm = 30
+		dip = 45
+		mil = 45
+		birth_date = 21.1.1
+		birth = dortmund
+		culture = frankish
+		religion = germanic
+		tag = SICA
+	}
+	tika_yax_ehb_xok_tikal = {
+		first_name = { name = yax_ehb_xok }
+		dynasty = tikal_dynasty
+		adm = 45
+		dip = 30
+		mil = 75
+		birth_date = 21.1.1
+		birth = noh_peten
+		culture = putun_culture
+		religion = mayan
+		tag = TIKA
+	}
+	aila_xianli_ailao = {
+		first_name = { name = xianli }
+		dynasty = ailao_dynasty
+		adm = 30
+		dip = 30
+		mil = 45
+		birth_date = 22.1.1
+		birth = tengchong
+		culture = khon_muang_culture
+		religion = satsana_phi
+		tag = AILA
+	}
+	ceyl_yassalalaka_vijaya = {
+		first_name = { name = yassalalaka }
+		dynasty = vijaya_dynasty
+		adm = 75
+		dip = 45
+		mil = 45
+		birth_date = 22.1.1
+		birth = kotte
+		culture = sinhalese
+		religion = theravada
+		tag = CEYL
+	}
+	pyu0_monsala_sri_ksetra = {
+		first_name = { name = monsala }
+		dynasty = sri_ksetra_dynasty
+		adm = 30
+		dip = 45
+		mil = 60
+		birth_date = 22.1.1
+		death_date = 57.1.1
+		birth = taungoo
+		culture = pyu
+		religion = theravada
+		tag = PYU0
+	}
+	raja_yassalalaka_vijaya = {
+		first_name = { name = yassalalaka }
+		dynasty = vijaya_dynasty
+		adm = 75
+		dip = 45
+		mil = 45
+		birth_date = 22.1.1
+		birth = jaffna
+		culture = sinhalese
+		religion = theravada
+		tag = RAJA
+	}
+	srks_monsala_sri_ksetra = {
+		first_name = { name = monsala }
+		dynasty = sri_ksetra_dynasty
+		adm = 30
+		dip = 45
+		mil = 60
+		birth_date = 22.1.1
+		death_date = 57.1.1
+		birth = pyay
+		culture = pyu
+		religion = theravada
+		tag = SRKS
+	}
+	gogu_taejo_go = {
+		first_name = { name = taejo }
+		dynasty = go_dynasty
+		adm = 60
+		dip = 45
+		mil = 75
+		birth_date = 23.1.1
+		birth = hetu_ala
+		culture = korean_culture
+		religion = muism
+		tag = GOGU
+	}
+	arm_tigranes_vi_herodian = {
+		first_name = { name = tigranes }
+		dynasty = herodian_dynasty
+		adm = 30
+		dip = 45
+		mil = 30
+		birth_date = 24.1.1
+		birth = yerevan
+		culture = armenian_culture
+		religion = zoroastrian
+		tag = ARM
+	}
+	chrc_attambelos_iv_hyspaosinid = {
+		first_name = { name = attambelos }
+		dynasty = hyspaosinid_dynasty
+		adm = 30
+		dip = 0
+		mil = 0
+		birth_date = 24.1.1
+		birth = abdas
+		culture = iraqi_culture
+		religion = hellenism_religion
+		tag = CHRC
+	}
+	mero_amanitaraqide_meroe = {
+		first_name = { name = amanitaraqide }
+		dynasty = meroe_dynasty
+		adm = 15
+		dip = 30
+		mil = 45
+		birth_date = 25.1.1
+		birth = shendi
+		culture = kushite
+		religion = egyptian
+		tag = MERO
+	}
+	quad_sido_quadi = {
+		first_name = { name = sido }
+		dynasty = quadi_dynasty
+		adm = 45
+		dip = 60
+		mil = 60
+		birth_date = 25.1.1
+		birth = hradiste
+		culture = quadian
+		religion = germanic
+		tag = QUAD
+	}
+	wsat_nahapana_kshaharata = {
+		first_name = { name = nahapana }
+		dynasty = kshaharata_dynasty
+		adm = 75
+		dip = 60
+		mil = 45
+		birth_date = 25.1.1
+		birth = ujjain
+		culture = gujarati
+		religion = hindu
+		tag = WSAT
+	}
+	osro_manu_vi_abgarid = {
+		first_name = { name = manu }
+		dynasty = abgarid_dynasty
+		adm = 15
+		dip = 0
+		mil = 60
+		birth_date = 27.1.1
+		birth = urfa
+		culture = syriac_culture
+		religion = ashurism
+		tag = OSRO
+	}
+	pyu0_ponna_sri_ksetra = {
+		first_name = { name = ponna }
+		dynasty = sri_ksetra_dynasty
+		adm = 45
+		dip = 30
+		mil = 45
+		birth_date = 27.1.1
+		birth = taungoo
+		culture = pyu
+		religion = theravada
+		tag = PYU0
+	}
+	qian_dianwu_shaodang = {
+		first_name = { name = dianwu }
+		dynasty = shaodang_dynasty
+		adm = 45
+		dip = 60
+		mil = 60
+		birth_date = 27.1.1
+		birth = chabcha
+		culture = amdowa_culture
+		religion = bon
+		tag = QIAN
+	}
+	sill_talhae_silla = {
+		first_name = { name = talhae }
+		dynasty = silla_dynasty
+		adm = 30
+		dip = 45
+		mil = 60
+		birth_date = 27.1.1
+		birth = gyeongju
+		culture = korean_culture
+		religion = muism
+		tag = SILL
+	}
+	srks_ponna_sri_ksetra = {
+		first_name = { name = ponna }
+		dynasty = sri_ksetra_dynasty
+		adm = 45
+		dip = 30
+		mil = 45
+		birth_date = 27.1.1
+		birth = pyay
+		culture = pyu
+		religion = theravada
+		tag = SRKS
+	}
+	arm_tiridates_i_arsacid = {
+		first_name = { name = tiridates }
+		dynasty = arsacid_dynasty
+		adm = 60
+		dip = 45
+		mil = 45
+		birth_date = 28.1.1
+		birth = yerevan
+		culture = armenian_culture
+		religion = zoroastrian
+		tag = ARM
+	}
+	han0_zhuang_liu = {
+		first_name = { name = zhuang }
+		dynasty = liu_dynasty
+		adm = 30
+		dip = 60
+		mil = 45
+		birth_date = 28.6.15
+		birth = luoyang
+		culture = zhongyuan_culture
+		religion = sanjiao
+		tag = HAN0
+	}
+	iber_mihdrates_i_pharnavazid = {
+		first_name = { name = mihdrates }
+		dynasty = pharnavazid_dynasty
+		adm = 30
+		dip = 75
+		mil = 45
+		birth_date = 28.1.1
+		birth = tbilisi
+		culture = georgian_culture
+		religion = georgian_religion
+		tag = IBER
+	}
+	ksh_shreshtasena_gonandiya = {
+		first_name = { name = shreshtasena }
+		dynasty = gonandiya_dynasty
+		adm = 60
+		dip = 15
+		mil = 30
+		birth_date = 29.1.1
+		birth = srinagar
+		culture = kashmiri_culture
+		religion = mahayana
+		tag = KSH
+	}
+	adia_monobazus_ii_bar_monobaz = {
+		first_name = { name = monobazus }
+		dynasty = bar_monobaz_dynasty
+		adm = 75
+		dip = 60
+		mil = 45
+		birth_date = 30.1.1
+		birth = mosul
+		father = adia_izates_ii_bar_monobaz
+		culture = assyrian
+		religion = judaism
+		tag = ADIA
+	}
+	aila_jiulong_ailao = {
+		first_name = { name = jiulong }
+		dynasty = ailao_dynasty
+		adm = 30
+		dip = 45
+		mil = 30
+		birth_date = 30.1.1
+		birth = tengchong
+		culture = khon_muang_culture
+		religion = satsana_phi
+		tag = AILA
+	}
+	aksm_za_haqala_solomonid = {
+		first_name = { name = za_haqala }
+		dynasty = solomonid_dynasty
+		adm = 45
+		dip = 45
+		mil = 45
+		birth_date = 30.1.1
+		birth = axum
+		culture = tigrinya
+		religion = south_arabian
+		tag = AKSM
+	}
+	aksm_beygat_solomonid = {
+		first_name = { name = beygat }
+		dynasty = solomonid_dynasty
+		adm = 45
+		dip = 45
+		mil = 30
+		birth_date = 30.1.1
+		birth = axum
+		culture = tigrinya
+		religion = south_arabian
+		tag = AKSM
+	}
+	ay00_titiyan_ay = {
+		first_name = { name = titiyan }
+		dynasty = ay_dynasty
+		adm = 60
+		dip = 60
+		mil = 45
+		birth_date = 30.1.1
+		birth = kollam
+		culture = malayali
+		religion = hindu
+		tag = AY00
+	}
+	ceyl_subharaja_vijaya = {
+		first_name = { name = subharaja }
+		dynasty = vijaya_dynasty
+		adm = 45
+		dip = 30
+		mil = 15
+		birth_date = 30.1.1
+		birth = kotte
+		culture = sinhalese
+		religion = theravada
+		tag = CEYL
+	}
+	cnn_eochaidh_connacht = {
+		first_name = { name = eochaidh }
+		dynasty = connacht_dynasty
+		adm = 15
+		dip = 45
+		mil = 15
+		birth_date = 30.1.1
+		birth = galway
+		culture = irish
+		religion = druidism
+		tag = CNN
+	}
+	gaya_suro_gaya = {
+		first_name = { name = suro }
+		dynasty = gaya_dynasty
+		adm = 60
+		dip = 60
+		mil = 45
+		birth_date = 30.1.1
+		birth = jinju
+		culture = jinhan
+		religion = muism
+		tag = GAYA
+	}
+	himy_zamir_ali_zarih_iii_himyar = {
+		first_name = { name = zamir_ali_zarih }
+		dynasty = himyar_dynasty
+		adm = 75
+		dip = 45
+		mil = 75
+		birth_date = 30.1.1
+		birth = al_mukha
+		culture = yemeni_culture
+		religion = south_arabian
+		tag = HIMY
+	}
+	kads_dharmasvara_kandis = {
+		first_name = { name = dharmasvara }
+		dynasty = kandis_dynasty
+		adm = 60
+		dip = 45
+		mil = 45
+		birth_date = 30.1.1
+		birth = siak
+		culture = malay_culture
+		religion = mahayana
+		tag = KADS
+	}
+	kara_zhong_karasahr = {
+		first_name = { name = zhong }
+		dynasty = karasahr_dynasty
+		adm = 30
+		dip = 0
+		mil = 30
+		birth_date = 30.1.1
+		birth = beshbalik
+		culture = tocharian
+		religion = mahayana
+		tag = KARA
+	}
+	khwa_artay_siyavushid = {
+		first_name = { name = artay }
+		dynasty = siyavushid_dynasty
+		adm = 30
+		dip = 30
+		mil = 60
+		birth_date = 30.1.1
+		birth = urgench
+		father = khwa_farasman_siyavushid
+		culture = khwarezmian
+		religion = zoroastrian
+		tag = KHWA
+	}
+	mina_ilyafa_yashur_minaean = {
+		first_name = { name = ilyafa_yashur }
+		dynasty = minaean_dynasty
+		adm = 30
+		dip = 30
+		mil = 15
+		birth_date = 30.1.1
+		birth = abha
+		culture = yemeni_culture
+		religion = south_arabian
+		tag = MINA
+	}
+	pess_napad_i_bazarangid = {
+		first_name = { name = napad }
+		dynasty = bazarangid_dynasty
+		adm = 45
+		dip = 15
+		mil = 60
+		birth_date = 30.1.1
+		birth = shiraz
+		culture = farsi_culture
+		religion = zoroastrian
+		tag = PESS
+	}
+	pyu0_thakha_sri_ksetra = {
+		first_name = { name = thakha }
+		dynasty = sri_ksetra_dynasty
+		adm = 15
+		dip = 30
+		mil = 45
+		birth_date = 30.1.1
+		birth = taungoo
+		culture = pyu
+		religion = theravada
+		tag = PYU0
+	}
+	raja_subharaja_vijaya = {
+		first_name = { name = subharaja }
+		dynasty = vijaya_dynasty
+		adm = 45
+		dip = 30
+		mil = 15
+		birth_date = 30.1.1
+		birth = jaffna
+		culture = sinhalese
+		religion = theravada
+		tag = RAJA
+	}
+	snd_som_ror = {
+		first_name = { name = som }
+		dynasty = ror_dynasty
+		adm = 15
+		dip = 30
+		mil = 0
+		birth_date = 30.1.1
+		birth = sukkur
+		culture = sindhi
+		religion = mahayana
+		tag = SND
+	}
+	srks_thakha_sri_ksetra = {
+		first_name = { name = thakha }
+		dynasty = sri_ksetra_dynasty
+		adm = 15
+		dip = 30
+		mil = 45
+		birth_date = 30.1.1
+		birth = pyay
+		culture = pyu
+		religion = theravada
+		tag = SRKS
+	}
+	tnk_nedunjeliyan_iii_pandya = {
+		first_name = { name = nedunjeliyan }
+		dynasty = pandya_dynasty
+		adm = 30
+		dip = 45
+		mil = 0
+		birth_date = 30.1.1
+		birth = madurai
+		culture = tamil
+		religion = hindu
+		tag = TNK
+	}
+	uls_fergus_ulster = {
+		first_name = { name = fergus }
+		dynasty = ulster_dynasty
+		adm = 15
+		dip = 60
+		mil = 45
+		birth_date = 30.1.1
+		birth = belfast
+		culture = irish
+		religion = druidism
+		tag = ULS
+	}
+	hota_weishi_khotan = {
+		first_name = { name = weishi }
+		dynasty = khotan_dynasty
+		adm = 60
+		dip = 30
+		mil = 30
+		birth_date = 31.1.1
+		birth = khotan
+		culture = saka
+		religion = mahayana
+		tag = HOTA
+	}
+	mero_amanikhtashan_meroe = {
+		first_name = { name = amanikhtashan }
+		dynasty = meroe_dynasty
+		adm = 15
+		dip = 75
+		mil = 45
+		birth_date = 32.1.1
+		birth = shendi
+		culture = kushite
+		religion = egyptian
+		tag = MERO
+	}
+	pyu0_thathi_sri_ksetra = {
+		first_name = { name = thathi }
+		dynasty = sri_ksetra_dynasty
+		adm = 15
+		dip = 75
+		mil = 45
+		birth_date = 33.1.1
+		birth = taungoo
+		culture = pyu
+		religion = theravada
+		tag = PYU0
+	}
+	sica_antenor_iv_sicambri = {
+		first_name = { name = antenor }
+		dynasty = sicambri_dynasty
+		adm = 15
+		dip = 30
+		mil = 60
+		birth_date = 33.1.1
+		birth = dortmund
+		culture = frankish
+		religion = germanic
+		tag = SICA
+	}
+	srks_thathi_sri_ksetra = {
+		first_name = { name = thathi }
+		dynasty = sri_ksetra_dynasty
+		adm = 15
+		dip = 75
+		mil = 45
+		birth_date = 33.1.1
+		birth = pyay
+		culture = pyu
+		religion = theravada
+		tag = SRKS
+	}
+	aila_liumao_ailao = {
+		first_name = { name = liumao }
+		dynasty = ailao_dynasty
+		adm = 30
+		dip = 45
+		mil = 15
+		birth_date = 35.1.1
+		birth = tengchong
+		culture = khon_muang_culture
+		religion = satsana_phi
+		tag = AILA
+	}
+	chrc_attambelos_v_hyspaosinid = {
+		first_name = { name = attambelos }
+		dynasty = hyspaosinid_dynasty
+		adm = 0
+		dip = 0
+		mil = 75
+		birth_date = 35.1.1
+		birth = abdas
+		culture = iraqi_culture
+		religion = hellenism_religion
+		tag = CHRC
+	}
+	heru_vitalaus_heruli = {
+		first_name = { name = vitalaus }
+		dynasty = heruli_dynasty
+		adm = 75
+		dip = 15
+		mil = 75
+		birth_date = 35.1.1
+		birth = malmo
+		culture = scanian
+		religion = norse
+		tag = HERU
+	}
+	ceyl_vasabha_lambakanna = {
+		first_name = { name = vasabha }
+		dynasty = lambakanna_dynasty
+		adm = 30
+		dip = 30
+		mil = 60
+		birth_date = 36.1.1
+		birth = kotte
+		culture = sinhalese
+		religion = theravada
+		tag = CEYL
+	}
+	pyu0_kan_nu_sri_ksetra = {
+		first_name = { name = kan_nu }
+		dynasty = sri_ksetra_dynasty
+		adm = 30
+		dip = 60
+		mil = 30
+		birth_date = 36.1.1
+		birth = taungoo
+		culture = pyu
+		religion = theravada
+		tag = PYU0
+	}
+	raja_vasabha_lambakanna = {
+		first_name = { name = vasabha }
+		dynasty = lambakanna_dynasty
+		adm = 30
+		dip = 30
+		mil = 60
+		birth_date = 36.1.1
+		birth = jaffna
+		culture = sinhalese
+		religion = theravada
+		tag = RAJA
+	}
+	srks_kan_nu_sri_ksetra = {
+		first_name = { name = kan_nu }
+		dynasty = sri_ksetra_dynasty
+		adm = 30
+		dip = 60
+		mil = 30
+		birth_date = 36.1.1
+		birth = pyay
+		culture = pyu
+		religion = theravada
+		tag = SRKS
+	}
+	pyu0_kan_tet_sri_ksetra = {
+		first_name = { name = kan_tet }
+		dynasty = sri_ksetra_dynasty
+		adm = 30
+		dip = 30
+		mil = 45
+		birth_date = 37.1.1
+		birth = taungoo
+		culture = pyu
+		religion = theravada
+		tag = PYU0
+	}
+	rom_nero_julio_claudian = {
+		first_name = { name = nero }
+		dynasty = julio_claudian_dynasty
+		adm = 15
+		dip = 45
+		mil = 45
+		birth_date = 37.12.15
+		birth = rome
+		culture = roman
+		religion = hellenism_religion
+		tag = ROM
+	}
+	srks_kan_tet_sri_ksetra = {
+		first_name = { name = kan_tet }
+		dynasty = sri_ksetra_dynasty
+		adm = 30
+		dip = 30
+		mil = 45
+		birth_date = 37.1.1
+		birth = pyay
+		culture = pyu
+		religion = theravada
+		tag = SRKS
+	}
+	ark_wada_gun_danyawaddy = {
+		first_name = { name = wada_gun }
+		dynasty = danyawaddy_dynasty
+		adm = 60
+		dip = 30
+		mil = 45
+		birth_date = 38.1.1
+		birth = launggyet
+		culture = rakhine_culture
+		religion = mahayana
+		tag = ARK
+	}
+	bosp_rhescuporis_i_bosporan = {
+		first_name = { name = rhescuporis }
+		dynasty = bosporan_dynasty
+		adm = 75
+		dip = 60
+		mil = 45
+		birth_date = 38.1.1
+		birth = kaffa
+		culture = pontic_greek_culture
+		religion = hellenism_religion
+		tag = BOSP
+	}
+	daci_duras_dacian = {
+		first_name = { name = duras }
+		dynasty = dacian_dynasty
+		adm = 30
+		dip = 45
+		mil = 45
+		birth_date = 38.1.1
+		birth = alba_iulia
+		culture = dacian
+		religion = zamolxism
+		tag = DACI
+	}
+	rom_galba_severius_sulpicius = {
+		first_name = { name = galba }
+		dynasty = severius_sulpicius_dynasty
+		adm = 30
+		dip = 30
+		mil = 30
+		birth_date = 38.1.1
+		birth = rome
+		culture = roman
+		religion = hellenism_religion
+		tag = ROM
+	}
+	brig_venutius_brigante = {
+		first_name = { name = venutius }
+		dynasty = brigante_dynasty
+		adm = 45
+		dip = 60
+		mil = 60
+		birth_date = 39.1.1
+		birth = newcastle
+		culture = briton
+		religion = druidism
+		tag = BRIG
+	}
+	rom_otho_marcus_salvius = {
+		first_name = { name = otho }
+		dynasty = marcus_salvius_dynasty
+		adm = 15
+		dip = 60
+		mil = 15
+		birth_date = 39.1.1
+		birth = rome
+		culture = roman
+		religion = hellenism_religion
+		tag = ROM
+	}
+	rom_vitellius_aulus = {
+		first_name = { name = vitellius }
+		dynasty = aulus_dynasty
+		adm = 45
+		dip = 30
+		mil = 30
+		birth_date = 39.1.1
+		birth = rome
+		culture = roman
+		religion = hellenism_religion
+		tag = ROM
+	}
+	rom_vespasian_flavian = {
+		first_name = { name = vespasian }
+		dynasty = flavian_dynasty
+		adm = 60
+		dip = 45
+		mil = 90
+		birth_date = 39.1.1
+		birth = rome
+		culture = roman
+		religion = hellenism_religion
+		tag = ROM
+	}
+	rom_titus_flavian = {
+		first_name = { name = titus }
+		dynasty = flavian_dynasty
+		adm = 60
+		dip = 45
+		mil = 75
+		birth_date = 39.12.30
+		birth = rome
+		father = rom_vespasian_flavian
+		culture = roman
+		religion = hellenism_religion
+		tag = ROM
+	}
+	sica_rather_i_sicambri = {
+		first_name = { name = rather }
+		dynasty = sicambri_dynasty
+		adm = 30
+		dip = 45
+		mil = 15
+		birth_date = 39.1.1
+		birth = dortmund
+		culture = frankish
+		religion = germanic
+		tag = SICA
+	}
+	ben_orire_igodomigodo = {
+		first_name = { name = orire }
+		dynasty = igodomigodo_dynasty
+		adm = 45
+		dip = 15
+		mil = 45
+		birth_date = 40.1.1
+		birth = benin
+		culture = edo
+		religion = bantu_religion
+		tag = BEN
+	}
+	cher_nedum_cheralathan_vanavaramban = {
+		first_name = { name = nedum_cheralathan }
+		dynasty = vanavaramban_dynasty
+		adm = 30
+		dip = 75
+		mil = 45
+		birth_date = 40.1.1
+		birth = ponnani
+		culture = malayali
+		religion = hindu
+		tag = CHER
+	}
+	elym_phraates_i_arsacid = {
+		first_name = { name = phraates }
+		dynasty = arsacid_dynasty
+		adm = 60
+		dip = 45
+		mil = 60
+		birth_date = 40.1.1
+		birth = hoveyzeh
+		culture = khuzi
+		religion = zoroastrian
+		tag = ELYM
+	}
+	funa_soma_somvong = {
+		first_name = { name = soma }
+		dynasty = somvong_dynasty
+		adm = 60
+		dip = 45
+		mil = 30
+		birth_date = 40.1.1
+		birth = vyadhapura
+		culture = khmer_culture
+		religion = hindu
+		tag = FUNA
+	}
+	pyu0_beizza_sri_ksetra = {
+		first_name = { name = beizza }
+		dynasty = sri_ksetra_dynasty
+		adm = 30
+		dip = 45
+		mil = 45
+		birth_date = 40.1.1
+		birth = taungoo
+		culture = pyu
+		religion = theravada
+		tag = PYU0
+	}
+	srks_beizza_sri_ksetra = {
+		first_name = { name = beizza }
+		dynasty = sri_ksetra_dynasty
+		adm = 30
+		dip = 45
+		mil = 45
+		birth_date = 40.1.1
+		birth = pyay
+		culture = pyu
+		religion = theravada
+		tag = SRKS
+	}
+	vand_raus_vandal = {
+		first_name = { name = raus }
+		dynasty = vandal_dynasty
+		adm = 60
+		dip = 75
+		mil = 75
+		birth_date = 40.1.1
+		birth = wroclaw
+		culture = vandal
+		religion = germanic
+		tag = VAND
+	}
+	naba_rabbel_ii_soter_nabataean = {
+		first_name = { name = rabbel_ii_soter }
+		dynasty = nabataean_dynasty
+		adm = 75
+		dip = 45
+		mil = 15
+		birth_date = 41.1.1
+		birth = maan
+		culture = nabataean_culture
+		religion = nabataean
+		tag = NABA
+	}
+	osro_abgar_vi_abgarid = {
+		first_name = { name = abgar }
+		dynasty = abgarid_dynasty
+		adm = 15
+		dip = 0
+		mil = 30
+		birth_date = 41.1.1
+		birth = urfa
+		culture = syriac_culture
+		religion = ashurism
+		tag = OSRO
+	}
+	ymt_keiko_yamato = {
+		first_name = { name = keiko }
+		dynasty = yamato_dynasty
+		adm = 45
+		dip = 30
+		mil = 45
+		birth_date = 41.1.1
+		birth = nara
+		culture = saigoku_culture
+		religion = shinto
+		tag = YMT
+	}
+	kuch_jian_kucha = {
+		first_name = { name = jian }
+		dynasty = kucha_dynasty
+		adm = 45
+		dip = 30
+		mil = 60
+		birth_date = 43.1.1
+		birth = kucha
+		culture = tocharian
+		religion = mahayana
+		tag = KUCH
+	}
+	shul_douti_shule = {
+		first_name = { name = douti }
+		dynasty = shule_dynasty
+		adm = 30
+		dip = 30
+		mil = 15
+		birth_date = 43.1.1
+		birth = kashgar
+		culture = saka
+		religion = tengri
+		tag = SHUL
+	}
+	chrc_orabazes_ii_hyspaosinid = {
+		first_name = { name = orabazes }
+		dynasty = hyspaosinid_dynasty
+		adm = 75
+		dip = 45
+		mil = 60
+		birth_date = 44.1.1
+		birth = abdas
+		culture = iraqi_culture
+		religion = hellenism_religion
+		tag = CHRC
+	}
+	pyu0_thumondari_sri_ksetra = {
+		first_name = { name = thumondari }
+		dynasty = sri_ksetra_dynasty
+		adm = 45
+		dip = 30
+		mil = 60
+		birth_date = 44.1.1
+		birth = taungoo
+		culture = pyu
+		religion = theravada
+		tag = PYU0
+	}
+	srks_thumondari_sri_ksetra = {
+		first_name = { name = thumondari }
+		dynasty = sri_ksetra_dynasty
+		adm = 45
+		dip = 30
+		mil = 60
+		birth_date = 44.1.1
+		birth = pyay
+		culture = pyu
+		religion = theravada
+		tag = SRKS
+	}
+	that_urunnata_thaton = {
+		first_name = { name = urunnata }
+		dynasty = thaton_dynasty
+		adm = 75
+		dip = 75
+		mil = 45
+		birth_date = 45.1.1
+		birth = thaton
+		culture = mon_culture
+		religion = theravada
+		tag = THAT
+	}
+	trpr_beer_singha_manikya = {
+		first_name = { name = beer_singha }
+		dynasty = manikya_dynasty
+		adm = 75
+		dip = 0
+		mil = 60
+		birth_date = 45.1.1
+		birth = agartala
+		culture = dimasa_culture
+		religion = hindu
+		tag = TRPR
+	}
+	yarl_drigum_tsenpo_yarlung = {
+		first_name = { name = drigum_tsenpo }
+		dynasty = yarlung_dynasty
+		adm = 15
+		dip = 75
+		mil = 15
+		birth_date = 45.1.1
+		birth = nedong
+		culture = utsang_culture
+		religion = bon
+		tag = YARL
+	}
+	ipar_sases_suren = {
+		first_name = { name = sases }
+		dynasty = suren_dynasty
+		adm = 15
+		dip = 15
+		mil = 15
+		birth_date = 46.1.1
+		birth = zabol
+		culture = afghan_culture
+		religion = zoroastrian
+		tag = IPAR
+	}
+	kuch_ulido_kucha = {
+		first_name = { name = ulido }
+		dynasty = kucha_dynasty
+		adm = 45
+		dip = 60
+		mil = 15
+		birth_date = 46.1.1
+		birth = kucha
+		culture = tocharian
+		religion = mahayana
+		tag = KUCH
+	}
+	baek_giru_baekje = {
+		first_name = { name = giru }
+		dynasty = baekje_dynasty
+		adm = 15
+		dip = 30
+		mil = 45
+		birth_date = 47.1.1
+		birth = namgyeong
+		culture = korean_culture
+		religion = muism
+		tag = BAEK
+	}
+	part_vologases_ii_arsacid = {
+		first_name = { name = vologases }
+		dynasty = arsacid_dynasty
+		adm = 75
+		dip = 60
+		mil = 45
+		birth_date = 47.1.1
+		birth = baghdad
+		culture = parthian
+		religion = zoroastrian
+		tag = PART
+	}
+	qian_miwu_shaodang = {
+		first_name = { name = miwu }
+		dynasty = shaodang_dynasty
+		adm = 75
+		dip = 60
+		mil = 45
+		birth_date = 47.1.1
+		birth = chabcha
+		culture = amdowa_culture
+		religion = bon
+		tag = QIAN
+	}
+	sata_gautamiputra_satakarni_satavahana = {
+		first_name = { name = gautamiputra_satakarni }
+		dynasty = satavahana_dynasty
+		adm = 60
+		dip = 45
+		mil = 60
+		birth_date = 48.1.1
+		birth = ahmednagar
+		culture = telugu
+		religion = hindu
+		tag = SATA
+	}
+	part_pacorus_ii_arsacid = {
+		first_name = { name = pacorus }
+		dynasty = arsacid_dynasty
+		adm = 75
+		dip = 60
+		mil = 45
+		birth_date = 49.1.1
+		birth = baghdad
+		culture = parthian
+		religion = zoroastrian
+		tag = PART
+	}
+	rom_titus_flavian_1 = {
+		first_name = { name = titus }
+		dynasty = flavian_dynasty
+		adm = 60
+		dip = 45
+		mil = 75
+		birth_date = 49.1.1
+		birth = rome
+		culture = roman
+		religion = hellenism_religion
+		tag = ROM
+	}
+	adia_meharaspes_adiabene = {
+		first_name = { name = meharaspes }
+		dynasty = adiabene_dynasty
+		adm = 90
+		dip = 15
+		mil = 30
+		birth_date = 50.1.1
+		birth = mosul
+		culture = assyrian
+		religion = zoroastrian
+		tag = ADIA
+	}
+	chci_brinno_chauci = {
+		first_name = { name = brinno }
+		dynasty = chauci_dynasty
+		adm = 45
+		dip = 30
+		mil = 75
+		birth_date = 50.1.1
+		birth = stade
+		culture = eastphalian
+		religion = germanic
+		tag = CHCI
+	}
+	chol_vaer_paqradakkai_perunar_killi_chola = {
+		first_name = { name = vaer_paqradakkai_perunar_killi }
+		dynasty = chola_dynasty
+		adm = 30
+		dip = 60
+		mil = 45
+		birth_date = 50.1.1
+		birth = pondicherry
+		culture = tamil
+		religion = hindu
+		tag = CHOL
+	}
+	chrs_chariomerus_cherusci = {
+		first_name = { name = chariomerus }
+		dynasty = cherusci_dynasty
+		adm = 45
+		dip = 30
+		mil = 30
+		birth_date = 50.1.1
+		birth = paderborn
+		culture = rhine_franconian
+		religion = germanic
+		tag = CHRS
+	}
+	cnn_aonghus_fionn_connacht = {
+		first_name = { name = aonghus_fionn }
+		dynasty = connacht_dynasty
+		adm = 15
+		dip = 60
+		mil = 15
+		birth_date = 50.1.1
+		birth = galway
+		culture = irish
+		religion = druidism
+		tag = CNN
+	}
+	dms_dedu_munster = {
+		first_name = { name = dedu }
+		dynasty = munster_dynasty
+		adm = 15
+		dip = 45
+		mil = 60
+		birth_date = 50.1.1
+		birth = cork
+		culture = irish
+		religion = druidism
+		tag = DMS
+	}
+	funa_kaundinya_i_kaundinya = {
+		first_name = { name = kaundinya }
+		dynasty = kaundinya_dynasty
+		adm = 45
+		dip = 60
+		mil = 45
+		birth_date = 50.1.1
+		birth = vyadhapura
+		culture = khmer_culture
+		religion = hindu
+		tag = FUNA
+	}
+	herm_vangio_hermunduri = {
+		first_name = { name = vangio }
+		dynasty = hermunduri_dynasty
+		adm = 15
+		dip = 45
+		mil = 15
+		birth_date = 50.1.1
+		birth = erfurt
+		culture = east_franconian
+		religion = germanic
+		tag = HERM
+	}
+	lei_cathair_mor_laigin = {
+		first_name = { name = cathair_mor }
+		dynasty = laigin_dynasty
+		adm = 60
+		dip = 45
+		mil = 60
+		birth_date = 50.1.1
+		birth = wexford
+		culture = irish
+		religion = druidism
+		tag = LEI
+	}
+	lwa_bhichuuk_bazdeo = {
+		first_name = { name = bhichuuk }
+		dynasty = bazdeo_dynasty
+		adm = 75
+		dip = 0
+		mil = 30
+		birth_date = 50.1.1
+		birth = vijayapur
+		culture = newar_culture
+		religion = mahayana
+		tag = LWA
+	}
+	pess_nambed_ii_bazarangid = {
+		first_name = { name = nambed }
+		dynasty = bazarangid_dynasty
+		adm = 30
+		dip = 15
+		mil = 30
+		birth_date = 50.1.1
+		birth = shiraz
+		culture = farsi_culture
+		religion = zoroastrian
+		tag = PESS
+	}
+	qatb_yasir_yuhanem_i_qataban = {
+		first_name = { name = yasir_yuhanem }
+		dynasty = qataban_dynasty
+		adm = 45
+		dip = 30
+		mil = 60
+		birth_date = 50.1.1
+		birth = al_mukalla
+		culture = yemeni_culture
+		religion = south_arabian
+		tag = QATB
+	}
+	shan_tomgraka_shanshan = {
+		first_name = { name = tomgraka }
+		dynasty = shanshan_dynasty
+		adm = 45
+		dip = 30
+		mil = 30
+		birth_date = 50.1.1
+		birth = charklik
+		culture = tocharian
+		religion = mahayana
+		tag = SHAN
+	}
+	sill_pasa_silla = {
+		first_name = { name = pasa }
+		dynasty = silla_dynasty
+		adm = 45
+		dip = 30
+		mil = 45
+		birth_date = 50.1.1
+		birth = gyeongju
+		culture = korean_culture
+		religion = muism
+		tag = SILL
+	}
+	snd_mitravan_ror = {
+		first_name = { name = mitravan }
+		dynasty = ror_dynasty
+		adm = 15
+		dip = 0
+		mil = 30
+		birth_date = 50.1.1
+		birth = sukkur
+		culture = sindhi
+		religion = mahayana
+		tag = SND
+	}
+	sure_pacores_suren = {
+		first_name = { name = pacores }
+		dynasty = suren_dynasty
+		adm = 60
+		dip = 45
+		mil = 15
+		birth_date = 50.1.1
+		birth = zabol
+		culture = afghan_culture
+		religion = zoroastrian
+		tag = SURE
+	}
+	uls_conchobar_ulster = {
+		first_name = { name = conchobar }
+		dynasty = ulster_dynasty
+		adm = 75
+		dip = 15
+		mil = 45
+		birth_date = 50.1.1
+		birth = belfast
+		culture = irish
+		religion = druidism
+		tag = ULS
+	}
+	puzh_mulananda_chutu = {
+		first_name = { name = mulananda }
+		dynasty = chutu_dynasty
+		adm = 45
+		dip = 0
+		mil = 0
+		birth_date = 51.1.1
+		birth = darwar
+		culture = tamil
+		religion = hindu
+		tag = PUZH
+	}
+	pyu0_atitya_sri_ksetra = {
+		first_name = { name = atitya }
+		dynasty = sri_ksetra_dynasty
+		adm = 60
+		dip = 45
+		mil = 45
+		birth_date = 51.1.1
+		birth = taungoo
+		culture = pyu
+		religion = theravada
+		tag = PYU0
+	}
+	rom_domitian_flavian = {
+		first_name = { name = domitian }
+		dynasty = flavian_dynasty
+		adm = 60
+		dip = 30
+		mil = 60
+		birth_date = 51.1.1
+		birth = rome
+		culture = roman
+		religion = hellenism_religion
+		tag = ROM
+	}
+	srks_atitya_sri_ksetra = {
+		first_name = { name = atitya }
+		dynasty = sri_ksetra_dynasty
+		adm = 60
+		dip = 45
+		mil = 45
+		birth_date = 51.1.1
+		birth = pyay
+		culture = pyu
+		religion = theravada
+		tag = SRKS
+	}
+	rom_trajan_nerva_antonine = {
+		first_name = { name = trajan }
+		dynasty = nerva_antonine_dynasty
+		adm = 75
+		dip = 75
+		mil = 90
+		birth_date = 53.9.18
+		birth = rome
+		father = rom_nerva_nerva_antonine
+		culture = roman
+		religion = hellenism_religion
+		tag = ROM
+	}
+	pyu0_thupyinnya_sri_ksetra = {
+		first_name = { name = thupyinnya }
+		dynasty = sri_ksetra_dynasty
+		adm = 30
+		dip = 45
+		mil = 30
+		birth_date = 54.1.1
+		birth = taungoo
+		culture = pyu
+		religion = theravada
+		tag = PYU0
+	}
+	srks_thupyinnya_sri_ksetra = {
+		first_name = { name = thupyinnya }
+		dynasty = sri_ksetra_dynasty
+		adm = 30
+		dip = 45
+		mil = 30
+		birth_date = 54.1.1
+		birth = pyay
+		culture = pyu
+		religion = theravada
+		tag = SRKS
+	}
+	mero_teritnide_meroe = {
+		first_name = { name = teritnide }
+		dynasty = meroe_dynasty
+		adm = 30
+		dip = 60
+		mil = 30
+		birth_date = 55.1.1
+		birth = shendi
+		culture = kushite
+		religion = egyptian
+		tag = MERO
+	}
+	yark_qili_yarkand = {
+		first_name = { name = qili }
+		dynasty = yarkand_dynasty
+		adm = 45
+		dip = 30
+		mil = 45
+		birth_date = 56.1.1
+		birth = yarkand
+		culture = uyghur_culture
+		religion = sunni
+		tag = YARK
+	}
+	daci_decebalus_dacian = {
+		first_name = { name = decebalus }
+		dynasty = dacian_dynasty
+		adm = 30
+		dip = 30
+		mil = 30
+		birth_date = 57.1.1
+		birth = alba_iulia
+		culture = dacian
+		religion = zamolxism
+		tag = DACI
+	}
+	han0_da_liu = {
+		first_name = { name = da }
+		dynasty = liu_dynasty
+		adm = 30
+		dip = 30
+		mil = 45
+		birth_date = 57.1.1
+		birth = luoyang
+		culture = zhongyuan_culture
+		religion = sanjiao
+		tag = HAN0
+	}
+	qian_mitang_shaodang = {
+		first_name = { name = mitang }
+		dynasty = shaodang_dynasty
+		adm = 0
+		dip = 0
+		mil = 60
+		birth_date = 57.1.1
+		birth = chabcha
+		culture = amdowa_culture
+		religion = bon
+		tag = QIAN
+	}
+	arm_sanatruk_arsacid = {
+		first_name = { name = sanatruk }
+		dynasty = arsacid_dynasty
+		adm = 60
+		dip = 45
+		mil = 45
+		birth_date = 58.1.1
+		birth = yerevan
+		culture = armenian_culture
+		religion = zoroastrian
+		tag = ARM
+	}
+}
