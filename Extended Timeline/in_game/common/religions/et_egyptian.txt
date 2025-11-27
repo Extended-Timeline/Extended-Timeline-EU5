@@ -1,0 +1,32 @@
+﻿kemetic_polytheism = {
+	color = rgb {255 212 86}
+	group = folk_african_group
+	needs_reform = yes
+	religious_aspects = 1
+
+	definition_modifier = {
+		global_defensive = 0.1
+		trade_efficiency = small_trade_efficiency_bonus
+		global_pop_food_consumption = -0.1
+	}
+	tags = {
+		folk_african_gfx pagan_gfx
+	}
+}
+
+atenism = {
+	color = rgb {252 172 35}
+	group = folk_african_group
+	needs_reform = yes
+	religious_aspects = 1
+
+	definition_modifier = {
+		global_defensive = 0.1	
+		trade_efficiency = small_trade_efficiency_bonus
+		global_pop_food_consumption = -0.1
+	}
+
+	tags = {
+		folk_african_gfx pagan_gfx
+	}
+}

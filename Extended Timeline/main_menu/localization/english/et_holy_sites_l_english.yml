@@ -1,0 +1,64 @@
+﻿l_english:
+ #
+ # Types
+ #
+ #Roman 
+ rome_pantheon: "Pantheon"
+ #Also greek
+ salona_delphi: "Delphi"
+ agrigento_temple: "Akragas Temples"
+ paestum_temple: "Temple of Poseidon"
+ rome_eternal_city: "Eternal City of Rome"
+ cumae_naples: "Cumae"
+ baalbek_temple: "Temple of Jupiter"
+
+ #Celtic
+ #Gaelic
+ drogheda_passage_tomb: "Brú na Bóinne"
+ connacht_rathcroghan: "Oweynagat"
+ kildare_well: "Bridgits Well"
+ loughnavalley_uisneach: "Uisneach" #Druidic gathering place 
+ emain_macha: "Emain Macha"
+ navan_tara: "Hill of Tara"
+
+ #Brythonic 
+ anglesey_llyn_cerrig_bach: "Llyn Cerrig Bach" 
+ bath_sulis: "Sulis Sacred Grove"
+ gloucestershire_nodens: "Nodens Sacred Grove"
+ dorchester_city: "Maiden Castle"
+ anglesey_druid_place: "Anglesey" #Druidic gathering place 
+
+ #Gaulish 
+ source_seine_sequana: "Sequanna Sacred Grove"
+ gournay_sur_aronde_camulos: "Camulos Sacred Grove"
+ grand_grannus: "Grannus Sacred Grove"
+ aachen_grannus: "Grannus Sacred Grove"
+ roquepertuse_velaux: "Roquepertuse" #Marseille
+ chartres_druids: "Autricum" #Druidic gathering place 
+
+ #Celtic Iberian 
+ teruel_lugh: "Lugh Sacred Grove"
+ villatoro_ulaca: "Ulaca Sacred Grove"
+ estremoz_endovelico: "Endovlico Sacred Grove"
+ aroche_ataegina: "Ataegina Sacred Grove"
+ soria_numantia: "Namantia"
+
+ #Central germanic 
+ paderborn_irminsul: "Irminsul"
+ eschwege_oak_donar: "Donars Oak"
+ middelburg_nehalennia: "Nehalennia Sacred Grove"
+ nijmegen_donar: "Donar Sacred Grove"
+ 
+ #Anglo Saxon 
+ york_temple: "York Temple"
+ ipswich_bureal: "Kings Bureal"
+ ipswich_city: "Rendlesham"
+ richmond_woden: "Sacred Grove Woden"
+ prittlewell_thor: "Sacred Grove Thor"
+
+ #Norse 
+ slesvig_thorsberg_moor: "Thorsberg Moor"
+ uppsala_uppsala: "Uppsala"
+ aarhus_offer_moor: "Offer Moor"
+ levanger_temple: "Maere Temple"
+ thingvellir_temple: "Temple of Thor"

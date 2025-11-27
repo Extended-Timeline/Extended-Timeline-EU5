@@ -1,0 +1,55 @@
+﻿oracle = {
+	location_modifier = {
+		local_clergy_desired_pop = 0.05
+		local_monthly_prosperity = 0.001
+		local_clergy_max_literacy = 10
+	}
+	country_modifier = {
+		religious_icon_power_modifier = 0.1
+	}
+}
+#Celtic
+gathering_place_druids  = {
+	location_modifier = {
+		local_clergy_desired_pop = 0.05
+		local_monthly_prosperity = 0.001
+		local_clergy_max_literacy = 10
+	}
+	country_modifier = {
+		religious_icon_power_modifier = 0.1
+	}
+}
+#Gaelic
+passage_tombs = {
+	location_modifier = {
+		local_monthly_food_modifier = 0.05
+		local_clergy_desired_pop = 0.1
+		local_max_literacy = 2
+	}
+}
+
+gateway = {
+	location_modifier = {
+		local_monthly_food_modifier = 0.05
+		local_clergy_desired_pop = 0.1
+		local_max_literacy = 2
+	}
+}
+polytheistic_holy_site = {
+	location_modifier = {
+		local_clergy_desired_pop = 0.02
+		local_monthly_prosperity = 0.001
+		local_max_control = 0.01
+	}
+	country_modifier = {
+		monthly_religious_influence = 0.02
+	}
+}
+
+sacred_groves = {
+	location_modifier = {
+		local_clergy_desired_pop = 0.05
+		local_monthly_prosperity = 0.001
+		local_max_control = 0.01
+	}
+}

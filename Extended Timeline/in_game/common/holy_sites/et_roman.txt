@@ -1,0 +1,51 @@
+﻿rome_pantheon = {
+    location = rome
+    type = temple
+    importance = 5
+	religions = { roman_polytheism }
+}
+salona_delphi = {
+	location = salona 
+	type = oracle
+	importance = 4
+	religions = { roman_polytheism hellenism_religion } 
+
+}
+
+paestum_temple = {
+	location = salerno 
+	type = temple 
+	importance = 3 
+	religions = { roman_polytheism  hellenism_religion } 
+
+}
+
+agrigento_temple = {
+	location = girgenti 
+	type = temple 
+	importance = 3 
+	religions = { roman_polytheism  hellenism_religion } 
+}
+
+rome_eternal_city = {
+    location = rome
+    type = city
+    importance = 4
+	religions = { roman_polytheism} 
+}
+
+baalbek_temple = {
+	location = baalbek 
+	type = temple 
+	importance = 5
+	religions = { roman_polytheism } 
+}
+
+cumae_naples = {
+    location = naples
+    type = oracle 
+    importance = 4
+	religions = { roman_polytheism} 
+}
+
+

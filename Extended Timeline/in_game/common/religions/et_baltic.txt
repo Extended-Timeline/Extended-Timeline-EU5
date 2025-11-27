@@ -1,0 +1,31 @@
+latvian_polytheism = {
+    color = rgb{ 157 34 53 }
+    group = folk_european_group
+    needs_reform = yes
+    religious_aspects = 1
+
+    definition_modifier = {
+        global_defensive = 0.1
+        prestige_from_land_battle = 0.1
+        monthly_religious_influence = 0.1
+    }
+    tags = {
+        folk_european_gfx pagan_gfx
+    }
+}
+
+prussian_polytheism = {
+    color = rgb{ 0 0 139 }
+    group = folk_european_group
+    needs_reform = yes
+    religious_aspects = 1
+
+    definition_modifier = {
+        global_defensive = 0.1
+        prestige_from_land_battle = 0.1
+        monthly_religious_influence = 0.1
+    }
+    tags = {
+        folk_european_gfx pagan_gfx
+    }
+}

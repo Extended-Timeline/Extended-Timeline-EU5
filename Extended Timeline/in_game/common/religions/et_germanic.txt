@@ -1,0 +1,32 @@
+﻿central_germanic_polytheism = {
+	color = rgb {183 183 183 }
+	group = folk_european_group
+	needs_reform = yes
+	religious_aspects = 1
+
+	definition_modifier = {
+		global_defensive = 0.1
+		prestige_from_land_battle = 0.1 
+		monthly_religious_influence = 0.1
+	}
+	tags = {
+		folk_european_gfx pagan_gfx
+	}
+}
+
+anglo_saxon_polytheism = {
+	color = rgb { 149 149 149 }
+	group = folk_european_group
+	needs_reform = yes
+	religious_aspects = 1
+
+	definition_modifier = {
+		global_defensive = 0.1
+		prestige_from_land_battle = 0.1 
+		monthly_religious_influence = 0
+
+	}
+	tags = {
+		folk_european_gfx pagan_gfx
+	}
+}

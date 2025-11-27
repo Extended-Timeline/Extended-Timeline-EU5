@@ -1,0 +1,150 @@
+﻿#Gaelic
+drogheda_passage_tomb = {
+	location = drogheda 
+	type = passage_tombs
+	importance = 3
+	religions = {gaelic_polytheism }
+}
+connacht_rathcroghan = {
+	location = castlereagh
+	type = gateway 
+	importance = 3
+	religions = { gaelic_polytheism}
+}
+
+kildare_well = {
+	location = kildare 
+	type = shrine
+	importance = 3
+	religions = {gaelic_polytheism} 
+}
+loughnavalley_uisneach = {
+	location = mullingar
+	type = gathering_place_druids 
+	importance = 5
+	religions = {gaelic_polytheism} 
+}
+emain_macha = {
+	location = armagh
+	type = temple
+	importance = 4
+	religions = {gaelic_polytheism} 
+}
+navan_tara = {
+	location = navan 
+	type = polytheistic_holy_site
+	importance = 5
+	religions = {gaelic_polytheism} 
+}
+#Brythonic
+anglesey_druid_place = {
+	location = anglesey 
+	type = gathering_place_druids 
+	importance = 5
+	religions = { brythonic_polytheism romano_british_polytheism }
+
+}
+
+anglesey_llyn_cerrig_bach = {
+	location = anglesey
+	type = sacred_groves
+	importance = 4 
+	religions = {brythonic_polytheism romano_british_polytheism }
+}
+
+bath_sulis = {
+	location = bath 
+	type = sacred_groves
+	importance = 4
+	religions = {brythonic_polytheism romano_british_polytheism }
+}
+gloucestershire_nodens = {
+	location = gloucester
+	type = sacred_groves
+	importance = 3
+	religions = {brythonic_polytheism romano_british_polytheism }
+}
+
+dorchester_city = {
+	location = dorchester
+	type = city
+	importance = 3
+	religions = {brythonic_polytheism}
+}
+
+#Gaulish  
+
+source_seine_sequana = {
+	location = dijon
+	type = sacred_groves
+	importance = 4
+	religions = {gaulish_polytheism gallo_roman_polytheism }
+}
+
+gournay_sur_aronde_camulos = {
+	location = clermont_en_beauvaisis
+	type = sacred_groves
+	importance = 3
+	religions = {gaulish_polytheism}
+}
+grand_grannus = {
+	location = neufchateau_des_vosges
+	type = sacred_groves
+	importance = 3
+	religions = {gaulish_polytheism}
+}
+aachen_grannus = {
+	location = aachen
+	type = sacred_groves
+	importance = 4
+	religions = {gaulish_polytheism gallo_roman_polytheism }
+}
+roquepertuse_velaux = {
+	location = marseille
+	type = polytheistic_holy_site
+	importance = 4
+	religions = {gaulish_polytheism}
+}
+chartres_druids = {
+	location = chartres
+	type = gathering_place_druids 
+	importance = 5 
+	religions = { gaulish_polytheism gallo_roman_polytheism } 
+}
+
+#Celtic Iberian 
+teruel_lugh = {
+	location = teruel
+	type = polytheistic_holy_site
+	importance = 5
+	religions = { celtic_iberian_polytheism hispano_roman_polytheism }  
+}
+
+villatoro_ulaca = {
+	location = villatoro
+	type = sacred_groves
+	importance = 3
+	religions = { celtic_iberian_polytheism  }  
+
+}
+
+estremoz_endovelico = {
+	location = estremoz
+	type = sacred_groves
+	importance = 4
+	religions = { celtic_iberian_polytheism hispano_roman_polytheism }  
+}
+
+aroche_ataegina = {
+	location = aroche 
+	type = sacred_groves
+	importance = 4
+	religions = { celtic_iberian_polytheism hispano_roman_polytheism }  
+}
+
+soria_numantia = {
+	location = soria
+	type = sacred_groves
+	importance = 3
+	religions = { celtic_iberian_polytheism }  
+} 

@@ -1,0 +1,15 @@
+illyrian_polytheism = {
+    color = rgb{ 46 139 87 }
+    group = folk_european_group
+    needs_reform = yes
+    religious_aspects = 1
+
+    definition_modifier = {
+        global_defensive = 0.1
+        prestige_from_land_battle = 0.1
+        trade_efficiency = 0.1
+    }
+    tags = {
+        folk_european_gfx pagan_gfx
+    }
+}

@@ -1,0 +1,96 @@
+﻿paderborn_irminsul = {
+	location = paderborn 
+	type = polytheistic_holy_site
+	importance = 5
+	religions = {central_germanic_polytheism romano_germanic_polytheism } 
+}
+
+eschwege_oak_donar = { #Geismar
+	location = eschwege 
+	type = sacred_groves
+	importance = 4
+	religions = {central_germanic_polytheism romano_germanic_polytheism } 
+}  
+
+middelburg_nehalennia ={ #Colijnsplaat
+	location = middelburg 
+	type = sacred_groves
+	importance = 3
+	religions = {central_germanic_polytheism romano_germanic_polytheism } 
+}
+
+nijmegen_donar ={ #Elst
+	location = nijmegen 
+	type = sacred_groves
+	importance = 4
+	religions = {central_germanic_polytheism romano_germanic_polytheism } 
+}
+
+#Norse and Central Germ
+slesvig_thorsberg_moor = { #suderbrarup 
+	location = slesvig
+	type = sacred_groves
+	importance = 4
+	religions = {central_germanic_polytheism romano_germanic_polytheism norse } 
+}
+
+uppsala_uppsala = {
+	location = uppsala
+	type = polytheistic_holy_site
+	importance = 5
+	religions = { norse }
+}
+
+aarhus_offer_moor = {#Illerup
+	location = aarhus
+	type = sacred_groves
+	importance = 4
+	religions = { norse }
+}
+levanger_temple = {#maere
+	location = levanger
+	type = temple
+	importance = 3
+	religions = { norse }
+}
+thingvellir_temple = {
+	location = thingvellir
+	type = temple
+	importance = 4
+	religions = { norse }
+}
+
+#Anglo-Saxon
+york_temple = { #goodmanham
+	location = york 
+	type = temple
+	importance = 5
+    religions = { anglo_saxon_polytheism }
+}
+ipswich_bureal ={#Sutton Hoo
+	location = ipswich 
+	type = polytheistic_holy_site
+	importance = 3
+	religions = { anglo_saxon_polytheism }
+ }
+
+ ipswich_city ={#Rendlesham
+	location = ipswich 
+	type = city
+	importance = 4
+	religions = { anglo_saxon_polytheism }
+ }
+
+ richmond_woden = {#wensley wodens grove
+ 	location = richmond 
+ 	type = sacred_groves
+ 	importance = 4
+	religions = { anglo_saxon_polytheism }
+  }
+
+  prittlewell_thor = {#Thendersley thors grove
+  		location = prittlewell 
+  		type = sacred_groves
+  		importance = 4
+		religions = { anglo_saxon_polytheism }
+  }
