@@ -1,0 +1,17 @@
+
+﻿hungarian_polytheism = {
+	color = rgb{ 252 136 200 }
+	group = folk_asian_group
+	needs_reform = yes
+	religious_aspects = 1
+
+	definition_modifier = {
+		army_cavalry_power = 0.1
+		monthly_legitimacy = 0.1
+		global_defensive = 0.1
+	}
+	tags = {
+		folk_asian_gfx pagan_gfx
+	}
+}
+
