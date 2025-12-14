@@ -25980,7 +25980,7 @@ galaagu = { topography = flatland vegetation = sparse climate = cold_arid religi
 wangkatja = { topography = flatland vegetation = woods climate = cold_arid religion = dreamtime_religion culture = ngatjumay_culture raw_material = fish}
 cowan_lake = { topography = lakes climate = cold_arid}
 ngatjumay = { topography = flatland vegetation = woods climate = cold_arid religion = dreamtime_religion culture = ngatjumay_culture raw_material = fiber_crops natural_harbor_suitability = 0.00}
-balladonia = { topography = flatland vegetation = woods climate = cold_arid religion = dreamtime_religion culture = noongar_culture raw_material = lumber natural_harbor_suitability = 0.00}
+balladonia = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = noongar_culture raw_material = lumber}
 bardok = { topography = flatland vegetation = woods climate = cold_arid religion = dreamtime_religion culture = noongar_culture raw_material = fiber_crops natural_harbor_suitability = 0.00}
 malpa = { topography = flatland vegetation = woods climate = cold_arid religion = dreamtime_religion culture = malpa_culture raw_material = iron}
 yuat = { topography = flatland vegetation = grasslands climate = mediterranean religion = dreamtime_religion culture = noongar_culture raw_material = livestock}
@@ -26018,9 +26018,9 @@ buluguda = { topography = flatland vegetation = grasslands climate = mediterrane
 malkana = { topography = flatland vegetation = grasslands climate = arid religion = dreamtime_religion culture = malkana_culture raw_material = fish natural_harbor_suitability = 0.00}
 yinggarda = { topography = flatland vegetation = grasslands climate = arid religion = dreamtime_religion culture = yinggarda_culture raw_material = wild_game natural_harbor_suitability = 0.00}
 kakarakala = { topography = flatland vegetation = grasslands climate = arid religion = dreamtime_religion culture = yinggarda_culture raw_material = millet}
-majanna = { topography = flatland vegetation = grasslands climate = arid religion = dreamtime_religion culture = baiyungu_culture raw_material = millet}
+majanna = { topography = flatland vegetation = desert climate = arid religion = dreamtime_religion culture = baiyungu_culture raw_material = millet}
 maia = { topography = flatland vegetation = grasslands climate = arid religion = dreamtime_religion culture = baiyungu_culture raw_material = fiber_crops natural_harbor_suitability = 0.00}
-tharrgari = { topography = flatland vegetation = grasslands climate = arid religion = dreamtime_religion culture = purduna_culture raw_material = wild_game}
+tharrgari = { topography = plateau vegetation = sparse climate = arid religion = dreamtime_religion culture = purduna_culture raw_material = wild_game}
 baiyungu = { topography = flatland vegetation = grasslands climate = arid religion = dreamtime_religion culture = baiyungu_culture raw_material = millet natural_harbor_suitability = 0.00}
 ingadi = { topography = flatland vegetation = grasslands climate = arid religion = dreamtime_religion culture = watjarri_culture raw_material = iron}
 thalanyji = { topography = flatland vegetation = grasslands climate = arid religion = dreamtime_religion culture = thalanyji_culture raw_material = wild_game natural_harbor_suitability = 0.00}
@@ -26029,7 +26029,7 @@ nhuwala = { topography = flatland vegetation = desert climate = arid religion = 
 jinigudera = { topography = hills vegetation = desert climate = arid religion = dreamtime_religion culture = thalanyji_culture raw_material = fiber_crops}
 martuthunira = { topography = flatland vegetation = desert climate = arid religion = dreamtime_religion culture = nhuwala_culture raw_material = millet natural_harbor_suitability = 0.00}
 yindjibarndi = { topography = hills vegetation = desert climate = arid religion = dreamtime_religion culture = kurrama_culture raw_material = goods_gold}
-noanamaronga = { topography = hills vegetation = desert climate = arid religion = dreamtime_religion culture = nhuwala_culture raw_material = wild_game}
+noanamaronga = { topography = hills vegetation = sparse climate = arid religion = dreamtime_religion culture = nhuwala_culture raw_material = wild_game}
 little_sandy_desert = { topography = hills_wasteland vegetation = desert climate = arid}
 carnegie_lake = { topography = lakes climate = arid}
 disappointment_lake = { topography = lakes climate = cold_arid}
@@ -26043,7 +26043,7 @@ nyamal = { topography = flatland vegetation = desert climate = arid religion = d
 ngarla = { topography = flatland vegetation = desert climate = arid religion = dreamtime_religion culture = nyamal_culture raw_material = fish natural_harbor_suitability = 0.00}
 kundal = { topography = flatland vegetation = desert climate = arid religion = dreamtime_religion culture = nyangumarda_culture raw_material = fiber_crops}
 iparuka = { topography = flatland vegetation = desert climate = arid religion = dreamtime_religion culture = nyangumarda_culture raw_material = legumes natural_harbor_suitability = 0.00}
-nyangumarda = { topography = flatland vegetation = desert climate = arid religion = dreamtime_religion culture = nyangumarda_culture raw_material = clay}
+nyangumarda = { topography = plateau vegetation = sparse climate = arid religion = dreamtime_religion culture = nyangumarda_culture raw_material = clay}
 karajarri = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = karajarri_culture raw_material = fiber_crops natural_harbor_suitability = 0.00}
 great_sandy_desert = { topography = flatland_wasteland vegetation = desert climate = arid}
 dora_lake = { topography = lakes climate = arid}
@@ -26058,12 +26058,12 @@ bardi_australia = { topography = flatland vegetation = jungle climate = arid rel
 nimanburu = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = nimanburu_culture raw_material = millet natural_harbor_suitability = 0.00}
 nyikina = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = nyikina_culture raw_material = fiber_crops}
 warwa = { topography = flatland vegetation = woods climate = arid religion = dreamtime_religion culture = warwa_culture raw_material = millet natural_harbor_suitability = 0.00}
-unggarangi = { topography = flatland vegetation = jungle climate = tropical religion = dreamtime_religion culture = unggarangi_culture raw_material = lumber natural_harbor_suitability = 0.00}
+unggarangi = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = unggarangi_culture raw_material = lumber}
 umida = { topography = hills vegetation = jungle climate = tropical religion = dreamtime_religion culture = umida_culture raw_material = lumber natural_harbor_suitability = 0.00}
-unggami = { topography = hills vegetation = woods climate = tropical religion = dreamtime_religion culture = jaru_culture raw_material = lumber natural_harbor_suitability = 0.00}
-worora = { topography = hills vegetation = jungle climate = tropical religion = dreamtime_religion culture = kija_culture raw_material = wild_game natural_harbor_suitability = 0.00}
+unggami = { topography = plateau vegetation = jungle climate = tropical religion = dreamtime_religion culture = jaru_culture raw_material = lumber natural_harbor_suitability = 0.00}
+worora = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = kija_culture raw_material = wild_game}
 wilinggin = { topography = plateau vegetation = woods climate = tropical religion = dreamtime_religion culture = ngarinyin_culture raw_material = livestock}
-wunambui = { topography = plateau vegetation = jungle climate = tropical religion = dreamtime_religion culture = wunambul_culture raw_material = wild_game natural_harbor_suitability = 0.00}
+wunambui = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = wunambul_culture raw_material = wild_game}
 gamberre = { topography = flatland vegetation = woods climate = tropical religion = dreamtime_religion culture = gamberre_culture raw_material = fish natural_harbor_suitability = 0.00}
 mangala = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = nyikina_culture raw_material = fiber_crops}
 gooniyandi = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = gooniyandi_culture raw_material = fiber_crops}
@@ -26074,10 +26074,10 @@ gurindji = { topography = plateau vegetation = sparse climate = arid religion = 
 kija = { topography = hills vegetation = sparse climate = arid religion = dreamtime_religion culture = kija_culture raw_material = livestock}
 worla = { topography = plateau vegetation = sparse climate = arid religion = dreamtime_religion culture = worla_culture raw_material = legumes}
 ngarinyin = { topography = plateau vegetation = woods climate = tropical religion = dreamtime_religion culture = ngarinyin_culture raw_material = iron}
-balanggarra = { topography = plateau vegetation = woods climate = tropical religion = dreamtime_religion culture = ngarinyin_culture raw_material = fruit}
+balanggarra = { topography = flatland vegetation = sparse climate = tropical religion = dreamtime_religion culture = ngarinyin_culture raw_material = fruit}
 miwa = { topography = flatland vegetation = woods climate = tropical religion = dreamtime_religion culture = ngaliwuru_culture raw_material = fish natural_harbor_suitability = 0.00}
 kwini = { topography = flatland vegetation = woods climate = tropical religion = dreamtime_religion culture = kwini_culture raw_material = millet natural_harbor_suitability = 0.00}
-bagu = { topography = plateau vegetation = woods climate = tropical religion = dreamtime_religion culture = karangpurru_culture raw_material = millet}
+bagu = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = karangpurru_culture raw_material = millet}
 yiiji = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = yiiji_culture raw_material = millet natural_harbor_suitability = 0.00}
 kadjerong = { topography = flatland vegetation = woods climate = tropical religion = dreamtime_religion culture = kadjerong_culture raw_material = millet natural_harbor_suitability = 0.00}
 jarrakan = { topography = hills vegetation = sparse climate = arid religion = dreamtime_religion culture = worla_culture raw_material = wild_game}
@@ -26090,7 +26090,7 @@ warlmanpa = { topography = flatland vegetation = sparse climate = arid religion 
 bilinara = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = bilinara_culture raw_material = livestock}
 jaminjung = { topography = hills vegetation = woods climate = tropical religion = dreamtime_religion culture = jaminjung_culture raw_material = clay natural_harbor_suitability = 0.00}
 alura = { topography = flatland vegetation = woods climate = tropical religion = dreamtime_religion culture = jaminjung_culture raw_material = lumber}
-nagor = { topography = hills vegetation = jungle climate = tropical religion = dreamtime_religion culture = murrinh_patha_culture raw_material = fish natural_harbor_suitability = 0.00}
+nagor = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = murrinh_patha_culture raw_material = fish}
 murrinh_patha = { topography = plateau vegetation = woods climate = tropical religion = dreamtime_religion culture = murrinh_patha_culture raw_material = wild_game}
 malak_malak = { topography = flatland vegetation = jungle climate = tropical religion = dreamtime_religion culture = ngandi_culture raw_material = lumber}
 marrithiyel = { topography = flatland vegetation = jungle climate = tropical religion = dreamtime_religion culture = marrithiyel_culture raw_material = millet natural_harbor_suitability = 0.00}
@@ -26105,7 +26105,7 @@ kundjeymi = { topography = hills vegetation = jungle climate = tropical religion
 gunbalang = { topography = flatland vegetation = jungle climate = tropical religion = dreamtime_religion culture = gunbalang_culture raw_material = fish natural_harbor_suitability = 0.00}
 dangbon = { topography = flatland vegetation = jungle climate = tropical religion = nyama_religion culture = dangbon_culture raw_material = fruit}
 nakara = { topography = flatland vegetation = jungle climate = tropical religion = dreamtime_religion culture = nakara_culture raw_material = sand natural_harbor_suitability = 0.00}
-ongkakaringa = { topography = flatland vegetation = woods climate = tropical religion = dreamtime_religion culture = jaminjung_culture raw_material = wild_game}
+ongkakaringa = { topography = plateau vegetation = sparse climate = arid religion = dreamtime_religion culture = jaminjung_culture raw_material = wild_game}
 kamor = { topography = flatland vegetation = jungle climate = tropical religion = bantu_religion culture = ngalakan_culture raw_material = goods_gold}
 wardaman = { topography = flatland vegetation = woods climate = tropical religion = dreamtime_religion culture = wardaman_culture raw_material = wild_game}
 jawoyn = { topography = plateau vegetation = jungle climate = tropical religion = dreamtime_religion culture = mara_culture raw_material = livestock}
@@ -26115,7 +26115,7 @@ gunwinggu = { topography = plateau vegetation = jungle climate = tropical religi
 mangarayi = { topography = flatland vegetation = woods climate = tropical religion = dreamtime_religion culture = yanyuwa_culture raw_material = legumes}
 ngalakan = { topography = flatland vegetation = woods climate = tropical religion = bantu_religion culture = ngalakan_culture raw_material = livestock}
 ngandi = { topography = flatland vegetation = woods climate = tropical religion = dreamtime_religion culture = ngandi_culture raw_material = wild_game}
-ngalkbun = { topography = flatland vegetation = woods climate = tropical religion = dreamtime_religion culture = ngalkbun_culture raw_material = lumber}
+ngalkbun = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = ngalkbun_culture raw_material = lumber}
 nunggubuyu = { topography = flatland vegetation = jungle climate = tropical religion = dreamtime_religion culture = nunggubuyu_culture raw_material = legumes natural_harbor_suitability = 0.00}
 warnindilyakwa = { topography = flatland vegetation = jungle climate = tropical religion = dreamtime_religion culture = warnindilyakwa_culture raw_material = millet natural_harbor_suitability = 0.00}
 rembarnga = { topography = flatland vegetation = jungle climate = tropical religion = dreamtime_religion culture = rembarnga_culture raw_material = livestock}
@@ -26126,12 +26126,12 @@ alawa = { topography = flatland vegetation = sparse climate = arid religion = dr
 ngandji = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = ngandji_culture raw_material = legumes}
 gunindiri = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = gunindiri_culture raw_material = wild_game}
 budjanga = { topography = flatland vegetation = woods climate = arid religion = dreamtime_religion culture = mingin_culture raw_material = livestock}
-ganggalida = { topography = plateau vegetation = woods climate = arid religion = dreamtime_religion culture = ganggalida_culture raw_material = gems}
+ganggalida = { topography = plateau vegetation = sparse climate = arid religion = dreamtime_religion culture = ganggalida_culture raw_material = gems}
 waanyi = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = waanyi_culture raw_material = livestock}
 nguburinji = { topography = hills vegetation = sparse climate = arid religion = dreamtime_religion culture = ganggalida_culture raw_material = clay}
 wilingura = { topography = flatland vegetation = woods climate = arid religion = dreamtime_religion culture = yangman_culture raw_material = wild_game}
 mara = { topography = flatland vegetation = jungle climate = tropical religion = dreamtime_religion culture = mara_culture raw_material = fruit natural_harbor_suitability = 0.00}
-anula = { topography = flatland vegetation = jungle climate = tropical religion = dreamtime_religion culture = yanyuwa_culture raw_material = fish natural_harbor_suitability = 0.00}
+anula = { topography = plateau vegetation = sparse climate = arid religion = dreamtime_religion culture = yanyuwa_culture raw_material = fish}
 yanyuwa = { topography = flatland vegetation = jungle climate = arid religion = dreamtime_religion culture = mingin_culture raw_material = fish natural_harbor_suitability = 0.00}
 manangoora = { topography = flatland vegetation = woods climate = tropical religion = dreamtime_religion culture = ganggalida_culture raw_material = millet natural_harbor_suitability = 0.00}
 gananggalinda = { topography = flatland vegetation = sparse climate = tropical religion = dreamtime_religion culture = ganggalida_culture raw_material = millet natural_harbor_suitability = 0.00}
@@ -26148,29 +26148,29 @@ warluwarra = { topography = flatland vegetation = sparse climate = arid religion
 andegerebenha = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = warluwarra_culture raw_material = fiber_crops}
 tanami_desert = { topography = flatland_wasteland vegetation = desert climate = arid}
 yadhaigana = { topography = flatland vegetation = jungle climate = tropical religion = dreamtime_religion culture = yadhaigana_culture raw_material = millet natural_harbor_suitability = 0.00}
-anggamudi = { topography = flatland vegetation = jungle climate = tropical religion = dreamtime_religion culture = anggamudi_culture raw_material = fish natural_harbor_suitability = 0.00}
+anggamudi = { topography = flatland vegetation = desert climate = arid religion = dreamtime_religion culture = anggamudi_culture raw_material = fish}
 tjungundji = { topography = flatland vegetation = forest climate = tropical religion = dreamtime_religion culture = anggamudi_culture raw_material = legumes natural_harbor_suitability = 0.00}
 wuthathi = { topography = flatland vegetation = jungle climate = tropical religion = dreamtime_religion culture = wuthathi_culture raw_material = fruit natural_harbor_suitability = 0.00}
 anguthimri = { topography = flatland vegetation = forest climate = tropical religion = dreamtime_religion culture = anguthimri_culture raw_material = fish natural_harbor_suitability = 0.00}
 awngthim = { topography = flatland vegetation = forest climate = tropical religion = dreamtime_religion culture = wik_culture raw_material = fish natural_harbor_suitability = 0.00}
-winda_winda = { topography = flatland vegetation = forest climate = tropical religion = dreamtime_religion culture = wik_culture raw_material = fish natural_harbor_suitability = 0.00}
+winda_winda = { topography = flatland vegetation = desert climate = arid religion = dreamtime_religion culture = wik_culture raw_material = fish}
 yupangathi = { topography = flatland vegetation = forest climate = tropical religion = dreamtime_religion culture = anggamudi_culture raw_material = wild_game}
 kuukyuyau = { topography = hills vegetation = jungle climate = tropical religion = dreamtime_religion culture = kuuku_yau_culture raw_material = lumber natural_harbor_suitability = 0.00}
-luthigh = { topography = flatland vegetation = forest climate = tropical religion = dreamtime_religion culture = luthigh_culture raw_material = wild_game}
-yinwum = { topography = flatland vegetation = forest climate = tropical religion = dreamtime_religion culture = yinwum_culture raw_material = wild_game}
-uutaalnganu = { topography = hills vegetation = jungle climate = tropical religion = dreamtime_religion culture = uutaalnganu_culture raw_material = lumber natural_harbor_suitability = 0.00}
+luthigh = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = luthigh_culture raw_material = wild_game}
+yinwum = { topography = flatland vegetation = desert climate = arid religion = dreamtime_religion culture = yinwum_culture raw_material = wild_game}
+uutaalnganu = { topography = flatland vegetation = desert climate = arid religion = dreamtime_religion culture = uutaalnganu_culture raw_material = lumber}
 mbeiwum = { topography = flatland vegetation = forest climate = tropical religion = dreamtime_religion culture = wik_culture raw_material = wild_game}
 umpila = { topography = hills vegetation = jungle climate = tropical religion = dreamtime_religion culture = umpila_culture raw_material = millet natural_harbor_suitability = 0.00}
-wik = { topography = flatland vegetation = forest climate = tropical religion = dreamtime_religion culture = wik_culture raw_material = wild_game}
-kuukuyani = { topography = flatland vegetation = jungle climate = tropical religion = dreamtime_religion culture = kaantju_culture raw_material = millet natural_harbor_suitability = 0.00}
+wik = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = wik_culture raw_material = wild_game}
+kuukuyani = { topography = flatland vegetation = desert climate = arid religion = dreamtime_religion culture = kaantju_culture raw_material = millet}
 kukatj = { topography = wetlands vegetation = sparse climate = arid religion = dreamtime_religion culture = kukatj_culture raw_material = legumes natural_harbor_suitability = 0.00}
 kuthant = { topography = flatland vegetation = woods climate = tropical religion = dreamtime_religion culture = kuthant_culture raw_material = millet natural_harbor_suitability = 0.00}
 koknar = { topography = wetlands vegetation = sparse climate = tropical religion = dreamtime_religion culture = djabuganjdji_culture raw_material = millet natural_harbor_suitability = 0.00}
 bakanh = { topography = flatland vegetation = forest climate = tropical religion = dreamtime_religion culture = guugu_yimidhirr_culture raw_material = legumes natural_harbor_suitability = 0.00}
 yir_yoront = { topography = wetlands vegetation = grasslands climate = tropical religion = dreamtime_religion culture = yir_yoront_culture raw_material = fish natural_harbor_suitability = 0.00}
 koko_bera = { topography = flatland vegetation = grasslands climate = tropical religion = dreamtime_religion culture = yir_yoront_culture raw_material = millet natural_harbor_suitability = 0.00}
-wiknatanja = { topography = flatland vegetation = forest climate = tropical religion = dreamtime_religion culture = wik_culture raw_material = lumber}
-umbindhamu = { topography = flatland vegetation = jungle climate = tropical religion = dreamtime_religion culture = lamalama_culture raw_material = lumber natural_harbor_suitability = 0.00}
+wiknatanja = { topography = flatland vegetation = desert climate = arid religion = dreamtime_religion culture = wik_culture raw_material = lumber}
+umbindhamu = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = lamalama_culture raw_material = lumber}
 kunjen = { topography = flatland vegetation = woods climate = tropical religion = dreamtime_religion culture = kunjen_culture raw_material = copper}
 lamalama = { topography = flatland vegetation = forest climate = tropical religion = dreamtime_religion culture = lamalama_culture raw_material = coal natural_harbor_suitability = 0.00}
 kokowarra = { topography = flatland vegetation = forest climate = tropical religion = dreamtime_religion culture = kokowarra_culture raw_material = wild_game}
@@ -26178,23 +26178,23 @@ kokomini = { topography = flatland vegetation = grasslands climate = tropical re
 kuku_yalanji = { topography = hills vegetation = forest climate = tropical religion = dreamtime_religion culture = kuku_yalanji_culture raw_material = wild_game}
 wujal_wujal = { topography = mountains vegetation = jungle climate = tropical religion = dreamtime_religion culture = kuku_yalanji_culture raw_material = lumber natural_harbor_suitability = 0.00}
 guugu_yimidhirr = { topography = hills vegetation = jungle climate = tropical religion = dreamtime_religion culture = guugu_yimidhirr_culture raw_material = fish natural_harbor_suitability = 0.00}
-mutumui = { topography = hills vegetation = forest climate = tropical religion = dreamtime_religion culture = mutumui_culture raw_material = fruit natural_harbor_suitability = 0.00}
+mutumui = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = mutumui_culture raw_material = fruit}
 djabuganjdji = { topography = hills vegetation = jungle climate = tropical religion = dreamtime_religion culture = djabuganjdji_culture raw_material = lumber natural_harbor_suitability = 0.00}
 yidinjdji = { topography = hills vegetation = jungle climate = subtropical religion = dreamtime_religion culture = yidinjdji_culture raw_material = sugar natural_harbor_suitability = 0.00}
 djirbalgan = { topography = hills vegetation = jungle climate = subtropical religion = dreamtime_religion culture = djirbalngan_culture raw_material = sugar natural_harbor_suitability = 0.00}
 wargamaygan = { topography = hills vegetation = jungle climate = subtropical religion = dreamtime_religion culture = wargamaygan_culture raw_material = millet natural_harbor_suitability = 0.00}
 nyawaygi = { topography = hills vegetation = jungle climate = subtropical religion = dreamtime_religion culture = nyawaygi_culture raw_material = millet natural_harbor_suitability = 0.00}
 wimanja = { topography = flatland vegetation = forest climate = tropical religion = dreamtime_religion culture = kuku_yalanji_culture raw_material = gems}
-wailulu = { topography = flatland vegetation = forest climate = tropical religion = dreamtime_religion culture = kuku_yalanji_culture raw_material = legumes}
+wailulu = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = kuku_yalanji_culture raw_material = legumes}
 warungu = { topography = plateau vegetation = forest climate = subtropical religion = dreamtime_religion culture = djirbalngan_culture raw_material = coal}
 burdekin = { topography = plateau vegetation = forest climate = arid religion = dreamtime_religion culture = wargamaygan_culture raw_material = legumes}
 mayi_kutuna = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = mayi_culture raw_material = fiber_crops}
 mayi_yapi = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = mayi_culture raw_material = clay}
 makulu = { topography = flatland vegetation = woods climate = arid religion = dreamtime_religion culture = mayi_culture raw_material = wild_game}
-mahi_kulan = { topography = flatland vegetation = woods climate = arid religion = dreamtime_religion culture = mayi_culture raw_material = livestock}
+mahi_kulan = { topography = flatland vegetation = desert climate = arid religion = dreamtime_religion culture = mayi_culture raw_material = livestock}
 walangama = { topography = flatland vegetation = woods climate = arid religion = dreamtime_religion culture = mayi_culture raw_material = wild_game}
 kungara = { topography = flatland vegetation = woods climate = arid religion = dreamtime_religion culture = nyawaygi_culture raw_material = lumber}
-kurtjar = { topography = flatland vegetation = grasslands climate = tropical religion = dreamtime_religion culture = kurtjar_culture raw_material = wild_game}
+kurtjar = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = kurtjar_culture raw_material = wild_game}
 agwarmin = { topography = plateau vegetation = forest climate = arid religion = dreamtime_religion culture = bindal_culture raw_material = fiber_crops}
 yanga = { topography = plateau vegetation = woods climate = arid religion = dreamtime_religion culture = yanga_culture raw_material = fiber_crops}
 takalak = { topography = flatland vegetation = forest climate = tropical religion = dreamtime_religion culture = wargamaygan_culture raw_material = lumber}
@@ -26226,7 +26226,7 @@ baradha = { topography = flatland vegetation = sparse climate = arid religion = 
 guwinmal = { topography = hills vegetation = jungle climate = subtropical religion = dreamtime_religion culture = guwinmal_culture raw_material = coal natural_harbor_suitability = 0.00}
 yirandali = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = yirandali_culture raw_material = stone}
 kutjala = { topography = flatland vegetation = woods climate = arid religion = dreamtime_religion culture = yuwi_culture raw_material = goods_gold}
-yangga = { topography = flatland vegetation = woods climate = arid religion = dreamtime_religion culture = yangga_culture raw_material = wild_game}
+yangga = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = yangga_culture raw_material = wild_game}
 yilba = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = yilba_culture raw_material = silver}
 yambina = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = yilba_culture raw_material = fruit}
 owanburra = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = yirandali_culture raw_material = coal}
@@ -26353,7 +26353,7 @@ madi_madi = { topography = flatland vegetation = grasslands climate = cold_arid 
 yitha_yitha = { topography = flatland vegetation = woods climate = cold_arid religion = dreamtime_religion culture = yitha_yitha_culture raw_material = fiber_crops}
 wandjiwalgu = { topography = flatland vegetation = grasslands climate = arid religion = dreamtime_religion culture = nari_nari_culture raw_material = silver}
 barkinji = { topography = flatland vegetation = grasslands climate = arid religion = dreamtime_religion culture = wiradjuri_culture raw_material = livestock}
-barundji = { topography = flatland vegetation = grasslands climate = arid religion = dreamtime_religion culture = wiradjuri_culture raw_material = copper}
+barundji = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = wiradjuri_culture raw_material = copper}
 yunggai = { topography = hills vegetation = forest climate = oceanic religion = dreamtime_religion culture = gundungurra_culture raw_material = stone}
 wemba_wemba = { topography = flatland vegetation = woods climate = cold_arid religion = dreamtime_religion culture = wemba_wemba_culture raw_material = millet}
 marin_balluk = { topography = plateau vegetation = woods climate = oceanic religion = dreamtime_religion culture = wathaurong_culture raw_material = stone}
@@ -26400,9 +26400,9 @@ meru = { topography = flatland vegetation = grasslands climate = cold_arid relig
 nanja = { topography = flatland vegetation = grasslands climate = cold_arid religion = dreamtime_religion culture = ngargad_culture raw_material = millet}
 danggali = { topography = wetlands vegetation = grasslands climate = cold_arid religion = dreamtime_religion culture = nari_nari_culture raw_material = livestock}
 tandou_lake = { topography = lakes climate = cold_arid}
-manuri = { topography = flatland vegetation = grasslands climate = cold_arid religion = dreamtime_religion culture = ngadjuri_culture raw_material = clay}
+manuri = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = ngadjuri_culture raw_material = clay}
 mimbara = { topography = flatland vegetation = woods climate = cold_arid religion = dreamtime_religion culture = ngadjuri_culture raw_material = fiber_crops}
-ngadjuri = { topography = flatland vegetation = woods climate = cold_arid religion = dreamtime_religion culture = banggarla_culture raw_material = millet}
+ngadjuri = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = banggarla_culture raw_material = millet}
 wirameju = { topography = flatland vegetation = woods climate = cold_arid religion = dreamtime_religion culture = ngadjuri_culture raw_material = wild_game}
 eura = { topography = plateau vegetation = woods climate = cold_arid religion = dreamtime_religion culture = banggarla_culture raw_material = iron}
 south_eyre_lake = { topography = lakes climate = arid}
@@ -26412,7 +26412,7 @@ south_australian_desert = { topography = flatland_wasteland vegetation = desert 
 frome_lake = { topography = lakes climate = arid}
 kooapudna = { topography = flatland vegetation = woods climate = cold_arid religion = dreamtime_religion culture = banggarla_culture raw_material = fiber_crops natural_harbor_suitability = 1.00}
 wanbirujurari = { topography = flatland vegetation = woods climate = arid religion = dreamtime_religion culture = banggarla_culture raw_material = fiber_crops}
-jadliaura = { topography = flatland vegetation = woods climate = arid religion = dreamtime_religion culture = banggarla_culture raw_material = millet}
+jadliaura = { topography = flatland vegetation = woods climate = arid religion = dreamtime_religion culture = banggarla_culture raw_material = millet natural_harbor_suitability = 0.00}
 arkaba_tura = { topography = flatland vegetation = woods climate = cold_arid religion = dreamtime_religion culture = banggarla_culture raw_material = sand}
 barutadura = { topography = flatland vegetation = woods climate = arid religion = dreamtime_religion culture = banggarla_culture raw_material = gems natural_harbor_suitability = 0.00}
 pamkala = { topography = flatland vegetation = woods climate = cold_arid religion = dreamtime_religion culture = banggarla_culture raw_material = millet}
@@ -26421,17 +26421,17 @@ gnowoo = { topography = flatland vegetation = grasslands climate = oceanic relig
 torres_lake_saltpan = { topography = lakes climate = arid}
 nawu = { topography = flatland vegetation = grasslands climate = mediterranean religion = dreamtime_religion culture = nawu_culture raw_material = fiber_crops natural_harbor_suitability = 0.00}
 banggarla = { topography = hills vegetation = woods climate = cold_arid religion = dreamtime_religion culture = banggarla_culture raw_material = clay}
-willeuroo = { topography = flatland vegetation = woods climate = cold_arid religion = dreamtime_religion culture = banggarla_culture raw_material = fish}
+willeuroo = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = banggarla_culture raw_material = fish}
 gilles_lake = { topography = lakes climate = arid}
 gairdner_lake = { topography = lakes climate = arid}
-nonga = { topography = flatland vegetation = woods climate = arid religion = dreamtime_religion culture = wirangu_culture raw_material = iron}
+nonga = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = wirangu_culture raw_material = iron}
 kadu = { topography = flatland vegetation = grasslands climate = cold_arid religion = dreamtime_religion culture = wirangu_culture raw_material = wild_game natural_harbor_suitability = 0.00}
 ceduna = { topography = flatland vegetation = grasslands climate = cold_arid religion = dreamtime_religion culture = wirangu_culture raw_material = wild_game natural_harbor_suitability = 0.00}
-wirangu = { topography = flatland vegetation = woods climate = arid religion = dreamtime_religion culture = wirangu_culture raw_material = fiber_crops}
+wirangu = { topography = flatland vegetation = sparse climate = arid religion = dreamtime_religion culture = wirangu_culture raw_material = fiber_crops}
 tidni = { topography = flatland vegetation = sparse climate = cold_arid religion = dreamtime_religion culture = wirangu_culture raw_material = wild_game}
 bookabie = { topography = flatland vegetation = sparse climate = cold_arid religion = dreamtime_religion culture = wirangu_culture raw_material = millet natural_harbor_suitability = 0.00}
 yalata = { topography = flatland vegetation = sparse climate = cold_arid religion = dreamtime_religion culture = wirangu_culture raw_material = fish natural_harbor_suitability = 0.00}
-windakan = { topography = flatland vegetation = desert climate = cold_arid religion = dreamtime_religion culture = wirangu_culture raw_material = wild_game}
+windakan = { topography = flatland vegetation = sparse climate = cold_arid religion = dreamtime_religion culture = wirangu_culture raw_material = wild_game}
 wanbiri = { topography = flatland vegetation = desert climate = cold_arid religion = dreamtime_religion culture = mirning_culture raw_material = wild_game natural_harbor_suitability = 0.00}
 ngandatha = { topography = flatland vegetation = desert climate = cold_arid religion = dreamtime_religion culture = mirning_culture raw_material = livestock natural_harbor_suitability = 0.00}
 ikala = { topography = flatland vegetation = desert climate = cold_arid religion = dreamtime_religion culture = mirning_culture raw_material = wild_game natural_harbor_suitability = 0.00}
