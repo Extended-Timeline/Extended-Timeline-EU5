@@ -1,0 +1,61 @@
+akkadian_language = {
+    male_names = {
+			Izates Bazeus Monobaz Meharaspes Narsai Shahrat Aphraates Sargon Ashur Aphrahat Pkidha Ninos Noh Habel 
+			Abedhmiha Hiran Saloupha Ahadabuhi Soubaliso Rhima Abbousta Erishum Ikunum Asinum Lullaya Bazaya Adad-Nirari
+			Essarhaddon Sennacherib Ashurbanipal Tiglath-Pileser Tukulti-Ninurta Shalmaneser Adad-Nirari Shu-Ninua
+		}
+	female_names = {
+			Alala Allat Allatu Amuhia Anat Anatu Anunit Aralu Aruru Astarte Atheh Belit Dadu Dadu-Ghipa Gula Ishtar Li-Lit
+			Mylitta Nairi Ninharrissi Ninkigal Ninkummu Nukimmut Nuri Pihirim Pirisati Rabbituri Ri Rubati Sammuramat Sar-Rat
+			Seruya Seruya-Edirat Shala Tabuya Tap-Nakhti Tasmit Tihamtu Ukubutu Urmitu Zirratbanit
+		}
+    dynasty_names = { "Sargonid" "Ephremid" "Isin" "Mardukid" "Abidaoud" "Abgarid" "Erishumid" "Sharishkun" "Adad" "Nirari" Amorite Larsa Kassite  }
+    dialects = {
+        assyrian_dialect = {
+		
+	    }
+        babylonian_dialect = {
+            
+        }
+    }
+	
+	
+	
+}
+
+aramaic_language = {
+		male_names = {
+			Ma'nu Abgar Bakru Sanatruk Parthamaspates Paqor Aryu Abdu Fradhasht Wa'il Ezad Sumaqa Saphul Piqa Gebar'u Maz'ur
+		}
+		female_names = {
+			Anna Zenobia
+		}
+	}
+
+phoenician_language = {
+    dynasty_names = {
+			Abbarid Adonibaalid Ahiromid Baalhannid Baalid Barcid Bostarid Chelbesid Eshbaalid Eugorid Hannid Hiramid Magoid Mattanid Metallid 
+			Milkiramid Philosirid
+		}
+		male_names = {
+            Abdeshmoun Abdhamon Abdmelqart Abdresheph Abdyarih Abibaal Abimilki Abiram Adirbaal Adonibaal Ahimilk Ahinadab Ahiram Ahumm 
+            Arish Azibaal Azmelqart Azorbaal Baalazar Baalhanno Baalmilk Baalsikar Baalyahon Baalyasop Baalyaton Barekbaal Benbaal
+            Bodibaal Bodo Bodmelqart Eshbaal Eshmonazar Eshmonpilles Eshmonyaton Eshmounadoni Eshmounshillek Eshmunhilles Gerbaal
+            Gereshmoun Germelqart Gersakun Hanmelqart Hannibal Hasdrubal Hepsibaal Himilco Itthobaal Magonbaal Mago Maharbaal Mashah
+            Melqartshamah Melqartamos Melqarthanni Melqartpilles Metallo Mittunay Paltibaal Philosir Philles Pumayyaton Qarthilles
+            Reshephyaton Sakunyaton Shamah Sikarbaal Yadamilk Yakinel Yatonmilk Yeharbaal Yehomilk Milkpilles Addir
+        }
+        female_names = {
+            Abdashtart Abdtanit Arishat Ashtarram Azruashtart Batbaal Batnoam Bodashtart Dalayashtart Elishat Gamila Gerashtart Matanbal
+            Sibittibaal Tabnit Ummashtart Urumilkat
+        }
+	dialects = {
+        punic_dialect = {
+            dynasty_names = {
+		        "Didonian" "Magonid" "Hannonian" "Azemilcid" "Baal" "Barca"
+	    }
+	    }
+    }
+	
+	
+}

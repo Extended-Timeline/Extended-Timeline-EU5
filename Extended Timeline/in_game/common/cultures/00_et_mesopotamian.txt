@@ -1,0 +1,38 @@
+
+assyrian_culture = {
+    language = assyrian_dialect
+    tags = { muslim_gfx }
+    culture_groups = {
+        mesopotamian_group
+    }
+}
+
+babylonian_culture = {
+    language = babylonian_dialect
+    tags = { muslim_gfx }
+    culture_groups = {
+        mesopotamian_group
+    }
+}
+aramaic_culture = {
+    language = aramaic_language
+    tags = { muslim_gfx }
+    culture_groups = {
+        mesopotamian_group
+    }
+}
+	
+phoenician_culture = {
+    language = phoenician_language
+    tags = { muslim_gfx }
+    culture_groups = {
+        canaanite_group
+    }
+}
+punic_culture = {
+    language = punic_dialect
+    tags = { muslim_gfx }
+    culture_groups = {
+        canaanite_group
+    }
+}
