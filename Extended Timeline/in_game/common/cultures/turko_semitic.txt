@@ -1,0 +1,171 @@
+#ET4
+
+###i'm guessing the "turko-semitic" thing is a leftover from EU4 where levantine was a giant culture group, so i'm not 100% what to do with this one. i'm just treating it as more of a "arab" culture group
+turko_semitic_canadian = {
+	language = norwegian_dialect
+	color = map_norwegian
+
+	tags = { norwegian_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {		
+		arabic_group       
+	}	
+}
+turko_semitic_east_american = {
+	language = norwegian_dialect
+	color = map_norwegian
+
+	tags = { norwegian_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {		
+		arabic_group       
+	}	
+}
+turko_semitic_louisianan = {
+	language = norwegian_dialect
+	color = map_norwegian
+
+	tags = { norwegian_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {		
+		arabic_group       
+	}	
+}
+turko_semitic_californian = {
+	language = norwegian_dialect
+	color = map_norwegian
+
+	tags = { norwegian_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {		
+		arabic_group       
+	}	
+}
+turko_semitic_mexican = {
+	language = norwegian_dialect
+	color = map_norwegian
+
+	tags = { norwegian_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {		
+		arabic_group       
+	}	
+}
+turko_semitic_caribbean = {
+	language = norwegian_dialect
+	color = map_norwegian
+
+	tags = { norwegian_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {		
+		arabic_group       
+	}	
+}
+turko_semitic_colombian = {
+	language = norwegian_dialect
+	color = map_norwegian
+
+	tags = { norwegian_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {		
+		arabic_group       
+	}	
+}
+turko_semitic_peruvian = {
+	language = norwegian_dialect
+	color = map_norwegian
+
+	tags = { norwegian_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {		
+		arabic_group       
+	}	
+}
+turko_semitic_la_platan = {
+	language = norwegian_dialect
+	color = map_norwegian
+
+	tags = { norwegian_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {		
+		arabic_group       
+	}	
+}
+turko_semitic_brazilian = {
+	language = norwegian_dialect
+	color = map_norwegian
+
+	tags = { norwegian_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {		
+		arabic_group       
+	}	
+}
+turko_semitic_australian = {
+	language = norwegian_dialect
+	color = map_norwegian
+
+	tags = { norwegian_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {		
+		arabic_group       
+	}	
+}
+turko_semitic_oceanian = {
+	language = norwegian_dialect
+	color = map_norwegian
+
+	tags = { norwegian_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {		
+		arabic_group       
+	}	
+}
