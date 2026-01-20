@@ -3,7 +3,7 @@
     "id" : "com.extendedtimeline.etmain",
     "version" : "0.1",
     "game_id" : "eu5",
-    "supported_game_version" : "0.9.*",
+    "supported_game_version" : "1.0.*",
     "short_description" : "Main Extended Timeline mod",
     "tags" : [],
     "relationships" : [],
