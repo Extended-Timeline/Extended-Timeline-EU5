@@ -1,0 +1,16 @@
+
+montanism = { 
+	color = rgb{ 252 135 171 }
+	group = christian
+	needs_reform = no
+	religious_aspects = 1
+
+	definition_modifier = {
+		gender_equality = yes
+		tolerance_heretic = 1
+		global_defensive = 0.1
+	}
+	tags = {
+		christian_gfx 
+	}
+}
