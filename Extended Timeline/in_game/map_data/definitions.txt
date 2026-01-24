@@ -20,7 +20,7 @@
 			}
 			denmark_area = {
 				sonderjylland_province = { ribe haderslev aabenraa tonder }
-				norrejylland_province = { randers viborg aalborg ars limfjorden }
+				norrejylland_province = { randers viborg aalborg ars }
 				western_jutland_province = { bolling ringkobing holstebro_lundenes varde }
 				eastern_jutland_province = { kolding aarhus grindsted silkeborg kalo }
 				vendsyssel_thy_province = { thisted skagen hjorring }
@@ -131,7 +131,7 @@
 					western_gotland_basin gotlands_hav
 				}
 				skagerrak_province = { frier_fjord grenen_cape jammer_bay kristiansand_fjord oslo_fjord skagerrack vigso_bay }
-				danish_sea = { alborg_bugt kattegatt oresund stora_balt lilla_balt 	}
+				danish_sea = { alborg_bugt kattegatt oresund stora_balt lilla_balt limfjorden}
 				south_baltic_sea = {
 					kalmar_sund skanska_kusten blekinge_kust central_baltic oland_coast
 				}
@@ -233,7 +233,7 @@
 					brussels leuven nivelles
 				}
 				loon_province = {
-					hasselt bree borgloon
+					borgloon hasselt bree
 				}
 			}
 			flanders_area = {
@@ -765,7 +765,7 @@
 			}
 			# Wales
 			wales_area = {
-				deheubarth_province = { carmarthen pembroke fishguard kidwelly cardigan aberystwyth dyfi_estuary }
+				deheubarth_province = { carmarthen pembroke fishguard kidwelly cardigan aberystwyth }
 				gwynedd_province = { carnarvon anglesey conwy harlech flint penllyn denbigh snowdon }
 				powys_province = { montgomery machynlleth llangollen berwyn_range }
 				brecon_province = { brecknock builth radnor brecon_beacons cambrian_mountains }
@@ -1538,7 +1538,7 @@
 				labinsk_province = { chatyun adyukh armavir shkhancheriekhabl belorechensk }
 			}
 			yedisan_area = {
-				khadjibey_province = { khadjibey teligol kuyanlik ananiv iagorlic berezan_liman khadzhibey_liman kuialnyk_liman tylihul_liman }
+				khadjibey_province = { khadjibey teligol kuyanlik ananiv iagorlic khadzhibey_liman kuialnyk_liman}
 				boh_province = { dashev balikley aqmecit_prybuzhzhya argamakli_sarai vithold_hammami harbuzynka }
 				oleshia_province = { oleshia bereznehuvate bashtanka tavan velyka_oleksandrivka }
 				qalancak_province = { qalancaq aslan_horod ordu_bazar rohat_kermen enice velyka_lepetykha }
@@ -1563,8 +1563,8 @@
 				donetsk_province = { donets_kharkiv chuhuiv khotmyzh kotelva okhtyrka zmiiv }
 			}
 			pryazovia_area = {
-				berda_province = { melitopol kyrylivka tokmak konski_vody kuchugur berdiansk molochnyi_liman }
-				kalmius_province = { taganrog velyka_novosilka domakha huliaipole shyrokyne vasylivka mius_liman }
+				berda_province = { melitopol kyrylivka tokmak konski_vody kuchugur berdiansk }
+				kalmius_province = { taganrog velyka_novosilka domakha huliaipole shyrokyne vasylivka }
 				bakhmut_province = { bakhmut lysychansk kreminna oleksandrivka posad }
 			}
 			azov_area = {
@@ -9149,7 +9149,7 @@ oceania = {
 				wardandi_province = { wardandi gurbillup nannup manjimup bibbulman jarrah_karri munite mallee kaniyang }
 				yoberrore_province = { yoberrore pinjarup mandjar narroging willman walyalup whadjuk }
 				kaleap_province = { kaleap minang jubururu goreng jerramungup noongar cocanarup wudjari }
-				kalaako_province = { kalaako galaagu wangkatja cowan_lake ngatjumay bardok malpa }
+				kalaako_province = { kalaako galaagu wangkatja cowan_lake ngatjumay bardok malpa buljigu }
 				yuat_province = { yuat jawan ballardong kukerin yabro nyaki_nyaki }
 				mandurah_province = { mandurah kongal_marawar djiralay kongal_boyal eneabba amangu yarra_yarra_lake }
 				badimala_province = { badimala bidungu karroun jungal jungaa kaprun takalako kalaamaya ongkakaringa ganggalida anula carey_lake }
@@ -9183,13 +9183,13 @@ oceania = {
 				umbindhamu_province = { kunjen lamalama kokowarra kokomini kuku_yalanji wujal_wujal guugu_yimidhirr }
 				djabuganjdji_province = { djabuganjdji yidinjdji djirbalgan wargamaygan nyawaygi wimanja warungu burdekin }
 				mayi_kutuna_province = { mayi_kutuna mayi_yapi makulu walangama kungara agwarmin yanga takalak }
-				wangkamana_province = { pitta_pitta yalarrnga maiawali guwa karuwali yinwum luthigh mahi_kulan sturt_stony_desert }
+				wangkamana_province = { pitta_pitta yalarrnga maiawali guwa karuwali yinwum luthigh sturt_stony_desert }
 				kabikabi_province = { kabikabi kalkadoon mayi_thakurti ngwaun quippen_bura wanamara mbara puruga gugu_badhun }
 			}
 			eastern_australia_area = {
 				bindal_province = { bindal wulgurukaba yuru biria giya perembba yuwi toolginburra baradha guwinmal }
 				yirandali_province = { yirandali kutjala yambina owanburra wangan yagalingu buchanan_lake }
-				iningai_province = { iningai kuungkari wakelbara dwarawala builoo bidjara margany badjidi nguri mutumui umbindhamu wailulu blanche_lake }
+				iningai_province = { iningai kuungkari wakelbara dwarawala builoo bidjara margany badjidi nguri mutumui umbindhamu wailulu }
 				darumbal_province = { darumbal bayali gureng_gureng badtjala waka_waka murrumgama gubbi_gubbi burrum }
 				barna_province = { barna woppaburra gayiri kanolu orambul garingbal wadjigu gangulu }
 				wakgun_province = { wakgun yiman_australia gungabula mandandanji gogai wull_wull barunggam bigambul wangkamana }
@@ -9203,17 +9203,17 @@ oceania = {
 				bombala_province = { alpine_mountains thaua yuin wadbilliga_mountains kosciuszko_mountains bidwell krauatungalung krowathunkkooloong mallacoota }
 				braiakalung_province = { braiakalung brataulung boon_wurrung yarra kurnai jaitmatang waveroo taungurung woi_wurrung wellington_lake }
 				karta_pintingga_province = { karta_pintingga latje_latje millewa chala kooinkill ngarrindjeri ngargad kromelak bindjali djappuminyou jakelbalak alexandrina_lake lake_yarli }
-				dadi_dadi_province = { dadi_dadi nari_nari malegoondeet kureinji madi_madi yitha_yitha wandjiwalgu barkinji barundji manuri strzelecki_desert }
+				dadi_dadi_province = { dadi_dadi nari_nari malegoondeet kureinji madi_madi yitha_yitha wandjiwalgu barkinji barundji manuri }
 				wemba_wemba_province = {yunggai wemba_wemba marin_balluk dja_dja_wurrung ngunawal lail_buil ngurraiillam wotjobaluk baraba_baraba yorta_yorta yakkajari wiradjuri wachigari }
 				buandig_province = { buandig coonawarra jardwajali gunditjmara djabwurung balla_arat gulidjan giraiwurung gadubanud geelong wathaurong corangamite_lake }
 				tasmania_province = { east_palawa west_palawa peerapper tommeginne tyerrernotepanner pyemmairrener lairmairrener paredarerme toogee }
 			}
 			south_australia_area = {
 				narangga_province = { narangga kaurna_pangkarra tarntanya boanawari burra_burra doora aluri nukunu }
-				meru_province = { meru nanja danggali tandou_lake mimbara wirameju eura wik uutaalnganu south_eyre_lake eyre_lake south_australian_desert frome_lake }
+				meru_province = { meru nanja danggali tandou_lake mimbara wirameju eura wik uutaalnganu mahi_kulan south_eyre_lake eyre_lake south_australian_desert strzelecki_desert frome_lake blanche_lake }
 				kooapudna_province = { kooapudna wanbirujurari jadliaura arkaba_tura barutadura pamkala kuukuyani anggamudi winda_winda wiknatanja torres_lake_saltpan }
 				nawu_province = { nawu banggarla gilles_lake gairdner_lake nonga kadu ceduna battara gnowoo }
-				tidni_province = { bookabie yalata wanbiri ngandatha ikala mirning malba buljigu wirangu great_victoria_desert maurice_lake }
+				tidni_province = { bookabie yalata wanbiri ngandatha ikala mirning malba wirangu great_victoria_desert maurice_lake }
 			}
 			western_australia_high_sea_zones_area = {
 				wardandi_yoberrore_province_coast = {
@@ -10035,12 +10035,22 @@ oceania = {
 			
 			#Fiji ---- https://en.wikipedia.org/wiki/Fiji
 			fiji_area = {
-				fiji_province = {
+				viti_levu_province = {
+					kubuna  burebasaga yasawa
+					kandavu  beqa_lagoon  ngau
+					
+					ovalau koro_island moala
+
+					yasawa_atoll viti_levu_atoll kadavu_atoll ovalau_atoll makogai_atoll moala_atoll					
+				}
+				vanua_levu_province = {
 					rotuma rotuma_atoll
 
-					kandavu moala vatoa lakeba vanua_vatu cicia taveuni vanua_levu thikombia koro_island ngau ovalau kubuna burebasaga yasawa
-
-					navatu_reef ono_i_llau_atoll fulaga_atoll moce_atoll kabara_atoll totoya_atoll moala_atoll bukatatonoa_atoll vanua_balavu_atoll qelelevu_atoll cacau_levu_atoll ngau_atoll makogai_atoll ovalau_atoll beqa_lagoon yasawa_atoll viti_levu_atoll kadavu_atoll
+					vatoa lakeba vanua_vatu cicia taveuni vanua_levu thikombia 
+			
+					navatu_reef ono_i_llau_atoll fulaga_atoll moce_atoll kabara_atoll totoya_atoll 
+					bukatatonoa_atoll vanua_balavu_atoll qelelevu_atoll 
+					cacau_levu_atoll ngau_atoll 
 				}
 			}
 			fiji_sea_zones_area = {

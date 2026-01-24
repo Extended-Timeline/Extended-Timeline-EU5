@@ -11,10 +11,9 @@ wrap_x = yes
 
 
 sound_toll = {
-	oresund = roskilde
-	bosphorus = constantinople
+	oresund = helsingor
+	gulf_izmit = constantinople
 	strait_hormuz = hormuz
-	strait_of_gibraltar = tarifa
 }
 
 #############
@@ -24,44 +23,44 @@ volcanoes = {
 
 	#Corresponding location - Name of volcano - Important Eruptions - Strength - Link
 	klikitat #Mount St. Helens - 1480- 5 - https://en.wikipedia.org/wiki/Mount_St._Helens
-	klikitat #Mount St. Helens - 1482 - 5 - https://en.wikipedia.org/wiki/Mount_St._Helens
-	klikitat #Mount St. Helens - 1800 - 5 - https://en.wikipedia.org/wiki/Mount_St._Helens
-	klikitat #Mount St. Helens - 1980 - 5 - https://en.wikipedia.org/wiki/Mount_St._Helens
+	#klikitat #Mount St. Helens - 1482 - 5 - https://en.wikipedia.org/wiki/Mount_St._Helens
+	#klikitat #Mount St. Helens - 1800 - 5 - https://en.wikipedia.org/wiki/Mount_St._Helens
+	#klikitat #Mount St. Helens - 1980 - 5 - https://en.wikipedia.org/wiki/Mount_St._Helens
 	daha #Kelud - 1586 - 5 - https://en.wikipedia.org/wiki/Kelud
-	daha #Kelud - 1641 - 5 - https://en.wikipedia.org/wiki/Kelud
-	daha #Kelud - 1826 - 5 - https://en.wikipedia.org/wiki/Kelud
-	daha #Kelud - 1919 - 5 - https://en.wikipedia.org/wiki/Kelud
-	daha #Kelud - 1951 - 5 - https://en.wikipedia.org/wiki/Kelud
-	daha #Kelud - 1966 - 5 - https://en.wikipedia.org/wiki/Kelud
-	daha #Kelud - 1990 - 5 - https://en.wikipedia.org/wiki/Kelud
+	#daha #Kelud - 1641 - 5 - https://en.wikipedia.org/wiki/Kelud
+	#daha #Kelud - 1826 - 5 - https://en.wikipedia.org/wiki/Kelud
+	#daha #Kelud - 1919 - 5 - https://en.wikipedia.org/wiki/Kelud
+	#daha #Kelud - 1951 - 5 - https://en.wikipedia.org/wiki/Kelud
+	#daha #Kelud - 1966 - 5 - https://en.wikipedia.org/wiki/Kelud
+	#daha #Kelud - 1990 - 5 - https://en.wikipedia.org/wiki/Kelud
 	tboli #Mount Melibengoy - December 26, 1640 - 5 - https://en.wikipedia.org/wiki/Mount_Melibengoy
 	arop #Long Island, PNG - 1660 - 6 - https://en.wikipedia.org/wiki/Long_Island_(Papua_New_Guinea)
 	dompu #Mount Tambora - April 10, 1815 - 7 - https://en.wikipedia.org/wiki/Mount_Tambora
 	tezoatega #Cosig?ina - January 20, 1835 - 5 - https://en.wikipedia.org/wiki/Cosig%C3%BCina
 	naples #Monte Nuovo (Phlegraean Fields) - 1538 - 3 - https://en.wikipedia.org/wiki/Monte_Nuovo
-	naples #Mount Vesuvius - 1631 - 5 - https://en.wikipedia.org/wiki/Mount_Vesuvius
-	naples #Mount Vesuvius - 1875-1906 - 5 - https://en.wikipedia.org/wiki/Mount_Vesuvius
-	naples #Mount Vesuvius - 1944 - 5 - https://en.wikipedia.org/wiki/Mount_Vesuvius
+	#naples #Mount Vesuvius - 1631 - 5 - https://en.wikipedia.org/wiki/Mount_Vesuvius
+	#naples #Mount Vesuvius - 1875-1906 - 5 - https://en.wikipedia.org/wiki/Mount_Vesuvius
+	#naples #Mount Vesuvius - 1944 - 5 - https://en.wikipedia.org/wiki/Mount_Vesuvius
 	ponta_delgada #?gua de Pau - 1563 - 5 - https://en.wikipedia.org/wiki/%C3%81gua_de_Pau_Massif
-	ponta_delgada #Furnas - 1630 - 5 - https://en.wikipedia.org/wiki/Furnas
+	#ponta_delgada #Furnas - 1630 - 5 - https://en.wikipedia.org/wiki/Furnas
 	cuauhtemallan #Volc?n de Fuego - 1581 - 4 - https://en.wikipedia.org/wiki/Volc%C3%A1n_de_Fuego
-	cuauhtemallan #Volc?n de Fuego - 1717 - 4 - https://en.wikipedia.org/wiki/Volc%C3%A1n_de_Fuego
-	cuauhtemallan #Volc?n de Fuego - 1737 - 4 - https://en.wikipedia.org/wiki/Volc%C3%A1n_de_Fuego
-	cuauhtemallan #Volc?n de Fuego - 1857 - 4 - https://en.wikipedia.org/wiki/Volc%C3%A1n_de_Fuego
-	cuauhtemallan #Volc?n de Fuego - 1880 - 4 - https://en.wikipedia.org/wiki/Volc%C3%A1n_de_Fuego
-	cuauhtemallan #Volc?n de Fuego - 1932 - 4 - https://en.wikipedia.org/wiki/Volc%C3%A1n_de_Fuego
-	cuauhtemallan #Volc?n de Fuego - 1974 - 4 - https://en.wikipedia.org/wiki/Volc%C3%A1n_de_Fuego
+	#cuauhtemallan #Volc?n de Fuego - 1717 - 4 - https://en.wikipedia.org/wiki/Volc%C3%A1n_de_Fuego
+	#cuauhtemallan #Volc?n de Fuego - 1737 - 4 - https://en.wikipedia.org/wiki/Volc%C3%A1n_de_Fuego
+	#cuauhtemallan #Volc?n de Fuego - 1857 - 4 - https://en.wikipedia.org/wiki/Volc%C3%A1n_de_Fuego
+	#cuauhtemallan #Volc?n de Fuego - 1880 - 4 - https://en.wikipedia.org/wiki/Volc%C3%A1n_de_Fuego
+	#cuauhtemallan #Volc?n de Fuego - 1932 - 4 - https://en.wikipedia.org/wiki/Volc%C3%A1n_de_Fuego
+	#cuauhtemallan #Volc?n de Fuego - 1974 - 4 - https://en.wikipedia.org/wiki/Volc%C3%A1n_de_Fuego
 	kayabe #Hokkaido Komagatake - 1640 - 5 - https://en.wikipedia.org/wiki/Hokkaido_Koma-ga-take
-	kayabe #Hokkaido Komagatake - 1856 - 5 - https://en.wikipedia.org/wiki/Hokkaido_Koma-ga-take
-	kayabe #Hokkaido Komagatake - 1929 - 5 - https://en.wikipedia.org/wiki/Hokkaido_Koma-ga-take
+	#kayabe #Hokkaido Komagatake - 1856 - 5 - https://en.wikipedia.org/wiki/Hokkaido_Koma-ga-take
+	#kayabe #Hokkaido Komagatake - 1929 - 5 - https://en.wikipedia.org/wiki/Hokkaido_Koma-ga-take
 	tidore #Makian - 1646 - 4 - https://en.wikipedia.org/wiki/Makian
-	tidore #Makian - 1760-1761 - 4 - https://en.wikipedia.org/wiki/Makian
-	tidore #Makian - 1861 - 4 - https://en.wikipedia.org/wiki/Makian
+	#tidore #Makian - 1760-1761 - 4 - https://en.wikipedia.org/wiki/Makian
+	#tidore #Makian - 1861 - 4 - https://en.wikipedia.org/wiki/Makian
 	quito #Guagua Pichincha - 1660 - 4 - https://en.wikipedia.org/wiki/Guagua_Pichincha
 	shiraoi #Mount Usu - 1663 - 5 - https://en.wikipedia.org/wiki/Mount_Usu
-	shiraoi #Mount Usu - 1769 - 5 - https://en.wikipedia.org/wiki/Mount_Usu
-	shiraoi #Mount Usu - 1822 - 5 - https://en.wikipedia.org/wiki/Mount_Usu
-	shiraoi #Mount Usu - 1853 - 5 - https://en.wikipedia.org/wiki/Mount_Usu
+	#shiraoi #Mount Usu - 1769 - 5 - https://en.wikipedia.org/wiki/Mount_Usu
+	#shiraoi #Mount Usu - 1822 - 5 - https://en.wikipedia.org/wiki/Mount_Usu
+	#shiraoi #Mount Usu - 1853 - 5 - https://en.wikipedia.org/wiki/Mount_Usu
 	jailolo #Mount Gamkonora - 1673 - 5 - https://en.wikipedia.org/wiki/Mount_Gamkonora
 	manado #Tangkoko - 1680 - 5 - https://en.wikipedia.org/w/index.php?title=Tangkoko&action=edit&redlink=1
 	futoro #Oshima�Oshima - 1741-1742 - 4 - https://en.wikipedia.org/wiki/Oshima_(Hokkaido)
@@ -75,36 +74,36 @@ volcanoes = {
 	bola #Witori - 1800 - 4 - https://en.wikipedia.org/wiki/Pago_(Papua_New_Guinea)
 	chucuito #Tutupaca - 1802 - 4 - https://en.wikipedia.org/wiki/Tutupaca
 	youloumain #La Soufri?re - 1812 - 4 - https://en.wikipedia.org/wiki/La_Soufri%C3%A8re_(volcano)
-	youloumain #La Soufri?re - 1902 - 4 - https://en.wikipedia.org/wiki/La_Soufri%C3%A8re_(volcano)
+	#youloumain #La Soufri?re - 1902 - 4 - https://en.wikipedia.org/wiki/La_Soufri%C3%A8re_(volcano)
 	tabukan #Mount Awu - 1812 - 4 - https://en.wikipedia.org/wiki/Mount_Awu
-	tabukan #Mount Awu - 1856 - 4 - https://en.wikipedia.org/wiki/Mount_Awu
-	tabukan #Mount Awu - 1892 - 4 - https://en.wikipedia.org/wiki/Mount_Awu
-	tabukan #Mount Awu - 1966 - 4 - https://en.wikipedia.org/wiki/Mount_Awu
+	#tabukan #Mount Awu - 1856 - 4 - https://en.wikipedia.org/wiki/Mount_Awu
+	#tabukan #Mount Awu - 1892 - 4 - https://en.wikipedia.org/wiki/Mount_Awu
+	#tabukan #Mount Awu - 1966 - 4 - https://en.wikipedia.org/wiki/Mount_Awu
 	sawangan #Mount Mayon - 1814 - 4 - https://en.wikipedia.org/wiki/Mayon
-	sawangan #Mount Mayon - 1897 - 4 - https://en.wikipedia.org/wiki/Mayon
+	#sawangan #Mount Mayon - 1897 - 4 - https://en.wikipedia.org/wiki/Mayon
 	babuyan_islands #Babuyan Claro - 1831 - 4 - https://en.wikipedia.org/wiki/Babuyan_Claro_Volcano
 	julah #Mount Agung - 1843 - 5 - https://en.wikipedia.org/wiki/Mount_Agung
-	julah #Mount Agung - 1963 - 5 - https://en.wikipedia.org/wiki/Mount_Agung
+	#julah #Mount Agung - 1963 - 5 - https://en.wikipedia.org/wiki/Mount_Agung
 	bayul #Dubbi - 1861 - 3 - https://en.wikipedia.org/wiki/Dubbi_Volcano
 	onnekotan #Sinarka - 1872 - 4 - https://en.wikipedia.org/wiki/Sinarka
-	onnekotan #Kharimkotan - 1933 - 5 - https://en.wikipedia.org/wiki/Kharimkotan
+	#onnekotan #Kharimkotan - 1933 - 5 - https://en.wikipedia.org/wiki/Kharimkotan
 	kalianda #Krakatoa - 1883 - 6 - https://en.wikipedia.org/wiki/Krakatoa
 	swikshak #Augustine - 1883-1884 - 4 - https://en.wikipedia.org/wiki/Augustine_Volcano
-	swikshak #Augustine - 1976 - 4 - https://en.wikipedia.org/wiki/Augustine_Volcano
-	swikshak #Augustine - 1986 - 4 - https://en.wikipedia.org/wiki/Augustine_Volcano
+	#swikshak #Augustine - 1976 - 4 - https://en.wikipedia.org/wiki/Augustine_Volcano
+	#swikshak #Augustine - 1986 - 4 - https://en.wikipedia.org/wiki/Augustine_Volcano
 	yama_jap #Mount Bandai - 1888 - 4 - https://en.wikipedia.org/wiki/Mount_Bandai
 	caurakawin #Calbuco - 1893-1894 - 4 - https://en.wikipedia.org/wiki/Calbuco_(volcano)
-	caurakawin #Carran-Los Venados - 1955 - 4 - https://en.wikipedia.org/wiki/Carran-Los_Venados
+	#caurakawin #Carran-Los Venados - 1955 - 4 - https://en.wikipedia.org/wiki/Carran-Los_Venados
 	iguanacaera #Mount Pel?e - 1902 - 4 - https://en.wikipedia.org/wiki/Mount_Pel%C3%A9e
 	melamela #Lolobau - 1904  - 4 - https://en.wikipedia.org/wiki/Lolobau_Island
-	melamela #Lolobau - 1911  - 4 - https://en.wikipedia.org/wiki/Lolobau_Island
+	#melamela #Lolobau - 1911  - 4 - https://en.wikipedia.org/wiki/Lolobau_Island
 	amalik #Novarupta - 1912 - 6 - https://en.wikipedia.org/wiki/Novarupta
 	kimotsuki #Sakurajima - 1914 - 4 - https://en.wikipedia.org/wiki/Sakurajima
 	aruamu #Manam - 1919 - 4 - https://en.wikipedia.org/wiki/Manam_Motu
 	sikka #Paluweh - 1928 - 3 - https://en.wikipedia.org/wiki/Paluweh
 	gomu #Kuchinoerabu-jima - 1933-1934 - 4 - https://en.wikipedia.org/wiki/Kuchinoerabu-jima
 	baining #Rabaul - 1937 - 4 - https://en.wikipedia.org/wiki/Rabaul_Caldera
-	baining #Rabaul - 1994 - 4 - https://en.wikipedia.org/wiki/Rabaul_Caldera
+	#baining #Rabaul - 1994 - 4 - https://en.wikipedia.org/wiki/Rabaul_Caldera
 	uruapan #Par?cutin - 1943-1952 - 4 - https://en.wikipedia.org/wiki/Par%C3%ADcutin
 	shimushiru #Sarychev Peak - 1946 - 4 - https://en.wikipedia.org/wiki/Sarychev_Peak
 	pikunwijimapu #Villarrica - 1948 - 3 - https://en.wikipedia.org/wiki/Villarrica_(volcano)
@@ -115,7 +114,7 @@ volcanoes = {
 	hvolsvollur #Eldfell - 1973 - 3 - https://en.wikipedia.org/wiki/Eldfell
 	kunashiri #Tyatya - 1973 - 4 - https://en.wikipedia.org/wiki/Tyatya
 	paramushiru #Vulkan Alaid - 1981 - 4 - https://en.wikipedia.org/wiki/Atlasov_Island
-	paramushiru #Chikurachki - 1986 - 4 - https://en.wikipedia.org/wiki/Chikurachki
+	#paramushiru #Chikurachki - 1986 - 4 - https://en.wikipedia.org/wiki/Chikurachki
 	quechula #El Chich?n - 1982 - 5 - https://en.wikipedia.org/wiki/El_Chich%C3%B3n
 	una_una #Mount Colo - 1983 - 4 - https://en.wikipedia.org/wiki/Mount_Colo
 	bayambang #Mount Pinatubo - 1991 - 6 - https://en.wikipedia.org/wiki/Mount_Pinatubo
@@ -136,94 +135,94 @@ volcanoes = {
 	#vattnajokull #Laki - 1783,1784 - 4 - https://en.wikipedia.org/wiki/Laki
 	#vattnajokull #rfajkull - June 5, 1362, 1727-1728 - 6 - https://en.wikipedia.org/wiki/%C3%96r%C3%A6faj%C3%B6kull
 	achava #Avachinsky - 1827 - 4 - https://en.wikipedia.org/wiki/Avachinsky
-	achava #Avachinsky - 1926 - 4 - https://en.wikipedia.org/wiki/Avachinsky
-	achava #Avachinsky - 1945 - 4 - https://en.wikipedia.org/wiki/Avachinsky
+	#achava #Avachinsky - 1926 - 4 - https://en.wikipedia.org/wiki/Avachinsky
+	#achava #Avachinsky - 1945 - 4 - https://en.wikipedia.org/wiki/Avachinsky
 	agatsuma #Mount Asama - 1783 - 4 - https://en.wikipedia.org/wiki/Mount_Asama
 	amollan #Volc?n de Colima - 1585 - 4 - https://en.wikipedia.org/wiki/Volc%C3%A1n_de_Colima
-	amollan #Volc?n de Colima - 1606 - 4 - https://en.wikipedia.org/wiki/Volc%C3%A1n_de_Colima
-	amollan #Volc?n de Colima - 1622 - 4 - https://en.wikipedia.org/wiki/Volc%C3%A1n_de_Colima
-	amollan #Volc?n de Colima - 1818 - 4 - https://en.wikipedia.org/wiki/Volc%C3%A1n_de_Colima
-	amollan #Volc?n de Colima - 1889 - 4 - https://en.wikipedia.org/wiki/Volc%C3%A1n_de_Colima
-	amollan #Volc?n de Colima - 1913 - 4 - https://en.wikipedia.org/wiki/Volc%C3%A1n_de_Colima
+	#amollan #Volc?n de Colima - 1606 - 4 - https://en.wikipedia.org/wiki/Volc%C3%A1n_de_Colima
+	#amollan #Volc?n de Colima - 1622 - 4 - https://en.wikipedia.org/wiki/Volc%C3%A1n_de_Colima
+	#amollan #Volc?n de Colima - 1818 - 4 - https://en.wikipedia.org/wiki/Volc%C3%A1n_de_Colima
+	#amollan #Volc?n de Colima - 1889 - 4 - https://en.wikipedia.org/wiki/Volc%C3%A1n_de_Colima
+	#amollan #Volc?n de Colima - 1913 - 4 - https://en.wikipedia.org/wiki/Volc%C3%A1n_de_Colima
 	balambangan #Raung - 1593 - 5 - https://en.wikipedia.org/wiki/Raung
-	balambangan #Raung - 1638 - 5 - https://en.wikipedia.org/wiki/Raung
-	balambangan #Raung - 1817 - 5 - https://en.wikipedia.org/wiki/Raung
+	#balambangan #Raung - 1638 - 5 - https://en.wikipedia.org/wiki/Raung
+	#balambangan #Raung - 1817 - 5 - https://en.wikipedia.org/wiki/Raung
 	bannoni #Bagana - 1952 - 4 - https://en.wikipedia.org/wiki/Bagana
-	bannoni #Billy Mitchell - 1580 - 6 - https://en.wikipedia.org/wiki/Billy_Mitchell_(volcano)
+	#bannoni #Billy Mitchell - 1580 - 6 - https://en.wikipedia.org/wiki/Billy_Mitchell_(volcano)
 	bay #Taal - 1716 - 5 - https://en.wikipedia.org/wiki/Taal_Volcano
-	bay #Taal - 1749 - 5 - https://en.wikipedia.org/wiki/Taal_Volcano
-	bay #Taal - 1754 - 5 - https://en.wikipedia.org/wiki/Taal_Volcano
-	bay #Taal - 1911 - 5 - https://en.wikipedia.org/wiki/Taal_Volcano
-	bay #Taal - 1965 - 5 - https://en.wikipedia.org/wiki/Taal_Volcano
+	#bay #Taal - 1749 - 5 - https://en.wikipedia.org/wiki/Taal_Volcano
+	#bay #Taal - 1754 - 5 - https://en.wikipedia.org/wiki/Taal_Volcano
+	#bay #Taal - 1911 - 5 - https://en.wikipedia.org/wiki/Taal_Volcano
+	#bay #Taal - 1965 - 5 - https://en.wikipedia.org/wiki/Taal_Volcano
 	borobudur #Mount Merapi - 1872 - 4 - https://en.wikipedia.org/wiki/Mount_Merapi
-	borobudur #Mount Merapi - 1930-1931 - 4 - https://en.wikipedia.org/wiki/Mount_Merapi
+	#borobudur #Mount Merapi - 1930-1931 - 4 - https://en.wikipedia.org/wiki/Mount_Merapi
 	catania #Mount Etna - 1669 - 4 - https://en.wikipedia.org/wiki/Mount_Etna
-	catania #Mount Etna - 1787 - 4 - https://en.wikipedia.org/wiki/Mount_Etna
-	catania #Mount Etna - 1979 - 4 - https://en.wikipedia.org/wiki/Mount_Etna
+	#catania #Mount Etna - 1787 - 4 - https://en.wikipedia.org/wiki/Mount_Etna
+	#catania #Mount Etna - 1979 - 4 - https://en.wikipedia.org/wiki/Mount_Etna
 	chignik #Mount Aniakchak - 1931 - 4 - https://en.wikipedia.org/wiki/Mount_Aniakchak
 	churajon #Huaynaputina - February 19, 1600 - 6 - https://en.wikipedia.org/wiki/Huaynaputina
 	fuji #Mount Fuji - December 16, 1707 - 5 - https://en.wikipedia.org/wiki/Mount_Fuji
 	guarinoes #Cerro Bravo - 1720 - 4 - https://en.wikipedia.org/wiki/Cerro_Bravo
 	hambatus #Tungurahua - 1886 - 4 - https://en.wikipedia.org/wiki/Tungurahua
-	hambatus #Tungurahua - 1916 - 4 - https://en.wikipedia.org/wiki/Tungurahua
+	#hambatus #Tungurahua - 1916 - 4 - https://en.wikipedia.org/wiki/Tungurahua
 	iliamna #Mount Redoubt - 1989-1990 - 3 - https://en.wikipedia.org/wiki/Mount_Redoubt
 	kandangwesi #Mount Papandayan - 1772 - 3 - https://en.wikipedia.org/wiki/Mount_Papandayan
 	klyuchi #Klyuchevskaya Sopka - 1829 - 4 - https://en.wikipedia.org/wiki/Klyuchevskaya_Sopka
-	klyuchi #Klyuchevskaya Sopka - 1931 - 4 - https://en.wikipedia.org/wiki/Klyuchevskaya_Sopka
-	klyuchi #Klyuchevskaya Sopka - 1987 - 4 - https://en.wikipedia.org/wiki/Klyuchevskaya_Sopka
-	klyuchi #Shiveluch - 1652 - 5 - https://en.wikipedia.org/wiki/Shiveluch
-	klyuchi #Shiveluch - 1854 - 5 - https://en.wikipedia.org/wiki/Shiveluch
-	klyuchi #Shiveluch - 1964 - 5 - https://en.wikipedia.org/wiki/Shiveluch
+	#klyuchi #Klyuchevskaya Sopka - 1931 - 4 - https://en.wikipedia.org/wiki/Klyuchevskaya_Sopka
+	#klyuchi #Klyuchevskaya Sopka - 1987 - 4 - https://en.wikipedia.org/wiki/Klyuchevskaya_Sopka
+	#klyuchi #Shiveluch - 1652 - 5 - https://en.wikipedia.org/wiki/Shiveluch
+	#klyuchi #Shiveluch - 1854 - 5 - https://en.wikipedia.org/wiki/Shiveluch
+	#klyuchi #Shiveluch - 1964 - 5 - https://en.wikipedia.org/wiki/Shiveluch
 	koy_aike #Mount Hudson - 1971 - 5 - https://en.wikipedia.org/wiki/Mount_Hudson
-	koy_aike #Mount Hudson - 1991 - 5 - https://en.wikipedia.org/wiki/Mount_Hudson
+	#koy_aike #Mount Hudson - 1991 - 5 - https://en.wikipedia.org/wiki/Mount_Hudson
 	lumajang #Semeru - 2021 - 4 - https://en.wikipedia.org/wiki/Semeru
 	malka #Bezymianny - 1955- 3 - https://en.wikipedia.org/wiki/Bezymianny
-	malka #Bezymianny - 2022- 3 - https://en.wikipedia.org/wiki/Bezymianny
-	malka #Tolbachik - 1975 - 4 - https://en.wikipedia.org/wiki/Tolbachik
+	#malka #Bezymianny - 2022- 3 - https://en.wikipedia.org/wiki/Bezymianny
+	#malka #Tolbachik - 1975 - 4 - https://en.wikipedia.org/wiki/Tolbachik
 	mawlen #Cerro Azul - 1932 - 5 - https://en.wikipedia.org/wiki/Cerro_Azul_(Chile_volcano)#Major_eruption,_1932
 	otun #Nevado del Ruiz - 1595 - 4 - https://en.wikipedia.org/wiki/Nevado_del_Ruiz
-	otun #Nevado del Ruiz - 1845 - 4 - https://en.wikipedia.org/wiki/Nevado_del_Ruiz
-	otun #Nevado del Ruiz - 1985 - 4 - https://en.wikipedia.org/wiki/Nevado_del_Ruiz
+	#otun #Nevado del Ruiz - 1845 - 4 - https://en.wikipedia.org/wiki/Nevado_del_Ruiz
+	#otun #Nevado del Ruiz - 1985 - 4 - https://en.wikipedia.org/wiki/Nevado_del_Ruiz
 	pangandaran #Mount Galunggung - October 8, 1822 - 5 - https://en.wikipedia.org/wiki/Galunggung
-	pangandaran #Mount Galunggung - 1982 - 5 - https://en.wikipedia.org/wiki/Galunggung
+	#pangandaran #Mount Galunggung - 1982 - 5 - https://en.wikipedia.org/wiki/Galunggung
 	patia #Do?a Juana - 1899 - 4 - https://en.wikipedia.org/wiki/Do%C3%B1a_Juana
 	pauzhetka #Ksudach - 1907 - 5 - https://en.wikipedia.org/wiki/Ksudach
 	quauhquechollan #Popocatpetl 1363, 1509, 1512, 15191528, 1530, 1539, 1540, 1548, 15621570, 1571, 1592, 1642, 1663, 1664, 1665, 1697, 1720, 1802 - 2 - https://en.wikipedia.org/wiki/Popocat%C3%A9petl
-	quito #Cotopaxi - 1532 - 4 - https://en.wikipedia.org/wiki/Cotopaxi
-	quito #Cotopaxi - 1534 - 4 - https://en.wikipedia.org/wiki/Cotopaxi
-	quito #Cotopaxi - 1744 - 4 - https://en.wikipedia.org/wiki/Cotopaxi
-	quito #Cotopaxi - 1768 - 4 - https://en.wikipedia.org/wiki/Cotopaxi
-	quito #Cotopaxi - 1877 - 4 - https://en.wikipedia.org/wiki/Cotopaxi
+	#quito #Cotopaxi - 1532 - 4 - https://en.wikipedia.org/wiki/Cotopaxi
+	#quito #Cotopaxi - 1534 - 4 - https://en.wikipedia.org/wiki/Cotopaxi
+	#quito #Cotopaxi - 1744 - 4 - https://en.wikipedia.org/wiki/Cotopaxi
+	#quito #Cotopaxi - 1768 - 4 - https://en.wikipedia.org/wiki/Cotopaxi
+	#quito #Cotopaxi - 1877 - 4 - https://en.wikipedia.org/wiki/Cotopaxi
 	tulor #L?scar - 1993 - 4 - https://en.wikipedia.org/wiki/Lascar_(volcano)
 	tyonek #Mount Spurr - 1953 - 4 - https://en.wikipedia.org/wiki/Mount_Spurr
-	tyonek #Mount Spurr - 1992 - 4 - https://en.wikipedia.org/wiki/Mount_Spurr
+	#tyonek #Mount Spurr - 1992 - 4 - https://en.wikipedia.org/wiki/Mount_Spurr
 	xelahuh #Santa Mar?a - 1902 - 6 - https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_(volcano)
 	yahi #Lassen Peak - 1915 - 3 - https://en.wikipedia.org/wiki/Lassen_Peak
 
 	#Less explosive eruptions
-	babuyan_islands #Didicas - 1969 - 2 - https://en.wikipedia.org/wiki/Didicas_Volcano
+	#babuyan_islands #Didicas - 1969 - 2 - https://en.wikipedia.org/wiki/Didicas_Volcano
 	semarang #Dieng Volcanic - 1928 - 2 - https://en.wikipedia.org/wiki/Dieng_Volcanic_Complex
-	semarang #Dieng Volcanic - 1939 - 1 - https://en.wikipedia.org/wiki/Dieng_Volcanic_Complex
-	semarang #Dieng Volcanic - 1944 - 2 - https://en.wikipedia.org/wiki/Dieng_Volcanic_Complex
-	semarang #Dieng Volcanic - 1964 - 1 - https://en.wikipedia.org/wiki/Dieng_Volcanic_Complex
-	semarang #Dieng Volcanic - 1979 - 1 - https://en.wikipedia.org/wiki/Dieng_Volcanic_Complex
-	semarang #Dieng Volcanic - 1786 - 2 - https://en.wikipedia.org/wiki/Dieng_Volcanic_Complex
+	#semarang #Dieng Volcanic - 1939 - 1 - https://en.wikipedia.org/wiki/Dieng_Volcanic_Complex
+	#semarang #Dieng Volcanic - 1944 - 2 - https://en.wikipedia.org/wiki/Dieng_Volcanic_Complex
+	#semarang #Dieng Volcanic - 1964 - 1 - https://en.wikipedia.org/wiki/Dieng_Volcanic_Complex
+	#semarang #Dieng Volcanic - 1979 - 1 - https://en.wikipedia.org/wiki/Dieng_Volcanic_Complex
+	#semarang #Dieng Volcanic - 1786 - 2 - https://en.wikipedia.org/wiki/Dieng_Volcanic_Complex
 	hatunllacta #Galeras - 1993 - 2 - https://en.wikipedia.org/wiki/Galeras
 	binalbagan #Kanlaon - 1996 - 2 - https://en.wikipedia.org/wiki/Kanlaon
-	tabukan #Karangetang - 1992 - 2 - https://en.wikipedia.org/wiki/Karangetang
-	sawangan #Mayon - 1993 - 2 -	https://en.wikipedia.org/wiki/Mayon
-	catania #Mount Etna - 1843 - 2 - https://en.wikipedia.org/wiki/Mount_Etna
-	catania #Mount Etna - 1928 - 1 - https://en.wikipedia.org/wiki/Mount_Etna
+	#tabukan #Karangetang - 1992 - 2 - https://en.wikipedia.org/wiki/Karangetang
+	#sawangan #Mayon - 1993 - 2 -	https://en.wikipedia.org/wiki/Mayon
+	#catania #Mount Etna - 1843 - 2 - https://en.wikipedia.org/wiki/Mount_Etna
+	#catania #Mount Etna - 1928 - 1 - https://en.wikipedia.org/wiki/Mount_Etna
 	pariaman #Mount Marapi - 1979 - 2 - https://en.wikipedia.org/wiki/Mount_Marapi
 	mataram #Mount Merapi - 1994 - 2 - https://en.wikipedia.org/wiki/Mount_Merapi
 	komo_kongo #Mount Nyiragongo - 1977 - 1 - https://en.wikipedia.org/wiki/Mount_Nyiragongo
 	takaki #Mount Unzen - 1792 - 2 - https://en.wikipedia.org/wiki/Mount_Unzen
-	takaki #Mount Unzen - 1991 - 1 - https://en.wikipedia.org/wiki/Mount_Unzen
+	#takaki #Mount Unzen - 1991 - 1 - https://en.wikipedia.org/wiki/Mount_Unzen
 	umboi #Ritter Island - 1888 - 2 - https://en.wikipedia.org/wiki/Ritter_Island
-	tabukan #Ruang - 1871 - 2 - https://en.wikipedia.org/wiki/Mount_Ruang
+	#tabukan #Ruang - 1871 - 2 - https://en.wikipedia.org/wiki/Mount_Ruang
 	gitxsanimaax #Tseax Cone - 1700 - 1 - https://en.wikipedia.org/wiki/Tseax_Cone
-	pikunwijimapu #Villarrica - 1964 - 2 - https://en.wikipedia.org/wiki/Villarrica_(volcano)
-	pikunwijimapu #Villarrica - 1971 - 2 - https://en.wikipedia.org/wiki/Villarrica_(volcano)
+	#pikunwijimapu #Villarrica - 1964 - 2 - https://en.wikipedia.org/wiki/Villarrica_(volcano)
+	#pikunwijimapu #Villarrica - 1971 - 2 - https://en.wikipedia.org/wiki/Villarrica_(volcano)
 	mashita #Yakedake - 1995 - 1 - https://en.wikipedia.org/wiki/Mount_Yake
 
 }
@@ -1022,7 +1021,7 @@ sea_zones = {
 	bellona_high_sea_1 bellona_high_sea_2 bellona_high_sea_3 bellona_high_sea_4 bellona_high_sea_5 bellona_high_sea_6 bellona_high_sea_7
 	nauru_high_sea_1 nauru_high_sea_2 nauru_high_sea_3 nauru_high_sea_4 nauru_high_sea_5
 	nauru_coast metoma_island mere_lava_island
-
+	limfjorden
 } 
 
 
@@ -1035,11 +1034,11 @@ sea_zones = {
 # LAKES
 ########
 lakes = { 
-    malaren hjalmaren_lake vattern limfjorden vanern siljan storsjon enare_trask torne_trask storavan uddjaur vastenjaure akkajaure	# Sweden
+    malaren hjalmaren_lake vattern vanern siljan storsjon enare_trask torne_trask storavan uddjaur vastenjaure akkajaure	# Sweden
 	mjosa #norway
 	lake_muritz
 	oulujarvi saima paijanne pielinen pihlajavesi yanis_jarvi haukivesi lake_orivesi puruvesi jaasjarvi puula kyyvesi yli_kitka muojarvi pyhajarvi hoytiainen viinijarvi koitere nasisalki #finland
-    loch_ness dyfi_estuary lough_neagh lough_derg lough_ree lough_corrib lough_mask derwent_water loch_lomond lough_erne lough_conn # british isles
+    loch_ness lough_neagh lough_derg lough_ree lough_corrib lough_mask derwent_water loch_lomond lough_erne lough_conn # british isles
     haarlemmermeer
 	hourtin_carcans_lake lagoon_of_sanguinet lagoon_of_bages_sigean lagoon_of_salses lagoon_of_vaccares lagoon_of_berre
 	taupo # New zealand
@@ -1082,7 +1081,7 @@ lakes = {
 	lake_evans lake_sakami lake_nichicun lake_naococane lake_caniapiscau lake_bienville lake_tasiujaq lake_wiyashakami seal_lake lake_minto lake_payne lake_temiscamingue lake_abitibi
 	lake_nipissing lake_simcoe wanapitei_lake onaman_lake lake_nipigon ogoki_lake lake_of_the_woods rainy_lake lac_seul lake_saint_joseph attawapiskat_lake lake_wunnumin big_trout_lake kesagami_lake
 	
-	curonian_lagoon lake_vorts lake_mamry lake_sniardwy lebsko_lake dniester_liman sasyk_lagoon alibey_lagoon tylihul_liman molochnyi_liman khadzhibey_liman kuialnyk_liman lake_yalpuh lake_kahul lake_katlabukh lake_kitai berezan_liman syvash_lagoon lake_sasyk_syvash mius_liman lake_lubans lake_razna lake_narach
+	curonian_lagoon lake_vorts lake_mamry lake_sniardwy lebsko_lake dniester_liman sasyk_lagoon alibey_lagoon khadzhibey_liman kuialnyk_liman lake_yalpuh lake_kahul lake_katlabukh lake_kitai syvash_lagoon lake_sasyk_syvash lake_lubans lake_razna lake_narach
 
 	amadjuak_lake
 	#MesoAmerica
