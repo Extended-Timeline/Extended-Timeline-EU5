@@ -1,6 +1,6 @@
 ﻿missing_culture = {
 	
-	language = germanic_barbarian_language
+	language = missing_language
 	
 	color = map_missing
 	
