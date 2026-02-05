@@ -78,38 +78,38 @@ source_seine_sequana = {
 	location = dijon
 	type = sacred_groves
 	importance = 4
-	religions = {gaulish_polytheism gallo_roman_polytheism }
+	religions = {druidism gallo_roman_polytheism }
 }
 
 gournay_sur_aronde_camulos = {
 	location = clermont_en_beauvaisis
 	type = sacred_groves
 	importance = 3
-	religions = {gaulish_polytheism}
+	religions = {druidism}
 }
 grand_grannus = {
 	location = neufchateau_des_vosges
 	type = sacred_groves
 	importance = 3
-	religions = {gaulish_polytheism}
+	religions = {druidism}
 }
 aachen_grannus = {
 	location = aachen
 	type = sacred_groves
 	importance = 4
-	religions = {gaulish_polytheism gallo_roman_polytheism }
+	religions = {druidism gallo_roman_polytheism }
 }
 roquepertuse_velaux = {
 	location = marseille
 	type = polytheistic_holy_site
 	importance = 4
-	religions = {gaulish_polytheism}
+	religions = {druidism}
 }
 chartres_druids = {
 	location = chartres
 	type = gathering_place_druids 
 	importance = 5 
-	religions = { gaulish_polytheism gallo_roman_polytheism } 
+	religions = { druidism gallo_roman_polytheism } 
 }
 
 #Celtic Iberian 

@@ -2,28 +2,28 @@
 	location = paderborn 
 	type = polytheistic_holy_site
 	importance = 5
-	religions = {central_germanic_polytheism romano_germanic_polytheism } 
+	religions = {germanic_polytheism romano_germanic_polytheism } 
 }
 
 eschwege_oak_donar = { #Geismar
 	location = eschwege 
 	type = sacred_groves
 	importance = 4
-	religions = {central_germanic_polytheism romano_germanic_polytheism } 
+	religions = {germanic_polytheism romano_germanic_polytheism } 
 }  
 
 middelburg_nehalennia ={ #Colijnsplaat
 	location = middelburg 
 	type = sacred_groves
 	importance = 3
-	religions = {central_germanic_polytheism romano_germanic_polytheism } 
+	religions = {germanic_polytheism romano_germanic_polytheism } 
 }
 
 nijmegen_donar ={ #Elst
 	location = nijmegen 
 	type = sacred_groves
 	importance = 4
-	religions = {central_germanic_polytheism romano_germanic_polytheism } 
+	religions = {germanic_polytheism romano_germanic_polytheism } 
 }
 
 #Norse and Central Germ
@@ -31,7 +31,7 @@ slesvig_thorsberg_moor = { #suderbrarup
 	location = slesvig
 	type = sacred_groves
 	importance = 4
-	religions = {central_germanic_polytheism romano_germanic_polytheism norse } 
+	religions = {germanic_polytheism romano_germanic_polytheism norse } 
 }
 
 uppsala_uppsala = {
