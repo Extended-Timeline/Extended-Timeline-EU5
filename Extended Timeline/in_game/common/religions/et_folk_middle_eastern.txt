@@ -1,0 +1,50 @@
+﻿south_arabian_polytheism = {
+	color = rgb{ 140 20 50 }
+	group = folk_mesopotamian_group
+	needs_reform = yes
+	religious_aspects = 1
+
+	definition_modifier = {
+		prestige_from_land_battle = 0.1
+		monthly_religious_influence = 0.1
+		global_defensive = 0.1
+	}
+	tags = {
+		folk_african_gfx pagan_gfx
+	}
+}
+
+ashurism = {
+	color = rgb{ 210 210 210 }
+	group = folk_mesopotamian_group
+	needs_reform = yes
+	religious_aspects = 1
+
+	definition_modifier = {
+		prestige_from_land_battle = 0.1
+		monthly_religious_influence = 0.1
+		global_defensive = 0.1
+	}
+	tags = {
+		folk_african_gfx pagan_gfx
+	}
+}
+
+zunism = {
+	color = rgb { 200 200 150 }
+	group = dharmic
+
+	religious_aspects = 1
+	
+    definition_modifier = {
+		global_defensive = 0.1
+		global_pop_food_consumption = -0.1
+    }
+    
+    opinions = {
+    }
+
+	tags = {
+		dharmic_gfx
+	}
+}

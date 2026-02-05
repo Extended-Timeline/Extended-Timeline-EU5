@@ -1,4 +1,92 @@
 
+chalcedonism = {
+	color = rgb { 200 160 0 }
+	group = christian
+	
+	language = latin_language
+
+	enable = 2.1.1
+		
+	definition_modifier = {
+		global_max_literacy = 5
+		global_build_buildings_cost = -0.05
+		
+		monthly_religious_influence = 0.1
+
+		maximum_religious_influence = 400
+	}
+	
+	opinions = {
+	}
+
+	tags = { catholic_gfx western_christian_gfx christian_gfx abrahamic_gfx }
+}
+
+arianism = {
+	color = rgb { 120 120 0 }
+	group = christian
+	
+	language = latin_language
+
+	enable = 2.1.1
+		
+	definition_modifier = {
+		global_max_literacy = 5
+		global_build_buildings_cost = -0.05
+		
+		monthly_religious_influence = 0.1
+
+		maximum_religious_influence = 400
+	}
+	
+	opinions = {
+	}
+
+	tags = { catholic_gfx western_christian_gfx christian_gfx abrahamic_gfx }
+}
+
+presbyterian = {
+	color = rgb { 0 0 178 }
+	group = christian
+
+	enable = 2.1.1
+		
+	definition_modifier = {
+		global_max_literacy = 5
+		global_build_buildings_cost = -0.05
+		
+		monthly_religious_influence = 0.1
+
+		maximum_religious_influence = 400
+	}
+	
+	opinions = {
+	}
+
+	tags = { protestant_gfx western_christian_gfx christian_gfx abrahamic_gfx }
+}
+
+anabaptist = {
+	color = rgb { 76 76 229 }
+	group = christian
+
+	enable = 2.1.1
+		
+	definition_modifier = {
+		global_max_literacy = 5
+		global_build_buildings_cost = -0.05
+		
+		monthly_religious_influence = 0.1
+
+		maximum_religious_influence = 400
+	}
+	
+	opinions = {
+	}
+
+	tags = { protestant_gfx western_christian_gfx christian_gfx abrahamic_gfx }
+}
+
 montanism = { 
 	color = rgb{ 252 135 171 }
 	group = christian

@@ -30,7 +30,7 @@ brythonic_polytheism = {
 	}
 }
 
-gaulish_polytheism = {
+druidism = {
 	color = rgb {141 234 47}
 	group = folk_european_group
 	needs_reform = yes

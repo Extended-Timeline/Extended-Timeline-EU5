@@ -1,0 +1,12 @@
+﻿folk_mesopotamian_group = {
+	color = rgb {210 210 210}
+	convert_slaves_at_start = yes
+	modifier = {
+		allow_rgo_slave_demand = yes
+	}
+}
+secular_group = {
+	color = rgb {0 0 0}
+	allow_slaves_of_same_group = no
+	convert_slaves_at_start = no
+}

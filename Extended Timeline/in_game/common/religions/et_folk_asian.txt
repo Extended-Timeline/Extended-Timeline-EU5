@@ -1,0 +1,19 @@
+﻿muism = { #Korean shamanism
+	color = rgb { 130 130 50 }
+	group = folk_asian_group
+
+	religious_aspects = 1
+	
+	language = korean_language
+	
+	definition_modifier = {
+		tolerance_heretic = 1
+		global_estate_target_satisfaction = small_permanent_target_satisfaction
+		country_cabinet_efficiency = 0.05
+		can_have_monasteries = yes
+	}
+	
+	opinions = {
+		mahayana = kindred
+	}
+}

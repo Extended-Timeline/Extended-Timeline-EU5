@@ -1,4 +1,4 @@
-georgian_polytheism = {
+georgian_religion = {
     color = rgb{ 198 25 25 }
     group = folk_caucasian_group
     needs_reform = yes
@@ -14,7 +14,7 @@ georgian_polytheism = {
     }
 }
 
-armenian_polytheism = {
+armenian_religion = {
     color = rgb{ 255 178 102 }
     group = folk_caucasian_group
     needs_reform = yes

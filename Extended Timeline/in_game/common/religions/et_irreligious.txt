@@ -1,0 +1,38 @@
+﻿secularism = {
+	color = rgb { 0 0 0 }
+	group = secular_group
+
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	tags = { catholic_gfx western_christian_gfx christian_gfx abrahamic_gfx }
+}
+
+irreligious = {
+	color = rgb { 0 0 0 }
+	group = secular_group
+
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	tags = { catholic_gfx western_christian_gfx christian_gfx abrahamic_gfx }
+}
+
+missing_religion = {
+	color = rgb { 0 0 0 }
+	group = secular_group
+	
+	language = missing_language
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+}
