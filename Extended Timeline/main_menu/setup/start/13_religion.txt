@@ -1,0 +1,54 @@
+building_manager = {
+	#Papal Cardinals
+	seat_of_cardinal = { tag = PAP level = 1 location = avignon } #Pope Benedict XII, born Jacques Fournier, made a cardinal in 1327, elected Pope in 1334
+	seat_of_cardinal = { tag = PAP level = 1 location = rome } #Giacomo Stefaneschi Caetani (San Giorgio)
+	seat_of_cardinal = { tag = PAP level = 1 location = tivoli } #Napoleone Orsini (Sant’ Adriano) #Tivoli as his father, Rinaldo Orsini, was Lord of Monterotondo and Marino
+	seat_of_cardinal = { tag = PAP level = 1 location = palestrina } #Giovanni Colonna (S. Angelo) #Palestrina as his father, Stefano Colonna 'il Vecchio', came from the Palestrina branch of the Colonna family
+	seat_of_cardinal = { tag = PAP level = 1 location = velletri } #Betrand du Pouget (Ostia e Velletri) #Appointed Cardinal-Bishop of Ostia and Velletri in 1327
+	
+	#French Cardinals
+	seat_of_cardinal = { tag = FRA level = 1 location = toulouse } #Jean-Raymond de Comminges (Porto-Santa Rufina) #Archbishop of Toulouse when elected
+	seat_of_cardinal = { tag = FRA level = 1 location = bazas } #Raymond Guilhem de Fargues (S. Maria Nova) #Archdeacon of Leicester, but setting him in Bazas as coming from Fargues, in Guyenne, and being one of the French cardinals
+	seat_of_cardinal = { tag = FRA level = 1 location = lyon } #Bertrand de Montfavez (S. Maria in Aquiro) #Canon de Saint-Jean de Lyon when elected
+	seat_of_cardinal = { tag = FRA level = 1 location = langres } #Imbert Dupuis (XII Apostoli) #Archdeacon of Langres when elected
+	seat_of_cardinal = { tag = FRA level = 1 location = paris } #Gauscelin de Jean (Albano) #Archdeacon of Paris when elected
+	seat_of_cardinal = { tag = FRA level = 1 location = bourges } #Pierre Bertrand d'Annonay (S. Clemente) #Archbishop of Bourges when elected
+	
+	#French Vassals
+	seat_of_cardinal = { tag = NRB level = 1 location = narbonne } #Gaillard de la Mothe (S. Lucia) #Archdeacon of Narbonne when elected
+	seat_of_cardinal = { tag = AUX level = 1 location = auxerre } #Hélie de Talleyrand-Périgord (S. Pietro in Vincoli) #Bishop of Auxerre when elected
+	
+	#Other
+	seat_of_cardinal = { tag = NAP level = 1 location = manfredonia } #Matteo Orsini (SS Giovani e Paolo) #Archbishop of Manfredonia when elected
+	seat_of_cardinal = { tag = NAP level = 1 location = naples } #Annibaldo di Ceccano (Tusculum) #Archbishop of Naples when elected
+	seat_of_cardinal = { tag = PRO level = 1 location = aix_en_provence } #Pierre des Près (Palestrina) #Archbishop of Aix-en-Provence when elected
+	seat_of_cardinal = { tag = CAS level = 1 location = cartagena } #Pedro Gómez Barroso (S. Prassede) #Bishop of Cartagena when elected
+}
+
+religion_manager = {
+	catholic = {
+		timed_modifier = {
+			modifier = "limited_indulgences_religion"
+			start_date = 1000.1.1
+			date = 9999.1.1
+			size = 1
+		}
+		timed_modifier = {
+			modifier = "tolerated_simony_religion"
+			start_date = 313.1.1
+			date = 9999.1.1
+			size = 1
+		}
+		#Saints
+
+		
+	}
+
+	orthodox = {
+
+	}
+
+	miaphysite = {
+
+	}
+}
