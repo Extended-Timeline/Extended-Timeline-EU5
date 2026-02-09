@@ -1,0 +1,482 @@
+﻿################
+#### Europe ####
+################
+
+odello = be7000
+kismarton = 527000
+nemetujvar = 52dd00
+peshkopi = c6d500
+dahme = DD8EA2
+bad_salzungen = 22E0D4
+sonneburg = 8849CF
+greiz = 77D9A7
+weida = EECD98
+hessisch_oldendorf = DD86ED
+reichenau = EEBBC5
+kaulsdorf = AA6A07
+bad_orb = DD9311
+eupen = BB7EC5
+saint_hubert = 555A5C
+gennep = 77778E
+romhild = CC951B
+geisenheim = AACA34
+rudolstadt = DDC7BB
+rockenhausen = 336C1B
+steinbach = 9998B6
+bad_homburg = 0037F7
+schwarzheide = DDC825
+hechingen = EEDC1B
+crivitz = EEEC02
+minsk_mazowiecki = 77ED1B
+losice = EE7DAC
+pogegen = 557CBB
+skidel = 44559D
+krynki = 663CBB
+kozienice = EE6AED
+szczekociny = AAB270
+dabrowa_gornicza = 7748B1
+jablonka = 11B311
+stara_lubovna = EEE8E8
+niedzica = 77504D
+belzec = 22A45C
+
+################
+### Caucasus ###
+################
+
+caucasus_et1 = 01014d
+caucasus_et2 = 01014e
+caucasus_et3 = 01014f
+caucasus_et4 = 010150
+caucasus_et5 = 010151
+caucasus_et6 = 010152
+lesser_caucasus_et1 = 010153
+lesser_caucasus_et2 = 010154
+lesser_caucasus_et3 = 010155
+
+################
+# Central Asia #
+################
+
+uchquduq = cda100
+zarafshon = 6abb00
+tambybulak = bccc00
+alty_kuduk = 896d00 #Modern Aral
+kyzyl_su = cda101
+huday_dag = 6abb01 #Modern Gumdag
+kyzyl_kala = bccc01 #Including Toprak Kala
+
+#CORRIDORS
+kyzylkum_corridor1 = ffff00
+kyzylkum_corridor2 = ffff01
+kyzylkum_corridor3 = ffff02
+kyzylkum_corridor4 = ffff03
+kyzylkum_corridor5 = ffff04
+kyzylkum_corridor6 = ffff05
+aral_kum_corridor1 = ffff06
+karakum_corridor1 = ffff07
+
+#WASTELANDS
+ust_yurt_plateau3 = 010100
+ust_yurt_plateau4 = 010101
+kyzylkum_desert2 = 010102
+ugam_range1 = 010103
+ugam_range2 = 016D02
+tian_shan16 = 010104
+#tian_shan17 = 010105
+hissar_mountains4 = 010106
+tian_shan18 = 010107
+tian_shan19 = 010108
+tian_shan20 = 010109
+tian_shan21 = 01010a
+tian_shan22 = 01010b
+tian_shan23 = 01010c
+tian_shan24 = 01010d
+kyzylkum_desert3 = 01014a
+kyzylkum_desert4 = 01014b
+kyzylkum_desert5 = 01014c
+
+################
+#### Arabia ####
+################
+
+adam = 896d01
+haima = cda102
+thumrait = 6abb02
+al_mazyunah = bccc02
+al_abr = 896d02
+sharurah = cda103
+rumah_yemen = 6abb03
+shaybah = bccc03
+ruwaished = 896d03
+rutba = cda104
+umm_rashrash = 6abb04
+khasab = bccc04
+
+#CORRIDORS
+rub_al_khali_corridor1 = ffff08
+rub_al_khali_corridor2 = ffff09
+rub_al_khali_corridor3 = ffff0a
+rub_al_khali_corridor4 = ffff0b
+rub_al_khali_corridor5 = ffff0c
+rub_al_khali_corridor6 = ffff0d
+rub_al_khali_corridor7 = ffff0e
+rub_al_khali_corridor8 = ffff0f
+rub_al_khali_corridor9 = ffff10
+rub_al_khali_corridor10 = ffff11
+jordan_desert_corridor1 = ffff12
+syrian_desert_corridor_et = ffff13
+rub_al_khali_corridor11 = ffff14
+rub_al_khali_corridor12 = ffff15
+
+#WASTELANDS
+rub_al_khali3 = 0101ac
+rub_al_khali4 = 01010e
+rub_al_khali5 = 010135
+rub_al_khali6 = 010110
+rub_al_khali7 = 010111
+rub_al_khali8 = 010112
+rub_al_khali9 = 010113
+rub_al_khali10 = 010114
+rub_al_khali11 = 010115
+rub_al_khali12 = 010116
+rub_al_khali13 = 010117
+rub_al_khali14 = 010118
+rub_al_khali15 = 010119
+syrian_desert8 = 01011a
+syrian_desert9 = 01011b
+syrian_desert10 = 01011c
+syrian_desert11 = 01011d
+syrian_desert12 = 01011e
+syrian_desert13 = 01011f
+al_jazair_desert = 010120
+syrian_desert14 = 010121
+negev_desert = 010122
+zagros_mountains_et1 = 010123
+zagros_mountains_et2 = 010124
+
+###############
+#### India ####
+###############
+
+#CORRIDORS
+tibet_passage_et1 = ffff16
+tibet_passage_et2 = ffff17
+
+#WASTELANDS
+karakoram_et1 = 010125
+himalaya_et1 = 010126
+himalaya_et2 = 010127
+himalaya_et3 = 010128
+himalaya_et4 = 010129
+himalaya_et5 = 01012a
+himalaya_et6 = 01012b
+himalaya_et7 = 01012c
+himalaya_et8 = 01012d
+himalaya_et9 = 01012e
+himalaya_et10 = 01012f
+himalaya_et11 = 010130
+himalaya_et12 = 010131
+naga_hills_et1 = 010132
+naga_hills_et2 = 010133
+naga_hills_et3 = 010134
+suleiman_range_et1 = 010136
+suleiman_range_et2 = 010137
+tora_bora_mountains_et = 010138
+
+###############
+### SE Asia ###
+###############
+
+#WASTELANDS
+bilauktaung_range_et1 = 010139
+bilauktaung_range_et2 = 01013a
+karen_jungle_et = 01013b
+phou_mountains_et = 01013c
+fan_si_mountains_et = 01013d
+phou_den_din_mountains_et = 01013e
+annamese_range_et = 01013f
+sankalakhiri_et = 010140
+borneo_jungle_et1 = 010141
+gaoligongshan_et = 010147
+
+################
+### Mongolia ###
+################
+
+#WASTELANDS
+atas_bogd_mountains_et = 010142
+mongol_altay_mountains_et = 010143
+altay_mountains_et1 = 010144
+altay_mountains_et2 = 010145
+altay_mountains_et3 = 010146
+saur_et = 0101ab
+khan_khentii_mountains_et = 010148
+eastern_sayan_mountains_et = 010149
+
+################
+#### Sahara ####
+################
+
+tintane = 896d04
+kiffa = cda105
+guerou = 6abb05
+aleg = bccc05
+boutilimit = 896d05
+al_mahbes = cda106
+tamanrasset = 6abb06
+tessalit = bccc06
+timiaouine = 896d06
+in_guezzam = cda107
+bordj_badji_mokhtar = 6abb07
+arlit = bccc07
+illizi = 896d07
+bardai = cda108
+jaghbub = 6abb08
+menaka = bccc08
+
+#CORRIDORS
+sahara_passage_et1 = ffff18
+sahara_passage_et2 = ffff19
+sahara_passage_et3 = ffff1a
+sahara_passage_et4 = ffff1b
+sahara_passage_et5 = ffff1c
+sahara_passage_et6 = ffff1d
+sahara_passage_et7 = ffff1e
+sahara_passage_et8 = ffff1f
+sahara_passage_et9 = ffff20
+sahara_passage_et10 = ffff21
+sahara_passage_et11 = ffff22
+sahara_passage_et12 = ffff23
+sahara_passage_et13 = ffff24
+sahara_passage_et14 = ffff25
+sahara_passage_et15 = ffff26
+sahara_passage_et16 = ffff27
+
+#WASTELANDS
+erg_amatlich_et1 = 010156
+erg_amatlich_et2 = 010157
+erg_amatlich_et3 = 010158
+erg_aoukar_et1 = 010159
+erg_aoukar_et2 = 01015a
+el_djouf_et1 = 01015b
+el_djouf_et2 = 01015c
+el_djouf_et3 = 01015d
+el_djouf_et4 = 01015e
+el_djouf_et5 = 01015f
+tanezrouft_desert_et1 = 010160
+tanezrouft_desert_et2 = 010161
+talak_desert_et1 = 010162
+talak_desert_et2 = 010163
+talak_desert_et3 = 010164
+plain_of_tamlelt_et1 = 010165
+plain_of_tamlelt_et2 = 010166
+el_eglab_massif_et1 = 010167
+tenere_et1 = 010168
+erg_of_bilma_et1 = 010169
+rabyanah_sand_sea_et1 = 01016a
+erg_selima_et1 = 01016b
+erg_selima_et2 = 01016c
+erg_selima_et3 = 01016d
+great_sand_sea_et1 = 01016e
+grand_erg_oriental_et1 = 01016f
+western_desert_et1 = 010170
+
+###############
+# West Africa #
+###############
+
+#WASTELANDS
+oban_hills_et = 010171
+obudu_plateau_et = 010172
+guinean_jungle_et1 = 010173
+guinean_jungle_et2 = 010174
+
+##################
+# Central Africa #
+##################
+
+impfondo = 896d08
+betou = cda109
+nola_congo = 6abb09
+ouesso = bccc09
+makokou = 896d09
+makoua_congo = cda10a
+mbandaka = 6abb0a
+lisala = bccc0a
+bumba = 896d0a
+kisangani = cda10b
+bondo_north = 6abb0b
+boende = bccc0b
+kindu = 896d0b
+ikela = cda10c
+walikale = 6abb0c
+
+#WASTELANDS
+congo_jungle_et1 = 010175
+congo_jungle_et2 = 010176
+congo_jungle_et3 = 010177
+congo_jungle_et4 = 010178
+congo_jungle_et5 = 010179
+congo_jungle_et6 = 01017a
+congo_jungle_et7 = 01017b
+congo_jungle_et8 = 01017c
+congo_jungle_et9 = 01017d
+congo_jungle_et10 = 01017e
+congo_jungle_et11 = 01017f
+congo_jungle_et12 = 010180
+congo_jungle_et13 = 010181
+congo_jungle_et14 = 010182
+congo_jungle_et15 = 010183
+mount_meru = 010185
+
+################
+# South Africa #
+################
+
+tsabong = bccc0c
+werda = 896d0c
+
+#WASTELANDS
+drakensberg_mountains_et = 010184
+
+#################
+# North America #
+#################
+
+qamanituaq = cda10d #Baker Lake
+sagvaaniqtuuq = 6abb0d #Prudhoe Bay
+ulguniq = bccc0d #Wainwright
+utqiagvik_et = 896d0d #Barrow
+iqaluktuuttiaq = cda10e #Cambridge Bay
+
+#CORRIDORS
+atigun_pass = ffff28
+
+#WASTELANDS
+wrangell_mountains_et = 010186
+coast_mountains_et = 010187
+gwichin_uplands_et = 010188
+nabesna_forest_et = 010189
+
+#SEA
+wainwright_inlet = 00fefe
+point_barrow = 00b2fe
+tigvariak_island = 01fefe
+barter_island = 01b2fe
+mackenzie_estuary = 02fefe
+inuvialuit_coast = 02b2fe
+amundsen_gulf = 03fefe
+dolphin_and_union_strait = 03b2fe
+coronation_gulf = 04fefe
+dease_strait = 04b2fe
+
+###############
+# Mesoamerica #
+###############
+
+ox_te_tuun = 6abb0e #Calakmul
+siaan_kaan = bccc0e #Uaxactun
+
+#WASTELANDS
+tawahka_jungle_et = 01018a
+chiriqui_mountains_et = 01018b
+darien_gap_et = 01018c
+
+#################
+# South America #
+#################
+
+atabapo = 896d0e
+atures = cda10f
+tapuruquara = 6abb0f #Santa Isabel do Rio Negro
+uaupes = bccc0f #Sao Gabriel da Cachoeira
+karasabai = 896d0f
+iauarete = cda110
+mitu = 6abb10
+galibi_marwono = bccc10 #Oiapoque
+maroni = 896d10 #Grand-Santi
+pokigron = cda111
+jutai = 6abb11
+tabatinga = bccc11
+amatura = 896d11
+calamar = cda112
+caballococha = 6abb12
+iquitos = bccc12
+leticia = 896d12
+inirida = cda113
+mauta = 6abb13
+maranon = bccc13 #San Lorenzo
+requena_amazon = 896d13
+contamama = cda114
+leguizamo = 6abb14 #Puerto Leguizamo
+jurua = bccc14
+carauari = 896d14
+itamarati = cda115
+eirunepe = 6abb15
+ipixuna = bccc15
+cruzeiro_do_sul = 896d15
+tarauaca = cda116
+feijo = 6abb16
+laco = bccc16 #Sena Madureira
+acre_brazil = 896d16
+brasileia = cda117
+cobija_amazon = 6abb17
+pamahuaya = bccc17 #Riberalta
+guayaramerin = 896d17
+inapari = cda118
+tambopata = 6abb18 #Puerto Maldonado
+mazuko = bccc18
+jacareacanga = 896d18
+apui_amazon = cda119
+humaita = 6abb19
+pacaja = bccc19
+xipaia = 896d19 #Altamira
+uruara = cda11a
+
+#WASTELANDS
+amazon_jungle_et1 = 01018d
+amazon_jungle_et2 = 01018e
+amazon_jungle_et3 = 01018f
+amazon_jungle_et4 = 010190
+amazon_jungle_et5 = 010191
+amazon_jungle_et6 = 010192
+amazon_jungle_et7 = 010193
+amazon_jungle_et8 = 010194
+amazon_jungle_et9 = 010195
+amazon_jungle_et10 = 010196
+amazon_jungle_et11 = 010197
+amazon_jungle_et12 = 010198
+amazon_jungle_et13 = 010199
+amazon_jungle_et14 = 01019a
+amazon_jungle_et15 = 01019b
+#amazon_jungle_et16 = 01019c
+tama_mountains_et = 01019d
+pantanal_forest_et = 01019e
+pantanal_swamp_et = 01019f
+ayoreo_forest_et = 0101a0
+chak_xana_volcano_et = 0101a1
+aucanquilcha_volcano_et1 = 0101a2
+aucanquilcha_volcano_et2 = 0101a3
+pissis_mountains_et = 0101a4
+villarica_forest_et = 0101a5
+puyehue_forest_et = 0101a6
+piren_forest_et = 0101a7
+nansen_forest_et = 0101a8
+paine_forest_et = 0101a9
+cololo_mountains_et = 0101aa
+
+###############
+### Oceania ###
+###############
+
+#WASTELANDS
+central_range_mountains_et = 0101ad
+
+#arrente = 6abb1a #Alice Springs
+#luritja = bccc1a #Papunya
+#pitjantjatjara = 896d1a #Uluru
+#anmatyerre = cda11b #Yuendumu
+#ngatatjara = 6abb1b #Kaltukatjara
+#ngaanyatjarra = bccc1b #Warburton
+#tjalkanti = 896d1b #Laverton
