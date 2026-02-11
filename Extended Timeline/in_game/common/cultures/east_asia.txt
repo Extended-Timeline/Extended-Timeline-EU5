@@ -7,6 +7,7 @@
 
 	opinions = {
 		tamna_culture = kindred
+		buyeo = positive
 	}
 	culture_groups = {
 		confucian_group
@@ -98,6 +99,7 @@ ainu_culture = {
 	tags = { ainu_gfx japanese_gfx east_asian_gfx }
 
 	opinions = {
+		emishi = positive
 	}
 }
 
@@ -120,6 +122,7 @@ jurchen_culture = {
 	tags = { east_asian_gfx tungusic_coa_gfx }
 
 	opinions = {
+		manchu_new = kindred
 	}
 	culture_groups = {
 		jurchen_group
@@ -136,6 +139,7 @@ tamna_culture = {
 
 	opinions = {
 		korean_culture = kindred
+		buyeo = positive
 	}
 	culture_groups = {
 		confucian_group
@@ -1080,7 +1084,8 @@ mongolian_culture = {
 	tags = { mongol_gfx central_asian_gfx mongolian_coa_gfx east_asian_gfx }
 
 	opinions = {
-		
+		chahar = kindred
+		khitan = kindred
 	}
 	culture_groups = {
 		mongolian_group
@@ -2825,18 +2830,113 @@ balti_culture = {
 }
 
 
-#ET4
+#ET
+
+buyeo = {
+	language = korean_language
+	
+	color = rgb{ 70 201 126 }
+	
+	tags = { east_asian_gfx }
+	
+	opinions = {
+		korean_culture = positive
+		tamna_culture = positive
+	}
+	culture_groups = {
+		confucian_group
+	}
+}
+
+emishi = {
+	language = ainu_language
+	
+	color = rgb{ 247 13 35 }
+	
+	tags = { ainu_gfx japanese_gfx east_asian_gfx }
+	
+	opinions = {
+		ainu_culture = positive
+	}
+}
+
+kumaso = {
+	language = japanese_language
+
+	color = rgb{ 230 197 245 }
+
+	tags = { japanese_gfx east_asian_gfx }
+
+	culture_groups = {
+		japanese_group
+	}
+}
+
+saeki = {
+	language = japanese_language
+
+	color = rgb{ 4 39 70 }
+
+	tags = { japanese_gfx east_asian_gfx }
+
+	culture_groups = {
+		japanese_group
+	}
+}
+
+koshibito = {
+	language = japanese_language
+
+	color = rgb{ 6 148 24 }
+
+	tags = { japanese_gfx east_asian_gfx }
+
+	culture_groups = {
+		japanese_group
+	}
+}
+
+taiwanese = {
+	language = northern_mandarin_dialect
+	
+	color = rgb{ 115 196 191 }
+	
+	tags = { east_asian_gfx }
+	
+	opinions = {
+	}
+	culture_groups = {
+		chinese_group
+		confucian_group
+	}
+}
+
+manchu_new = {
+	language = northern_mandarin_dialect
+	
+	color = rgb{ 50 33 113 }
+	
+	tags = { east_asian_gfx }
+	
+	opinions = {
+		jurchen_culture = kindred
+	}
+	culture_groups = {
+		chinese_group
+		confucian_group
+	}
+}
 
 chahar = {
 	language = mongolian_language
 
-	color = map_norwegian
+	color = rgb{ 99 243 44 }
 
-	#specify mongol gfx
 	tags = { mongol_gfx central_asian_gfx mongolian_coa_gfx east_asian_gfx }
 
 	opinions = {
-		
+		mongolian_culture = kindred
+		khitan = kindred
 	}
 	culture_groups = {
 		mongolian_group
@@ -2844,23 +2944,23 @@ chahar = {
 }
 khitan = {
 	language = mongolian_language
-
-	color = map_norwegian
-
-	#specify mongol gfx
+	
+	color = rgb{ 28 61 33 }
+	
 	tags = { mongol_gfx central_asian_gfx mongolian_coa_gfx east_asian_gfx }
-
+	
 	opinions = {
-		
+		chahar = kindred
+		mongolian_culture = kindred
 	}
 	culture_groups = {
 		mongolian_group
 	}
 }
 rouran = {
-	language = mongolian_language
+	language = rouran_language
 
-	color = map_norwegian
+	color = rgb{ 14 69 131 }
 
 	#specify mongol gfx
 	tags = { mongol_gfx central_asian_gfx mongolian_coa_gfx east_asian_gfx }

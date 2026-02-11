@@ -1,7 +1,11 @@
 
-assyrian_culture = {
+assyrian = {
     language = assyrian_dialect
+	
+	color = rgb{ 250 147 72 }
+	
     tags = { muslim_gfx }
+	
     culture_groups = {
         mesopotamian_group
     }
@@ -9,14 +13,22 @@ assyrian_culture = {
 
 babylonian_culture = {
     language = babylonian_dialect
+	
+	color = rgb{ 111 65 48 }
+	
     tags = { muslim_gfx }
+	
     culture_groups = {
         mesopotamian_group
     }
 }
 aramaic_culture = {
     language = aramaic_language
+	
+	color = rgb{ 150 147 72 }
+	
     tags = { muslim_gfx }
+	
     culture_groups = {
         mesopotamian_group
     }
@@ -24,14 +36,22 @@ aramaic_culture = {
 	
 phoenician_culture = {
     language = phoenician_language
+	
+	color = rgb{ 50 147 72 }
+	
     tags = { muslim_gfx }
+	
     culture_groups = {
         canaanite_group
     }
 }
 punic_culture = {
     language = punic_dialect
+	
+	color = rgb{ 250 47 72 }
+	
     tags = { muslim_gfx }
+	
     culture_groups = {
         canaanite_group
     }

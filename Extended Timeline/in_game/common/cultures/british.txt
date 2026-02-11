@@ -21,6 +21,12 @@
 		anglo_irish = kindred
 		norman = positive
 		northumbrian = kindred
+		american = positive
+		british_canadian = positive
+		british_louisianan = positive
+		british_californian = positive
+		british_australian = positive
+		british_oceanian = positive
 	}
 
 	culture_groups = {
@@ -112,6 +118,9 @@ welsh = {
 		cornish = kindred
 		english = negative
 		breton = positive
+		briton = kindred
+		cumbric = kindred
+		anglo_saxon = negative
 	}
 
 	culture_groups = {
@@ -123,7 +132,7 @@ welsh = {
 }
 
 cornish = {
-	language = breton_dialect
+	language = cornish_dialect
 	
 	color = map_cornish
 	
@@ -137,6 +146,8 @@ cornish = {
 	opinions = {
 		welsh = kindred
 		breton = kindred
+		briton = kindred
+		cumbric = positive
 	}
 }
 
@@ -152,6 +163,7 @@ highland = {
 		norse_gael = positive
 		scottish = positive
 		english = negative
+		pictish = positive
 	}
 
 	culture_groups = {
@@ -212,15 +224,102 @@ anglo_irish = {
 	}
 }
 
-##ET4
+##ET
+anglo_saxon = {
+	language = anglo_saxon_dialect
+	
+	color = rgb{ 24 44 1 }
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+	
+	opinions = {
+		briton = enemy
+		welsh = negative
+		cumbric = negative
+	}
+	culture_groups = {
+		celtic_group
+		british_group
+	}
+	
+	use_patronym = yes
+
+	dynasty_name_type = patronym
+}
+pictish = {
+	language = pictish_language
+	
+	color = rgb{ 136 20 70 }
+	
+	tags = { scottish_highland_gfx gaelic_gfx scottish_gfx north_british_gfx celtic_gfx british_gfx western_european_gfx european_gfx }
+	
+	opinions = {
+		briton = positive
+		highland = positive
+		cumbric = positive
+	}
+	culture_groups = {
+		celtic_group
+		british_group
+	}
+	
+	use_patronym = yes
+
+	dynasty_name_type = patronym
+}
+briton = {
+	language = briton_dialect
+	
+	color = rgb{ 66 102 164 }
+	
+	tags = { welsh_gfx celtic_gfx british_gfx western_european_gfx european_gfx }
+	
+	opinions = {
+		anglo_saxon = enemy
+		welsh = kindred
+		cornish = kindred
+		breton = kindred
+		pictish = positive
+		cumbric = kindred
+		gallian = kindred
+		belgae = kindred
+	}
+	culture_groups = {
+		celtic_group
+		british_group
+	}
+}
+cumbric = {
+	language = cumbric_dialect
+	
+	color = rgb{ 101 204 127 }
+	
+	tags = { welsh_gfx celtic_gfx british_gfx western_european_gfx european_gfx }
+	
+	opinions = {
+		welsh = kindred
+		briton = kindred
+		cornish = positive
+		pictish = positive
+		anglo_saxon = negative
+	}
+	culture_groups = {
+		celtic_group
+		british_group
+	}
+}
+
 american = {
 	language = english_dialect
-	color = map_norwegian
+	color = rgb{ 166 102 164 }
 
-	tags = { british_gfx western_european_gfx european_gfx }
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
 
 	opinions = {
-
+		english = positive
+		british_canadian = positive
+		british_louisianan = kindred
+		british_californian = kindred
 	}
 
 	culture_groups = {
@@ -229,12 +328,15 @@ american = {
 }
 british_canadian = {
 	language = english_dialect
-	color = map_norwegian
+	color = rgb{ 66 2 164 }
 
-	tags = { british_gfx western_european_gfx european_gfx }
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
 
 	opinions = {
-
+		english = positive
+		american = positive
+		british_louisianan = positive
+		british_californian = positive
 	}
 
 	culture_groups = {
@@ -243,12 +345,15 @@ british_canadian = {
 }
 british_louisianan = {
 	language = english_dialect
-	color = map_norwegian
+	color = rgb{ 66 102 64 }
 
-	tags = { british_gfx western_european_gfx european_gfx }
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
 
 	opinions = {
-
+		english = positive
+		british_canadian = positive
+		american = kindred
+		british_californian = kindred
 	}
 
 	culture_groups = {
@@ -257,12 +362,15 @@ british_louisianan = {
 }
 british_californian = {
 	language = english_dialect
-	color = map_norwegian
+	color = rgb{ 66 2 64 }
 
-	tags = { british_gfx western_european_gfx european_gfx }
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
 
 	opinions = {
-
+		english = positive
+		british_canadian = positive
+		american = kindred
+		british_californian = kindred
 	}
 
 	culture_groups = {
@@ -271,9 +379,9 @@ british_californian = {
 }
 british_mexican = {
 	language = english_dialect
-	color = map_norwegian
+	color = rgb{ 166 2 164 }
 
-	tags = { british_gfx western_european_gfx european_gfx }
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
 
 	opinions = {
 
@@ -285,9 +393,9 @@ british_mexican = {
 }
 british_caribbean = {
 	language = english_dialect
-	color = map_norwegian
+	color = rgb{ 166 102 64 }
 
-	tags = { british_gfx western_european_gfx european_gfx }
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
 
 	opinions = {
 
@@ -299,9 +407,9 @@ british_caribbean = {
 }
 british_colombian = {
 	language = english_dialect
-	color = map_norwegian
+	color = rgb{ 166 2 64 }
 
-	tags = { british_gfx western_european_gfx european_gfx }
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
 
 	opinions = {
 
@@ -313,9 +421,9 @@ british_colombian = {
 }
 british_peruvian = {
 	language = english_dialect
-	color = map_norwegian
+	color = rgb{ 36 20 70 }
 
-	tags = { british_gfx western_european_gfx european_gfx }
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
 
 	opinions = {
 
@@ -327,9 +435,9 @@ british_peruvian = {
 }
 british_la_platan = {
 	language = english_dialect
-	color = map_norwegian
+	color = rgb{ 136 120 70 }
 
-	tags = { british_gfx western_european_gfx european_gfx }
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
 
 	opinions = {
 
@@ -341,9 +449,9 @@ british_la_platan = {
 }
 british_brazilian = {
 	language = english_dialect
-	color = map_norwegian
+	color = rgb{ 136 20 170 }
 
-	tags = { british_gfx western_european_gfx european_gfx }
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
 
 	opinions = {
 
@@ -355,12 +463,13 @@ british_brazilian = {
 }
 british_australian = {
 	language = english_dialect
-	color = map_norwegian
+	color = rgb{ 36 120 70 }
 
-	tags = { british_gfx western_european_gfx european_gfx }
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
 
 	opinions = {
-
+		english = positive
+		british_oceanian = positive
 	}
 
 	culture_groups = {
@@ -369,12 +478,13 @@ british_australian = {
 }
 british_oceanian = {
 	language = english_dialect
-	color = map_norwegian
+	color = rgb{ 36 20 170 }
 
-	tags = { british_gfx western_european_gfx european_gfx }
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
 
 	opinions = {
-
+		english = positive
+		british_australian = positive
 	}
 
 	culture_groups = {

@@ -25,10 +25,10 @@ akkadian_language = {
 
 aramaic_language = {
 		male_names = {
-			Ma'nu Abgar Bakru Sanatruk Parthamaspates Paqor Aryu Abdu Fradhasht Wa'il Ezad Sumaqa Saphul Piqa Gebar'u Maz'ur
+			Ma'nu Abgar Bakru Sanatruk Parthamaspates Paqor Aryu Abdu Fradhasht Wa'il Ezad Sumaqa Saphul Piqa Gebar'u Maz'ur #TODO: More needed
 		}
 		female_names = {
-			Anna Zenobia
+			Anna Zenobia #TODO: More needed
 		}
 	}
 

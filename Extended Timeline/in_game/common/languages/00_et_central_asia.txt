@@ -1,0 +1,149 @@
+tocharian_language = {
+
+	color = rgb{ 239 153 63 }
+
+	male_names = {
+		Erkent Kanishka Saumo Scirye Ambara Amrtaraksita Amrtasena Arankule Arjuna Artadhane Arthadarsi Arnyartate
+		Atakke Ayardhyame Asokamitre Asokaraksita Asoke Ekasrinke El Er Erkatsole Etrise Ettukane Indratewe Issapake
+		Kercapiske Kercapey Kerdipole Kerentsile Kereptanne Konmaikankauske Koppesale Kotile Kulkera Kullai Kumpante
+		Kumpantiske Kumarapunye Kunacamttrakau Kunacamttre Kurrinkate Kuwa Kawotsine Kas Udayin Ulkhamukha Upaga
+		Upagupta Upananda Upatisya Urbilvakasyapa Uttare Uwassi Alp Ananda Anandamitra Anande Arpela Arslam Aryakosa
+		Aryaraksita Aryatewe Aryawarme Aryaske Aryottame Tottika Sunidie Suvarnapushpa Suvarnadeva Haripushpa
+	}
+	female_names = {
+		Arkwi Aryawarme Karwene Lykaske Mene Samudtar Sana Aranemi Asarte Esmine Kimna Kippa Konaikke Oktale Upavarna 
+		Utpalavarna Astawi Ilyipari Svayamprabha Suvarnadevi
+	}
+	
+	dynasty_names = {
+		#TODO
+	}
+	
+	lowborn = {
+	}
+
+	dialects = {
+		#agnean_dialect = { #Tocharian A
+		#}
+		
+		#kuchean_dialect = { #Tocharian B
+		#}
+	}
+}
+
+saka_language = {
+
+	color = rgb{ 12 152 63 }
+	
+	family = iranic_language_family
+
+	male_names = {
+		#TODO
+	}
+	female_names = {
+		#TODO
+	}
+	
+	dynasty_names = {
+		#TODO
+	}
+	
+	lowborn = {
+	}
+
+	dialects = {
+		#khotanese_dialect = {
+		#}
+		
+		#wakhi_dialect = {
+		#}
+	}
+}
+
+bactrian_language = {
+
+	color = rgb{ 5 202 115 }
+	
+	family = iranic_language_family
+
+	male_names = {
+		#TODO
+	}
+	female_names = {
+		#TODO
+	}
+	
+	dynasty_names = {
+		#TODO
+	}
+	
+	lowborn = {
+	}
+
+}
+
+khwarezmian_language = {
+
+	color = rgb{ 5 202 115 }
+	
+	family = iranic_language_family
+
+	male_names = {
+		#TODO
+	}
+	female_names = {
+		#TODO
+	}
+	
+	dynasty_names = {
+		#TODO
+	}
+	
+	lowborn = {
+	}
+
+}
+
+sogdian_language = {
+
+	color = rgb{ 204 128 59 }
+	
+	family = iranic_language_family
+
+	male_names = {
+		#TODO
+	}
+	female_names = {
+		#TODO
+	}
+	
+	dynasty_names = {
+		#TODO
+	}
+	
+	lowborn = {
+	}
+
+}
+
+parthian_language = {
+
+	color = rgb{ 204 128 59 }
+	
+	family = iranic_language_family
+
+	male_names = {
+		#TODO
+	}
+	female_names = {
+		#TODO
+	}
+	
+	dynasty_names = {
+		#TODO
+	}
+	
+	lowborn = {
+	}
+
+}

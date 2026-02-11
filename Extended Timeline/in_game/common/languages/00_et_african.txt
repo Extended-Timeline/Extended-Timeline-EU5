@@ -1,0 +1,19 @@
+meroitic_language = {
+
+	color = rgb{ 175 41 99 }
+
+	male_names = {
+		#TODO
+	}
+	female_names = {
+		#TODO
+	}
+	
+	dynasty_names = {
+		#TODO
+	}
+	
+	lowborn = {
+	}
+
+}

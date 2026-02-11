@@ -1,0 +1,28 @@
+﻿dacian = {
+	language = dacian_dialect
+	
+	color = rgb{ 161 150 155 }
+	
+	tags = { romanian_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		thracian = positive
+	}	
+	culture_groups = {
+		carpathian_group
+	}
+}
+thracian = {
+	language = thracian_dialect
+	
+	color = rgb{ 93 57 202 }
+	
+	tags = { romanian_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		dacian = positive
+	}	
+	culture_groups = {
+		carpathian_group
+	}
+}

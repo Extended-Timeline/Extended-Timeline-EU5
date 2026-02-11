@@ -1,0 +1,42 @@
+﻿
+gothic_language = {
+	color = rgb{ 20 100 154 }
+	
+	family = germanic_language_family
+
+	male_names = {
+		#TODO
+	}
+	female_names = {
+		#TODO
+	}
+	
+	dynasty_names = {
+		#TODO
+	}
+	
+	lowborn = {
+	}
+	
+}
+
+vandalic_language = {
+	color = rgb{ 49 110 46 }
+	
+	family = germanic_language_family
+
+	male_names = {
+		#TODO
+	}
+	female_names = {
+		#TODO
+	}
+	
+	dynasty_names = {
+		#TODO
+	}
+	
+	lowborn = {
+	}
+	
+}

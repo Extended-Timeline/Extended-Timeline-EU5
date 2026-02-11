@@ -1,0 +1,367 @@
+﻿
+gothic = {
+	language = gothic_language
+	
+	color = rgb{ 20 100 154 }
+
+	tags = { german_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		german_group
+	}	
+}
+langobardi = {
+	language = central_german_dialect
+	
+	color = rgb{ 211 53 29 }
+
+	tags = { german_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		german_group
+	}	
+}
+quadian = {
+	language = upper_german_dialect
+	
+	color = rgb{ 109 38 194 }
+
+	tags = { south_german_gfx german_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		german_group
+	}	
+}
+frankish = {
+	language = low_german_dialect
+	
+	color = rgb{ 203 162 141 }
+
+	tags = { german_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		german_group
+	}	
+}
+vandal = {
+	language = vandalic_language
+	
+	color = rgb{ 49 110 46 }
+
+	tags = { german_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		german_group
+	}	
+}
+burgundione = {
+	language = central_german_dialect
+	
+	color = rgb{ 31 151 59 }
+
+	tags = { german_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		german_group
+	}	
+}
+gepid = {
+	language = gothic_language
+	
+	color = rgb{ 184 108 153 }
+
+	tags = { german_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		german_group
+	}	
+}
+germanic_canadian = {
+	language = dutch_dialect
+	
+	color = rgb{ 184 108 53 }
+
+	tags = { german_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		german_group
+	}	
+}
+germanic_east_american = {
+	language = dutch_dialect
+	
+	color = rgb{ 184 8 153 }
+
+	tags = { german_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		german_group
+	}	
+}
+germanic_louisianan = {
+	language = dutch_dialect
+	
+	color = rgb{ 84 108 153 }
+
+	tags = { german_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		german_group
+	}	
+}
+germanic_californian = {
+	language = dutch_dialect
+	
+	color = rgb{ 184 208 153 }
+
+	tags = { german_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		german_group
+	}	
+}
+germanic_mexican = {
+	language = dutch_dialect
+	
+	color = rgb{ 84 108 53 }
+
+	tags = { german_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		german_group
+	}	
+}
+germanic_caribbean = {
+	language = dutch_dialect
+	
+	color = rgb{ 184 8 53 }
+
+	tags = { german_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		german_group
+	}	
+}
+germanic_colombian = {
+	language = dutch_dialect
+	
+	color = rgb{ 84 8 153 }
+
+	tags = { german_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		german_group
+	}	
+}
+germanic_peruvian = {
+	language = dutch_dialect
+	
+	color = rgb{ 184 208 53 }
+
+	tags = { german_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		german_group
+	}	
+}
+germanic_la_platan = {
+	language = dutch_dialect
+	
+	color = rgb{ 84 208 153 }
+
+	tags = { german_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		german_group
+	}	
+}
+germanic_brazilian = {
+	language = dutch_dialect
+	
+	color = rgb{ 84 8 53 }
+
+	tags = { german_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		german_group
+	}	
+}
+germanic_australian = {
+	language = dutch_dialect
+	
+	color = rgb{ 184 108 153 }
+
+	tags = { german_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		german_group
+	}	
+}
+germanic_oceanian = {
+	language = dutch_dialect
+	
+	color = rgb{ 84 208 53 }
+
+	tags = { german_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		german_group
+	}	
+}
+
+
+
+
+#in 1337 high_alemannic
+swiss_culture {
+	language = alemannic_dialect
+	
+	color = map_norwegian
+	
+	tags = { south_german_gfx german_gfx western_european_gfx european_gfx }
+	
+	opinions = {
+		angrian = positive
+		brandenburgish = positive
+		eastern_pomeranian = positive
+		eastphalian = positive
+		holsatian = positive
+		lower_saxon = positive
+		markish = positive
+		prussian = positive
+		western_pomeranian = positive
+		westphalian = positive
+		east_franconian = positive
+		low_franconian = positive
+		german_carpathian = positive
+		german_silesian = positive
+		german_transylvanian = positive
+		moselle_franconian = positive
+		rhine_franconian = positive
+		ripuarian_franconian = positive
+		saxon = positive
+		danube_bavarian = positive
+		rhine_alemannic = positive
+		southern_bavarian = positive
+		swabian = positive
+		upper_palatine = positive
+		frisian = positive
+		walloon = positive
+	}	
+	
+	culture_groups = {
+		german_group
+		swiss_group
+	}
+}
+#in 1337 danube_bavarian
+austrian_culture = {
+	language = upper_german_dialect
+	
+	color = map_norwegian
+	
+	tags = { south_german_gfx german_gfx western_european_gfx european_gfx }
+	
+	opinions = {
+		angrian = positive
+		brandenburgish = positive
+		eastern_pomeranian = positive
+		eastphalian = positive
+		holsatian = positive
+		lower_saxon = positive
+		markish = positive
+		prussian = positive
+		western_pomeranian = positive
+		westphalian = positive
+		east_franconian = positive
+		low_franconian = positive
+		german_carpathian = positive
+		german_silesian = positive
+		german_transylvanian = positive
+		moselle_franconian = positive
+		rhine_franconian = positive
+		ripuarian_franconian = positive
+		saxon = positive
+		high_alemannic = positive
+		rhine_alemannic = positive
+		southern_bavarian = positive
+		swabian = positive
+		upper_palatine = positive
+		frisian = positive
+		walloon = positive
+	}	
+	
+	culture_groups = {
+		german_group
+	}
+}

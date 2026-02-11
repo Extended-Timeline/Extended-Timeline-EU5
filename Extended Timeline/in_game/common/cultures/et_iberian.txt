@@ -1,0 +1,293 @@
+﻿
+celtiberian = {
+	language = celtiberian_dialect
+	
+	color = rgb{ 185 176 84 }
+
+	tags = { celtic_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		cantabrian = positive
+		gallaecian = positive
+	}
+
+	culture_groups = {
+        celtic_group
+		continental_celtic_group
+		iberian_group
+	}	
+}
+cantabrian = {
+	language = celtiberian_dialect
+	
+	color = rgb{ 185 176 184 }
+
+	tags = { celtic_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		celtiberian = positive
+		gallaecian = positive
+	}
+
+	culture_groups = {
+        celtic_group
+		continental_celtic_group
+		iberian_group
+	}	
+}
+gallaecian = {
+	language = gallaecian_dialect
+	
+	color = rgb{ 185 176 2 }
+
+	tags = { celtic_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		celtiberian = positive
+		cantabrian = positive
+	}
+
+	culture_groups = {
+        celtic_group
+		continental_celtic_group
+		iberian_group
+	}	
+}
+lusitanian = {
+	language = lusitanian_language
+	
+	color = rgb{ 192 168 231 }
+	
+	tags = { celtic_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+	
+	opinions = {
+	}
+	culture_groups = {
+        iberian_group
+	}	
+}
+turduli = {
+	language = celtiberian_dialect
+	
+	color = rgb{ 192 68 231 }
+
+	tags = { celtic_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+        iberian_group
+	}	
+}
+iberi = {
+	language = iberian_language
+	
+	color = rgb{ 92 68 131 }
+
+	tags = { iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+        iberian_group
+	}	
+}
+iberian_canadian = {
+	language = castilian_dialect
+	
+	color = rgb{ 82 118 20 }
+
+	tags = { iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+        iberian_group
+	}	
+}
+iberian_east_american = {
+	language = castilian_dialect
+	
+	color = rgb{ 82 18 20 }
+
+	tags = { iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+        iberian_group
+	}	
+}
+iberian_louisianan = {
+	language = castilian_dialect
+	
+	color = rgb{ 82 18 120 }
+
+	tags = { iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+        iberian_group
+	}	
+}
+iberian_californian = {
+	language = castilian_dialect
+	
+	color = rgb{ 182 18 20 }
+
+	tags = { iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+        iberian_group
+	}	
+}
+mexican = {
+	language = castilian_dialect
+	
+	color = rgb{ 202 166 60 }
+
+	tags = { iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+        iberian_group
+	}	
+}
+iberian_caribbean = {
+	language = castilian_dialect
+	
+	color = rgb{ 36 237 240 }
+
+	tags = { iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+        iberian_group
+	}	
+}
+iberian_colombian = {
+	language = castilian_dialect
+	
+	color = rgb{ 82 213 57 }
+
+	tags = { iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+        iberian_group
+	}	
+}
+iberian_peruvian = {
+	language = castilian_dialect
+	
+	color = rgb{ 129 159 102 }
+
+	tags = { iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+        iberian_group
+	}	
+}
+iberian_la_platan = {
+	language = castilian_dialect
+	
+	color = rgb{ 150 204 78 }
+
+	tags = { iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+        iberian_group
+	}	
+}
+brazilian = {
+	language = portuguese_dialect
+	
+	color = rgb{ 178 99 248 }
+
+	tags = { iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+        iberian_group
+	}	
+}
+iberian_australian = {
+	language = castilian_dialect
+	
+	color = rgb{ 182 118 20 }
+
+	tags = { iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+        iberian_group
+	}	
+}
+iberian_oceanian = {
+	language = castilian_dialect
+	
+	color = rgb{ 82 118 120 }
+
+	tags = { iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+        iberian_group
+	}	
+}
+
+
+aquitanian = {
+	language = basque_language
+	
+	color = rgb{ 82 78 90 }
+
+	tags = { basque_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+        iberian_group
+		pyrenean_group
+	}	
+}

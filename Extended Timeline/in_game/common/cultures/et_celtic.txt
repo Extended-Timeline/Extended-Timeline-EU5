@@ -1,0 +1,86 @@
+
+gallian = {
+	language = gaulish_dialect
+	
+	color = rgb{ 85 76 84 }
+	
+	tags = { celtic_gfx french_gfx western_european_gfx european_gfx }
+	
+	opinions = {
+		briton = kindred
+		belgae = kindred
+		helvetian = positive
+	}
+	culture_groups = {
+		celtic_group
+		continental_celtic_group
+	}
+}
+belgae  = {
+	language = gaulish_dialect
+	
+	color = rgb{ 185 76 84 }
+
+	tags = { celtic_gfx north_german_gfx german_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		briton = kindred
+		gallian = kindred
+	}
+
+	culture_groups = {
+        celtic_group
+		continental_celtic_group
+	}	
+}
+helvetian = {
+	language = gaulish_dialect
+	
+	color = rgb{ 85 176 84 }
+
+	tags = { celtic_gfx south_german_gfx german_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		gallian = positive
+		noric = positive
+	}
+
+	culture_groups = {
+        celtic_group
+		continental_celtic_group
+	}	
+}
+
+noric = {
+	language = noric_dialect
+	
+	color = rgb{ 85 176 184 }
+
+	tags = { celtic_gfx south_german_gfx german_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		helvetian = positive
+	}
+
+	culture_groups = {
+        celtic_group
+		continental_celtic_group
+	}	
+}
+galatian = {
+	language = galatian_dialect
+	
+	color = rgb{ 185 76 184 }
+
+	#celtic anatolians, probably change this gfx
+	tags = { celtic_gfx central_asian_gfx middle_east_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+        celtic_group
+		continental_celtic_group
+	}	
+}

@@ -1,0 +1,114 @@
+gaulish_language = {
+
+	color = rgb{ 85 76 84 }
+
+	family = celtic_language_family
+
+	male_names = {
+		Abbo Acco Adiantunnos Adietumarus Andecamulos Argiotalus Ariogaisos Arleno Atebodwos Atesthas Attalus Axrotalus
+		Bannus Bellovesus Bilius Brennus Brogimaros Camulus Carantus Carmanos Carmo Caturix Celunno Cilurnos Contessilo
+		Corius Crixus Cudius Dago Dagodubnos Dagodurnus Dagolitus Dagomarus Damos Dannotalos Dosso Drutalos Dubnorix
+		Dunnius Garomaros Garos Iantumaros Iestinus Katumaros Kintugenos Kintugnatos Lascius Leno Leucus Lukotorix
+		Lutumaros Maguno Magurix Manus Oclinos Samo Samorix Scottus Segomaros Talos Tanotalos Tasco Toccus Uercassiuellaunos
+		Urus Wirogalos
+	}
+	female_names = {
+		Abbula Abrexta Abruna Acaunissa Aculia Abdugissa Aia Banna Betua Boudica Camula Cantismerta Carata Cartimandua
+		Catta Cauaria Contuinda Coria Dousonna Dunnonia Elanta Leuca Litogena Lubitiata Luguselwa Lutetia Manta Oclauia
+		Peccia Scotta Sucaria Tocca Uesuca Uinda Uindilla Uiscareua
+	}
+	
+	dynasty_names = {
+		#TODO
+	}
+	
+	lowborn = {
+	}
+
+	dialects = {
+		gaulish_dialect = {
+		}
+		
+		noric_dialect = {
+		}
+		
+		galatian_dialect = {
+		}
+	}
+}
+
+hispano_celtic_language = {
+
+	color = rgb{ 185 176 84 }
+
+	family = celtic_language_family
+
+	male_names = {
+		Abbo Acco Adiantunnos Adietumarus Andecamulos Argiotalus Ariogaisos Arleno Atebodwos Atesthas Attalus Axrotalus
+		Bannus Bellovesus Bilius Brennus Brogimaros Camulus Carantus Carmanos Carmo Caturix Celunno Cilurnos Contessilo
+		Corius Crixus Cudius Dago Dagodubnos Dagodurnus Dagolitus Dagomarus Damos Dannotalos Dosso Drutalos Dubnorix
+		Dunnius Garomaros Garos Iantumaros Iestinus Katumaros Kintugenos Kintugnatos Lascius Leno Leucus Lukotorix
+		Lutumaros Maguno Magurix Manus Oclinos Samo Samorix Scottus Segomaros Talos Tanotalos Tasco Toccus Uercassiuellaunos
+		Urus Wirogalos
+	}
+	female_names = {
+		Abbula Abrexta Abruna Acaunissa Aculia Abdugissa Aia Banna Betua Boudica Camula Cantismerta Carata Cartimandua
+		Catta Cauaria Contuinda Coria Dousonna Dunnonia Elanta Leuca Litogena Lubitiata Luguselwa Lutetia Manta Oclauia
+		Peccia Scotta Sucaria Tocca Uesuca Uinda Uindilla Uiscareua
+	}
+	
+	dynasty_names = {
+		#TODO
+	}
+	
+	lowborn = {
+	}
+
+	dialects = {
+		celtiberian_dialect = {
+		}
+		
+		gallaecian_dialect = {
+		}
+	}
+}
+
+lusitanian_language = {
+
+	color = rgb{ 192 168 231 }
+
+	male_names = {
+		#TODO
+	}
+	female_names = {
+		#TODO
+	}
+	
+	dynasty_names = {
+		#TODO
+	}
+	
+	lowborn = {
+	}
+
+}
+
+iberian_language = {
+
+	color = rgb{ 92 68 131 }
+
+	male_names = {
+		#TODO
+	}
+	female_names = {
+		#TODO
+	}
+	
+	dynasty_names = {
+		#TODO
+	}
+	
+	lowborn = {
+	}
+
+}

@@ -1,0 +1,49 @@
+﻿
+etruscan = {
+	language = latin_language
+	
+	color = rgb{ 45 31 205 }
+
+	tags = { north_italian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+        italian_group
+		latin_group
+	}	
+}
+roman = {
+	language = latin_language
+	
+	color = rgb{ 145 31 205 }
+
+	tags = { north_italian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+        italian_group
+		latin_group
+	}	
+}
+rhaetian = {
+	language = rhaetian_dialect
+	
+	color = rgb{ 145 31 105 }
+
+	tags = { north_italian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+        italian_group
+		latin_group
+	}	
+}

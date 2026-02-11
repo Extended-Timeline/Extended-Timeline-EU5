@@ -1,0 +1,13 @@
+﻿kushite = {
+	language = meroitic_language
+	
+	color = rgb{ 175 41 99 }
+	
+	tags = { east_african_gfx african_gfx }
+
+	opinions = {
+	}
+	
+	culture_groups = {
+	}
+}

@@ -1,0 +1,26 @@
+﻿
+pyu = {
+	language = pyu_language
+	
+	color = rgb{ 47 133 205 }
+	
+	tags = { indochina_gfx indian_gfx }
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+
+pear = {
+	language = pear_language
+	
+	color = rgb{ 132 113 61 }
+	
+	tags = { indochina_gfx indian_gfx }
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}

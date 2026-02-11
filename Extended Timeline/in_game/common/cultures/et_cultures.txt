@@ -1,0 +1,361 @@
+﻿
+jinhan = {
+	language = missing_language
+	
+	color = rgb{ 113 25 53 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+cantonese = {
+	language = missing_language
+	
+	color = rgb{ 34 216 154 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+hubei = {
+	language = missing_language
+	
+	color = rgb{ 102 122 76 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+garjati = {
+	language = missing_language
+	
+	color = rgb{ 58 31 92 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+shandong_culture = {
+	language = missing_language
+	
+	color = rgb{ 233 91 65 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+aghwan = {
+	language = missing_language
+	
+	color = rgb{ 124 14 149 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+xibei = {
+	language = missing_language
+	
+	color = rgb{ 25 29 170 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+hunnic = {
+	language = missing_language
+	
+	color = rgb{ 30 144 93 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+khazar = {
+	language = missing_language
+	
+	color = rgb{ 134 24 44 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+zhangzhung = {
+	language = missing_language
+	
+	color = rgb{ 12 18 138 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+flemish = {
+	language = missing_language
+	
+	color = rgb{ 190 158 237 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+pecheneg = {
+	language = missing_language
+	
+	color = rgb{ 60 189 57 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+kimek = {
+	language = missing_language
+	
+	color = rgb{ 82 67 146 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+yotvingian = {
+	language = missing_language
+	
+	color = rgb{ 22 22 242 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+saurashtri = {
+	language = missing_language
+	
+	color = rgb{ 67 10 40 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+khazak = {
+	language = missing_language
+	
+	color = rgb{ 139 172 116 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+jukun = {
+	language = missing_language
+	
+	color = rgb{ 190 198 225 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+macedonian = {
+	language = missing_language
+	
+	color = rgb{ 36 12 121 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+tepic = {
+	language = missing_language
+	
+	color = rgb{ 153 69 210 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+bozo = {
+	language = missing_language
+	
+	color = rgb{ 187 151 118 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+sena = {
+	language = missing_language
+	
+	color = rgb{ 46 111 98 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+qasim = {
+	language = missing_language
+	
+	color = rgb{ 90 117 8 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+french_caribbean = {
+	language = missing_language
+	
+	color = rgb{ 164 33 10 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+palestinian = {
+	language = missing_language
+	
+	color = rgb{ 101 80 138 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+bantu = {
+	language = missing_language
+	
+	color = rgb{ 181 248 12 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+old_egyptian = {
+	language = missing_language
+	
+	color = rgb{ 159 60 32 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+french_canadian = {
+	language = missing_language
+	
+	color = rgb{ 21 62 165 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+ubian = {
+	language = missing_language
+	
+	color = rgb{ 118 106 230 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+apache = {
+	language = missing_language
+	
+	color = rgb{ 89 158 240 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+pannonian = {
+	language = missing_language
+	
+	color = rgb{ 36 212 93 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}

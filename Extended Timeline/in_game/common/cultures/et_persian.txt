@@ -1,0 +1,146 @@
+﻿
+khuzi = { #Khuzestani Arabs
+	language = iraqi_dialect
+	
+	color = rgb{ 194 76 70 }
+
+	tags = { persian_gfx persianate_gfx middle_east_gfx }
+
+	opinions = {
+	}
+	
+	culture_groups = {
+		arabic_group
+	}
+}
+
+tocharian = { 
+	language = tocharian_language
+	
+	color = rgb{ 239 153 63 }
+
+	tags = { persian_gfx persianate_gfx middle_east_gfx }
+
+	opinions = {
+	}
+	
+	culture_groups = {
+	}
+
+	use_patronym = yes
+}
+
+saka = { 
+	language = saka_language
+	
+	color = rgb{ 12 152 63 }
+
+	tags = { persian_gfx persianate_gfx middle_east_gfx }
+
+	opinions = {
+	}
+	
+	culture_groups = {
+		iranian_group
+	}
+
+	use_patronym = yes
+}
+
+bactrian = {
+	language = bactrian_language
+	
+	color = rgb{ 5 202 115 }
+	
+	tags = { persian_gfx persianate_gfx middle_east_gfx }
+	
+	opinions = {
+	}
+	
+	culture_groups = {
+		iranian_group
+	}
+}
+
+khwarezmian = { 
+	language = khwarezmian_language
+	
+	color = rgb{ 234 244 249 }
+
+	tags = { persian_gfx persianate_gfx middle_east_gfx }
+
+	opinions = {
+	}
+	
+	culture_groups = {
+		iranian_group
+	}
+
+	use_patronym = yes
+}
+
+sogdian = { 
+	language = sogdian_language
+	
+	color = rgb{ 204 128 59 }
+
+	tags = { persian_gfx persianate_gfx middle_east_gfx }
+
+	opinions = {
+	}
+	
+	culture_groups = {
+		iranian_group
+	}
+
+	use_patronym = yes
+}
+
+parthian = { 
+	language = parthian_language
+	
+	color = rgb{ 221 215 170 }
+
+	tags = { persian_gfx persianate_gfx middle_east_gfx }
+
+	opinions = {
+	}
+	
+	culture_groups = {
+		iranian_group
+	}
+
+	use_patronym = yes
+}
+
+sarmatian = { 
+	language = alanic_language
+	
+	color = rgb{ 222 229 155 }
+
+	tags = { persian_gfx persianate_gfx middle_east_gfx }
+
+	opinions = {
+	}
+	
+	culture_groups = {
+		iranian_group
+	}
+
+	use_patronym = yes
+}
+scythian = { 
+	language = norwegian_dialect
+	color = map_norwegian
+
+	tags = { persian_gfx persianate_gfx middle_east_gfx }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		iranian_group
+	}
+
+	use_patronym = yes
+}

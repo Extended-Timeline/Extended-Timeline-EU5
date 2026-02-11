@@ -1,0 +1,51 @@
+﻿
+jute = {
+	language = danish_dialect
+	
+	color = rgb{ 184 164 2 }
+	
+	tags = { danish_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		scandinavian_group
+	}
+	
+	use_patronym = yes
+}
+
+scanian = {
+	language = danish_dialect
+	
+	color = rgb{ 122 81 3 }
+	
+	tags = { swedish_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		scandinavian_group
+	}
+	
+	use_patronym = yes
+}
+
+geatish_culture = {
+	language = swedish_dialect
+	
+	color = rgb{ 22 81 3 }
+	
+	tags = { swedish_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		scandinavian_group
+	}
+	
+	use_patronym = yes
+}

@@ -1,0 +1,14 @@
+﻿
+nabataean_culture = {
+	language = peninsular_dialect
+	
+	color = rgb{ 31 200 56 }
+	
+	tags = { arabian_gfx middle_east_gfx }
+
+	opinions = {
+	}
+	culture_groups = {
+		arabian_group
+	}		
+}

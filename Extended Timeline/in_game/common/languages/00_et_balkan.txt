@@ -1,0 +1,38 @@
+daco_thracian_language = {
+
+	color = rgb{ 161 150 155 }
+
+	male_names = {
+		Olorus Syrmus Bergaios Dromichaetes Langarus Pleuratus Diegylis Ziselmius Mostis Abrupolis Blachernai Rabocentus
+		Cosingas Getas Charnabon Cothelas Dual Moskon Zalmodegicus Rhemaxos Rubobostes Zoltes Oroles Dicomes Rholes Dapyx
+		Zyraxes Burebista Deceneus Thiamarkos Cotiso Comosicus Scorilo Coson Duras Decebalus Pieporus Tarbus Teres
+		Sparatocus Sitalces Seuthes Maesades Saratocus Metocus Amadocus Hebryzelmis Cotys Cersobleptes Berisades
+		Cetriporis Rhaezdus Rhescuporis Scostocus Sadalas Odoroes Adaeus Autlesbis Zibelmius Sothimus
+	}
+	female_names = {
+		Meda Duccidava Rescuturme Zia Ziais Bendidora Dentusucu Eptesuchis Adila Bles Blis Diesema Ebustrone Gonoleta
+		Gouoleta Guoleta Guolete Teudila Tanidila Myrine
+	}
+	
+	dynasty_names = {
+		#TODO
+	}
+	
+	lowborn = {
+		Mucatralis Rascupolis Acidava Alutus Aloutas Amutrion Amutria Argessos Ordessos Buseos Berzobim Avizinalis Bastizalis 
+		Dablosalis Dadasis Blegissalis Blaesusis Blaikisalis Brasusis Burebistalis Charnabonis Comosicusis Cothelasis Gudilalis 
+		Cotisolis Dablosalis Dadasis Dadazilis Daizusis Damanaisis Dapyxis Danillolis Dardanosis Dardiolailis Decaeneusis 
+		Decibalusis Denzibalosis Dicomesis Didalis Didasis Diegisis Dierilis Diurpaneusis Diorpokisis Dotouzilis Drilgisalis 
+		Dotosis Durasis Kaigizalis Komakizalis Komozoilis Moskonis Mucaporis Mucatralis Natuspardulis Orolesis Orolalis 
+		Petiporis Pieporusis Pouridouris Rolesis Remaxosis Rolouzisis Scorylolis Tarbusis Tsirulis Vezinalis Vezinasis 
+		Tsinnalis Zinnasis Sinnalis Tiatilis Tiatitis Zyraxesis Zalmodegikosis Zoutulalis
+	}
+
+	dialects = {
+		dacian_dialect = {
+		}
+		
+		thracian_dialect = {
+		}
+	}
+}

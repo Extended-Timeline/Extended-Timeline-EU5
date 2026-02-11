@@ -77,9 +77,9 @@ pontic_greek_culture = {
 	}
 }
 
-gothic_culture = {
+gothic_culture = { #Crimean Gothic
 	
-	language = greek_language
+	language = gothic_language
 	
 	color = map_FEO
 	
@@ -97,7 +97,7 @@ gothic_culture = {
 	}
 }
 
-##ET4
+##ET
 
 ###originally in south slavic, but this makes more sense?
 macedonian = {
@@ -117,23 +117,6 @@ macedonian = {
 	
 }
 
-###given this was placed in greek culture group, i'm assuming it's referring to bactrian greeks
-bactrian = {
-	language = norwegian_dialect
-	
-	color = map_norwegian
-	
-	tags = { greek_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
-
-	opinions = {
-
-	}
-	
-	culture_groups = {
-		iranian_group
-		greek_group
-	}
-}
 phrygian = {
 	
 	language = greek_language
@@ -145,176 +128,6 @@ phrygian = {
 	opinions = {
 
 	}
-	
-	culture_groups = {
-		greek_group
-	}
-}
-greek_canadian = {
-	language = greek_language
-	
-	color = map_norwegian
-	
-	tags = { greek_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
-
-	opinions = {
-
-	}	
-	
-	culture_groups = {
-		greek_group
-	}
-}
-greek_east_american = {
-	language = greek_language
-	
-	color = map_norwegian
-	
-	tags = { greek_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
-
-	opinions = {
-
-	}	
-	
-	culture_groups = {
-		greek_group
-	}
-}
-greek_louisianan = {
-	language = greek_language
-	
-	color = map_norwegian
-	
-	tags = { greek_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
-
-	opinions = {
-	}	
-	
-	culture_groups = {
-		greek_group
-	}
-}
-greek_californian = {
-	language = greek_language
-	
-	color = map_norwegian
-	
-	tags = { greek_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
-
-	opinions = {
-	}	
-	
-	culture_groups = {
-		greek_group
-	}
-}
-greek_mexican = {
-	language = greek_language
-	
-	color = map_norwegian
-	
-	tags = { greek_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
-
-	opinions = {
-	}	
-	
-	culture_groups = {
-		greek_group
-	}
-}
-greek_caribbean = {
-	language = greek_language
-	
-	color = map_norwegian
-	
-	tags = { greek_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
-
-	opinions = {
-	}	
-	
-	culture_groups = {
-		greek_group
-	}
-}
-greek_colombian = {
-	language = greek_language
-	
-	color = map_norwegian
-	
-	tags = { greek_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
-
-	opinions = {
-	}	
-	
-	culture_groups = {
-		greek_group
-	}
-}
-greek_peruvian = {
-	language = greek_language
-	
-	color = map_norwegian
-	
-	tags = { greek_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
-
-	opinions = {
-	}	
-	
-	culture_groups = {
-		greek_group
-	}
-}
-greek_la_platan = {
-	language = greek_language
-	
-	color = map_norwegian
-	
-	tags = { greek_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
-
-	opinions = {
-	}	
-	
-	culture_groups = {
-		greek_group
-	}
-}
-greek_brazilian = {
-	language = greek_language
-	
-	color = map_norwegian
-	
-	tags = { greek_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
-
-	opinions = {
-	}	
-	
-	culture_groups = {
-		greek_group
-	}
-}
-greek_australian = {
-	language = greek_language
-	
-	color = map_norwegian
-	
-	tags = { greek_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
-
-	opinions = {
-	}	
-	
-	culture_groups = {
-		greek_group
-	}
-}
-greek_oceanian = {
-	language = greek_language
-	
-	color = map_norwegian
-	
-	tags = { greek_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
-
-	opinions = {
-	}	
 	
 	culture_groups = {
 		greek_group

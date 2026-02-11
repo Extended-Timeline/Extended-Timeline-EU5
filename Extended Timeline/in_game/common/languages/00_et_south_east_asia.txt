@@ -1,0 +1,40 @@
+
+pyu_language = {
+
+	color = rgb{ 47 133 205 }
+
+	male_names = {
+		#TODO
+	}
+	female_names = {
+		#TODO
+	}
+	
+	dynasty_names = {
+		#TODO
+	}
+	
+	lowborn = {
+	}
+	
+}
+
+pear_language = {
+
+	color = rgb{ 132 113 61 }
+
+	male_names = {
+		#TODO
+	}
+	female_names = {
+		#TODO
+	}
+	
+	dynasty_names = {
+		#TODO
+	}
+	
+	lowborn = {
+	}
+
+}
