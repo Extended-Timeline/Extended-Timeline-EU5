@@ -11,6 +11,7 @@
 		pruthenian = kindred
 		samogitian = kindred
 		sudovian = kindred
+		yotvingian = kindred
 	}
 
 	culture_groups = {
@@ -34,6 +35,7 @@ curonian = { #Baltic
 		pruthenian = kindred
 		samogitian = kindred
 		sudovian = kindred
+		yotvingian = kindred
 	}
 
 	culture_groups = {
@@ -114,6 +116,7 @@ samogitian = { #Baltic
 		latvian = kindred
 		prussian = enemy
 		sudovian = kindred
+		yotvingian = kindred
 	}
 
 	culture_groups = {
@@ -135,6 +138,7 @@ sudovian = { #Baltic
 		prussian = enemy
 		pruthenian = kindred
 		samogitian = kindred
+		yotvingian = kindred
 	}
 
 	culture_groups = {
@@ -155,6 +159,7 @@ pruthenian = { #Baltic
 		prussian = enemy
 		samogitian = kindred
 		sudovian = kindred
+		yotvingian = kindred
 	}
 
 	culture_groups = {
@@ -193,267 +198,16 @@ german_baltic = { #Baltic https://en.wikipedia.org/wiki/Baltic_Germans
 	}
 }
 
-## aukstaitian is already in-game, but it's probably best to keep this as a modern lithuanian culture
-lithuanian = { 
-	language = lithuanian_dialect
-	
-	color = map_norwegian
-	
-	tags = { baltic_gfx eastern_european_gfx european_gfx }
-
-	opinions = {
-		latvian = kindred
-		prussian = enemy
-		pruthenian = kindred
-		samogitian = kindred
-		sudovian = kindred
-	}
-
-	culture_groups = {
-		lithuanian_group
-		baltic_group
-	}
-}
-
-###this is just pruthenians, afaik
-#old_prussian
-
+#ET
 yotvingian = { #Baltic
 	language = western_baltic_dialect
 	
-	color = map_norwegian
+	color = rgb{ 22 22 242 }
 	
 	tags = { baltic_gfx eastern_european_gfx european_gfx }
 
 	opinions = {
-		aukstaitian = kindred
-		curonian = kindred
-		prussian = enemy
-		samogitian = kindred
-		sudovian = kindred
-	}
-
-	culture_groups = {
-		baltic_group
-	}
-}
-baltic_canadian = { #Baltic
-	language = norwegian_dialect
-	
-	color = map_norwegian
-	
-	tags = { baltic_gfx eastern_european_gfx european_gfx }
-
-	opinions = {
-		aukstaitian = kindred
-		curonian = kindred
-		prussian = enemy
-		samogitian = kindred
-		sudovian = kindred
-	}
-
-	culture_groups = {
-		baltic_group
-	}
-}
-baltic_east_american = { #Baltic
-	language = norwegian_dialect
-	
-	color = map_norwegian
-	
-	tags = { baltic_gfx eastern_european_gfx european_gfx }
-
-	opinions = {
-		aukstaitian = kindred
-		curonian = kindred
-		prussian = enemy
-		samogitian = kindred
-		sudovian = kindred
-	}
-
-	culture_groups = {
-		baltic_group
-	}
-}
-baltic_louisianan = { #Baltic
-	language = norwegian_dialect
-	
-	color = map_norwegian
-	
-	tags = { baltic_gfx eastern_european_gfx european_gfx }
-
-	opinions = {
-		aukstaitian = kindred
-		curonian = kindred
-		prussian = enemy
-		samogitian = kindred
-		sudovian = kindred
-	}
-
-	culture_groups = {
-		baltic_group
-	}
-}
-baltic_californian = { #Baltic
-	language = norwegian_dialect
-	
-	color = map_norwegian
-	
-	tags = { baltic_gfx eastern_european_gfx european_gfx }
-
-	opinions = {
-		aukstaitian = kindred
-		curonian = kindred
-		prussian = enemy
-		samogitian = kindred
-		sudovian = kindred
-	}
-
-	culture_groups = {
-		baltic_group
-	}
-}
-baltic_mexican = { #Baltic
-	language = norwegian_dialect
-	
-	color = map_norwegian
-	
-	tags = { baltic_gfx eastern_european_gfx european_gfx }
-
-	opinions = {
-		aukstaitian = kindred
-		curonian = kindred
-		prussian = enemy
-		samogitian = kindred
-		sudovian = kindred
-	}
-
-	culture_groups = {
-		baltic_group
-	}
-}
-baltic_caribbean = { #Baltic
-	language = norwegian_dialect
-	
-	color = map_norwegian
-	
-	tags = { baltic_gfx eastern_european_gfx european_gfx }
-
-	opinions = {
-		aukstaitian = kindred
-		curonian = kindred
-		prussian = enemy
-		samogitian = kindred
-		sudovian = kindred
-	}
-
-	culture_groups = {
-		baltic_group
-	}
-}
-baltic_colombian = { #Baltic
-	language = norwegian_dialect
-	
-	color = map_norwegian
-	
-	tags = { baltic_gfx eastern_european_gfx european_gfx }
-
-	opinions = {
-		aukstaitian = kindred
-		curonian = kindred
-		prussian = enemy
-		samogitian = kindred
-		sudovian = kindred
-	}
-
-	culture_groups = {
-		baltic_group
-	}
-}
-baltic_peruvian = { #Baltic
-	language = norwegian_dialect
-	
-	color = map_norwegian
-	
-	tags = { baltic_gfx eastern_european_gfx european_gfx }
-
-	opinions = {
-		aukstaitian = kindred
-		curonian = kindred
-		prussian = enemy
-		samogitian = kindred
-		sudovian = kindred
-	}
-
-	culture_groups = {
-		baltic_group
-	}
-}
-baltic_la_platan = { #Baltic
-	language = norwegian_dialect
-	
-	color = map_norwegian
-	
-	tags = { baltic_gfx eastern_european_gfx european_gfx }
-
-	opinions = {
-		aukstaitian = kindred
-		curonian = kindred
-		prussian = enemy
-		samogitian = kindred
-		sudovian = kindred
-	}
-
-	culture_groups = {
-		baltic_group
-	}
-}
-baltic_brazilian = { #Baltic
-	language = norwegian_dialect
-	
-	color = map_norwegian
-	
-	tags = { baltic_gfx eastern_european_gfx european_gfx }
-
-	opinions = {
-		aukstaitian = kindred
-		curonian = kindred
-		prussian = enemy
-		samogitian = kindred
-		sudovian = kindred
-	}
-
-	culture_groups = {
-		baltic_group
-	}
-}
-baltic_australian = { #Baltic
-	language = norwegian_dialect
-	
-	color = map_norwegian
-	
-	tags = { baltic_gfx eastern_european_gfx european_gfx }
-
-	opinions = {
-		aukstaitian = kindred
-		curonian = kindred
-		prussian = enemy
-		samogitian = kindred
-		sudovian = kindred
-	}
-
-	culture_groups = {
-		baltic_group
-	}
-}
-baltic_oceanian = { #Baltic
-	language = norwegian_dialect
-	
-	color = map_norwegian
-	
-	tags = { baltic_gfx eastern_european_gfx european_gfx }
-
-	opinions = {
+		pruthenian = kindred
 		aukstaitian = kindred
 		curonian = kindred
 		prussian = enemy

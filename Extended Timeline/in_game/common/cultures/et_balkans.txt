@@ -26,3 +26,41 @@ thracian = {
 		carpathian_group
 	}
 }
+macedonian = {
+	language = bulgarian_language
+	
+	color = rgb{ 36 12 121 }
+	
+	tags = { south_slavic_gfx east_mediterranean_gfx mediterranean_gfx slavic_gfx eastern_european_gfx european_gfx }
+	
+	opinions = {
+	}
+	culture_groups = {
+		slavic_group
+		south_slavic_group
+	}
+}
+pannonian = {
+	language = illyrian_language
+	
+	color = rgb{ 36 212 93 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+illyrian = {
+	language = illyrian_language
+	
+	color = rgb{ 36 112 93 }
+	
+	tags = {}
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}

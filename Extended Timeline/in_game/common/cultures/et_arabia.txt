@@ -9,6 +9,20 @@ nabataean_culture = {
 	opinions = {
 	}
 	culture_groups = {
-		arabian_group
+		arabic_group
 	}		
+}
+
+palestinian = {
+	language = levantine_dialect
+	
+	color = rgb{ 101 80 138 }
+	
+	tags = { levantine_gfx middle_east_gfx }
+	
+	opinions = {
+	}
+	culture_groups = {
+		arabic_group
+	}
 }

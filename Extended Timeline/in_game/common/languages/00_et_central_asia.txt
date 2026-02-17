@@ -147,3 +147,23 @@ parthian_language = {
 	}
 
 }
+
+hunnic_language = {
+
+	color = rgb{ 30 144 93 }
+
+	male_names = {
+		#TODO
+	}
+	female_names = {
+		#TODO
+	}
+	
+	dynasty_names = {
+		#TODO
+	}
+	
+	lowborn = {
+	}
+
+}

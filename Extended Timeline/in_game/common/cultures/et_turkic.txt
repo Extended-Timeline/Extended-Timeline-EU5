@@ -1,0 +1,77 @@
+﻿hunnic = {
+	language = hunnic_language
+	
+	color = rgb{ 30 144 93 }
+	
+	tags = { turkic_gfx persianate_gfx central_asian_gfx middle_east_gfx }
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+khazar = {
+	language = oghuric_language
+	
+	color = rgb{ 134 24 44 }
+	
+	tags = { turkic_gfx persianate_gfx central_asian_gfx middle_east_gfx }
+	
+	opinions = {
+	}
+	culture_groups = {
+		turkic_group
+	}
+}
+pecheneg = {
+	language = turkmen_dialect
+	
+	color = rgb{ 60 189 57 }
+	
+	tags = { turkic_gfx persianate_gfx central_asian_gfx middle_east_gfx }
+	
+	opinions = {
+	}
+	culture_groups = {
+		turkic_group
+	}
+}
+kimek = {
+	language = kipchak_language
+	
+	color = rgb{ 82 67 146 }
+	
+	tags = { turkic_gfx persianate_gfx central_asian_gfx middle_east_gfx }
+	
+	opinions = {
+	}
+	culture_groups = {
+		turkic_group
+	}
+}
+khazak = {
+	language = kipchak_language
+	
+	color = rgb{ 139 172 116 }
+	
+	tags = { turkic_gfx persianate_gfx central_asian_gfx middle_east_gfx }
+	
+	opinions = {
+	}
+	culture_groups = {
+		turkic_group
+	}
+}
+qasim = {
+	language = kipchak_language
+	
+	color = rgb{ 90 117 8 }
+	
+	tags = { turkic_gfx persianate_gfx central_asian_gfx middle_east_gfx }
+	
+	opinions = {
+	}
+	culture_groups = {
+		turkic_group
+	}
+}

@@ -1,0 +1,14 @@
+﻿saurashtri = {
+	language = gujarati_language
+	
+	color = rgb{ 67 10 40 }
+	
+	tags = { indian_gfx }
+	
+	opinions = {
+	}
+	culture_groups = {
+		indian_group
+		indo_aryan_group
+	}
+}

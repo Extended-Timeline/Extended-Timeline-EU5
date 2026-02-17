@@ -2896,6 +2896,34 @@ koshibito = {
 	}
 }
 
+jinhan = { #Peninsular Japonic
+	language = japanese_language
+	
+	color = rgb{ 113 25 53 }
+	
+	tags = { japanese_gfx east_asian_gfx }
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+
+zhangzhung = {
+	language = tibetan_language
+	
+	color = rgb{ 12 18 138 }
+	
+	tags = { tibetan_gfx east_asian_gfx }
+	
+	opinions = {
+	}
+	culture_groups = {
+		tibetan_group
+		tibeto_burman_group
+	}
+}
+
 taiwanese = {
 	language = northern_mandarin_dialect
 	

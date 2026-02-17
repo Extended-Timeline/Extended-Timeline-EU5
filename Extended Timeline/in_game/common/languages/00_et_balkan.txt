@@ -15,7 +15,6 @@ daco_thracian_language = {
 	}
 	
 	dynasty_names = {
-		#TODO
 	}
 	
 	lowborn = {
@@ -35,4 +34,23 @@ daco_thracian_language = {
 		thracian_dialect = {
 		}
 	}
+}
+illyrian_language = {
+
+	color = rgb{ 36 112 93 }
+
+	male_names = {
+		#TODO
+	}
+	female_names = {
+		#TODO
+	}
+	
+	dynasty_names = {
+	}
+	
+	lowborn = {
+		#TODO
+	}
+	
 }

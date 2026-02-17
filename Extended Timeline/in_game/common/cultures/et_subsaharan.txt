@@ -1,0 +1,25 @@
+﻿jukun = {
+	language = jukun_language
+	
+	color = rgb{ 190 198 225 }
+	
+	tags = { bantu_gfx african_gfx }
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}
+bozo = {
+	language = mande_language
+	
+	color = rgb{ 187 151 118 }
+	
+	tags = { mande_gfx african_gfx }
+	
+	opinions = {
+	}
+	culture_groups = {
+		west_african_group
+	}
+}

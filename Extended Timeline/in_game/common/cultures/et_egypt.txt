@@ -11,3 +11,15 @@
 	culture_groups = {
 	}
 }
+old_egyptian = {
+	language = egyptian_language
+	
+	color = rgb{ 159 60 32 }
+	
+	tags = { east_african_gfx african_gfx }
+	
+	opinions = {
+	}
+	culture_groups = {
+	}
+}

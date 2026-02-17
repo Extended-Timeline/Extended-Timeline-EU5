@@ -1,0 +1,15 @@
+﻿aghwan = {
+	language = dagestanian_language
+	
+	color = rgb{ 124 14 149 }
+	
+	tags = { caucasian_gfx east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+
+	}	
+
+	culture_groups = {
+		caucasian_group
+	}	
+}

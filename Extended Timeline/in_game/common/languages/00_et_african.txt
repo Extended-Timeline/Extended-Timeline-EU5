@@ -17,3 +17,43 @@ meroitic_language = {
 	}
 
 }
+
+egyptian_language = {
+
+	color = rgb{ 159 60 32 }
+
+	male_names = {
+		#TODO
+	}
+	female_names = {
+		#TODO
+	}
+	
+	dynasty_names = {
+		#TODO
+	}
+	
+	lowborn = {
+	}
+
+}
+
+jukun_language = {
+
+	color = rgb{ 190 198 225 }
+
+	male_names = {
+		#TODO
+	}
+	female_names = {
+		#TODO
+	}
+	
+	dynasty_names = {
+		#TODO
+	}
+	
+	lowborn = {
+	}
+
+}
